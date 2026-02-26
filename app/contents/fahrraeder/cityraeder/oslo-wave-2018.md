@@ -15,7 +15,7 @@ description: >
      Unser preisgünstigstes Alltagsrad mit Vollausstattung.
 
 specs:
-  - frametype: 'Wave' 
+  - frametype: 'Wave'
   - material-frame: 'Stahl'
   - material-fork: 'Stahl'
   - wheel-size: '622mm'
@@ -26,7 +26,7 @@ specs:
   - lights: 'Trelock Mini LS592 LED, Schalter; AXA Spark m. Standlicht'
   - weight: '17,5 kg'
   - sizes:
-    - '45'  
+    - '45'
     - '48'
     - '53'
   - colors:

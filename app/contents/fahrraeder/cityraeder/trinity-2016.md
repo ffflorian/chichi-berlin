@@ -12,8 +12,8 @@ images:
   - '/media/images/rubrics/bicycles/items/trinity-2018_2.jpg'
 
 description: >
-    Dieses Rad ist nicht nur schnell, leicht, und chic, es ist dabei auch noch superbequem und 
-    lässt Dich nicht im Regen stehen. Falls es doch etwas mehr zu transportieren gibt, ist der Anbau 
+    Dieses Rad ist nicht nur schnell, leicht, und chic, es ist dabei auch noch superbequem und
+    lässt Dich nicht im Regen stehen. Falls es doch etwas mehr zu transportieren gibt, ist der Anbau
     eines Gepäckträgers möglich.
 
 specs:

@@ -27,5 +27,5 @@ specs:
     - 'braun'
     - 'honigbraun'
     - 'weiß'
-    
+
 ---

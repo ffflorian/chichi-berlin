@@ -15,6 +15,6 @@ image: '/media/images/rubrics/parts/items/'
 
 weight: 4
 menu:
-  - aside_parts_tires  
+  - aside_parts_tires
 
 ---

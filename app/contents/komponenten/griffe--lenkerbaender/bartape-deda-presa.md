@@ -16,8 +16,8 @@ images:
   - '/media/images/rubrics/parts/items/cockpit/bartape-deda-presa_6.jpeg'
 
 description: >
-    Presa® ist ein 2-in-1 High-End Band für Supergrip und Komfort. Presa® besteht aus zwei Lagen, 
-    die untere aus EVA und die obere aus perforiertem PU, was sich zu einem Band mit doppelter 
+    Presa® ist ein 2-in-1 High-End Band für Supergrip und Komfort. Presa® besteht aus zwei Lagen,
+    die untere aus EVA und die obere aus perforiertem PU, was sich zu einem Band mit doppelter
     Dichte kombiniert. Passendes Klebeband ist enthalten.
 
 specs:

@@ -23,7 +23,7 @@ description: >
 
 specs:
   - size: '10 - 35 Liter'
-  - colors: 
+  - colors:
     - 'schwarz'
     - 'grau-navy'
 

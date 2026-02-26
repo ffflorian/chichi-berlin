@@ -3,13 +3,13 @@
 linkTitle: 'Service'
 slug: 'service'
 
-title: 'Unser Service' 
+title: 'Unser Service'
 description: 'Werkstatt, Beratung, Inspektion, Versicherung'
 
 menu:
   top:
     weight: 5
-    
+
 heads:
   - 'insurance-fee-calculator'
 
@@ -18,7 +18,7 @@ heads:
 
 ## Werkstatt
 
-{{< figure 
+{{< figure
     class="figure--ihk-seal"
     title="IHK Siegel: Exzellente-Ausbildungsqualität"
     src="/media/images/assets/ihk_exzellente-ausbildungsqualität_2022-09.jpg"

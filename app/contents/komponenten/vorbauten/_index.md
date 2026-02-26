@@ -7,7 +7,7 @@ linkTitle: 'Vorbauten'
 slug: 'vorbauten'
 section: 'stems'
 
-title: 'Vorbauten' 
+title: 'Vorbauten'
 description: 'TODO'
 image: '/media/images/rubrics/parts/items/'
 

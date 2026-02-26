@@ -12,7 +12,7 @@ images:
   - '/media/images/rubrics/bicycles/items/mystic-2016_2.jpg'
 
 description: >
-    Das Mystic ist ein plainer Singlespeeder mit Columbus Carbongabel. Es kommt mit Bremsen, wird 
+    Das Mystic ist ein plainer Singlespeeder mit Columbus Carbongabel. Es kommt mit Bremsen, wird
     dank der FlipFlop Nabe jedoch mit wenigen Handgriffen zum Fixie.
     "Bike of the year" - Ciclismo Magazin
 

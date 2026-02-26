@@ -8,13 +8,13 @@ manufacturer: 'Parktool'
 
 image: '/media/images/rubrics/accessories/items/tool-parktool-fold-ib3_1.png'
 
-images: 
+images:
   - '/media/images/rubrics/accessories/items/tool-parktool-fold-ib3_2.png'
 
 description: >
     Die I-Beam Mini-Faltwerkzeuge im unverwechselbaren Design vereinen die wichtigsten Werkzeugschlüssel für unterwegs auf stabile, kompakte und leichte Art. Von minimalistisch bis umfassend gibt es für jeden Bedarf die passende Version.
 
-specs: 
+specs:
   - features:
     - '1.5, 2, 2.5, 3, 4, 5, 6, & 8 mm Innensechskant'
     - 'T25 Torx® kompatibel'

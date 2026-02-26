@@ -1,5 +1,5 @@
 .component__blog-sidebar {
-    
+
     .go-up {
         color: color(grey-dark);
         font-weight: 300;
@@ -8,16 +8,16 @@
         text-align: center;
         width: 100%;
     }
-    
+
     h4 {
         text-align: center;
         margin-bottom: rem(20);
-    
+
         @include type(l);
         font-weight: 300;
         text-transform: uppercase;
-        
-        
+
+
         span {
             position: relative;
             &:after {
@@ -32,41 +32,41 @@
             }
         }
     }
-    
+
     .news, .tags {
-        @include type(ml);       
-        
+        @include type(ml);
+
         a {
             @include text-link;
         }
     }
 
-    
+
     .news {
         padding: rem(spacing(2));
         background-color: color(grey);
         //border: rem(1) rgba( color(grey-light), 0.2) solid;
     }
-    
+
     .tags {
         margin-top: rem(46);
         text-align: center;
-        
+
         ul {
-            display: inline-block;            
+            display: inline-block;
         }
-        
+
         li {
             text-align: left;
-            
+
             & ~ li {
                 margin-top: rem(6);
             }
-            
+
             &.active {
                 font-weight: 700;
             }
         }
-        
+
     }
 }

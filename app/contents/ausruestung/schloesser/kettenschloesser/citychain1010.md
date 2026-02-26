@@ -14,7 +14,7 @@ description: |
     Empfohlen für die Absicherung hochwertiger Zweiräder
     Je größer das Längenmaß, desto einfacher das Anschließen an einen festen Gegenstand
 
-specs: 
+specs:
   - type: 'Kette'
   - length: '85cm'
   - weight: '1950g'

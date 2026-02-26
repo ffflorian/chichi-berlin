@@ -3,17 +3,17 @@
     position: absolute;
     height: 100%;
     width: 100%;
-    
+
     display: flex;
     flex-flow: column nowrap;
     align-items: stretch;
-        
+
     .menu__wrap {
         position: relative;
         overflow-x: hidden;
         overflow-y: auto;
     }
-    
+
     .menu__level {
         //position: absolute;
         top: 0;
@@ -25,18 +25,18 @@
         padding: 0;
         list-style-type: none;
     }
-    
+
     .menu__level--current {
         visibility: visible;
     }
-    
+
     .menu__item {
         display: block;
         width: calc(100% - #{rem(50)});
-        
+
         font-size: rem(font-size(ml));
     }
-    
+
     .menu__link {
         font-weight: 600;
         position: relative;
@@ -44,7 +44,7 @@
         padding: rem(16) rem(40) rem(16) rem(24);
         color: color(grey-light);
         transition: color 0.15s;
-                
+
         &:hover, &:focus {
             &:before {
                 content: '\00B7';
@@ -58,7 +58,7 @@
             }
         }
     }
-    
+
     .menu__link[data-submenu] {
         &:after {
             content: '\2026';
@@ -68,7 +68,7 @@
             color: color(bg-light);
             opacity: 0.3;
         }
-            
+
         &.menu__link--current {
             &:after {
                 color: color(brand-pink);
@@ -76,31 +76,31 @@
             }
         }
     }
-    
+
     .menu__link:hover,
     .menu__link[data-submenu]:hover::after {
         color: color(brand-pink);
         opacity: 1;
     }
-    
+
     .menu__link--current {
         color: color(brand-pink);
-        
+
         &:after {
             color: color(brand-pink);
         }
     }
-    
+
     [class^='animate-'],
     [class*=' animate-'] {
         visibility: visible;
     }
-    
+
     .animate-outToRight .menu__item {
         -webkit-animation: outToRight 0.6s both cubic-bezier(0.7, 0, 0.3, 1);
         animation: outToRight 0.6s both cubic-bezier(0.7, 0, 0.3, 1);
     }
-    
+
     @-webkit-keyframes outToRight {
         to {
             opacity: 0;
@@ -108,7 +108,7 @@
             transform: translate3d(100%, 0, 0);
         }
     }
-    
+
     @keyframes outToRight {
         to {
             opacity: 0;
@@ -116,12 +116,12 @@
             transform: translate3d(100%, 0, 0);
         }
     }
-    
+
     .animate-outToLeft .menu__item {
         -webkit-animation: outToLeft 0.6s both cubic-bezier(0.7, 0, 0.3, 1);
         animation: outToLeft 0.6s both cubic-bezier(0.7, 0, 0.3, 1);
     }
-    
+
     @-webkit-keyframes outToLeft {
         to {
             opacity: 0;
@@ -129,7 +129,7 @@
             transform: translate3d(-100%, 0, 0);
         }
     }
-    
+
     @keyframes outToLeft {
         to {
             opacity: 0;
@@ -137,12 +137,12 @@
             transform: translate3d(-100%, 0, 0);
         }
     }
-    
+
     .animate-inFromLeft .menu__item {
         -webkit-animation: inFromLeft 0.6s both cubic-bezier(0.7, 0, 0.3, 1);
         animation: inFromLeft 0.6s both cubic-bezier(0.7, 0, 0.3, 1);
     }
-    
+
     @-webkit-keyframes inFromLeft {
         from {
             opacity: 0;
@@ -155,7 +155,7 @@
             transform: translate3d(0, 0, 0);
         }
     }
-    
+
     @keyframes inFromLeft {
         from {
             opacity: 0;
@@ -168,12 +168,12 @@
             transform: translate3d(0, 0, 0);
         }
     }
-    
+
     .animate-inFromRight .menu__item {
         -webkit-animation: inFromRight 0.6s both cubic-bezier(0.7, 0, 0.3, 1);
         animation: inFromRight 0.6s both cubic-bezier(0.7, 0, 0.3, 1);
     }
-    
+
     @-webkit-keyframes inFromRight {
         from {
             opacity: 0;
@@ -186,7 +186,7 @@
             transform: translate3d(0, 0, 0);
         }
     }
-    
+
     @keyframes inFromRight {
         from {
             opacity: 0;
@@ -199,7 +199,7 @@
             transform: translate3d(0, 0, 0);
         }
     }
-    
+
     .menu__breadcrumbs {
         font-size: rem(font-size(xm));
         line-height: 1;
@@ -213,7 +213,7 @@
         li {
             display: inline;
         }
-        
+
         a {
             display: inline-block;
             cursor: pointer;
@@ -227,9 +227,9 @@
                 color: color(grey-light);
                 opacity: 0.8;
                 text-decoration: underline;
-                
+
                 &:not(.is-root):before {
-                    opacity: 0.8;    
+                    opacity: 0.8;
                 }
             }
 
@@ -243,7 +243,7 @@
         }
 
     }
-    
+
     .menu__back {
         font-size: rem(16.8);
         position: absolute;
@@ -257,21 +257,21 @@
         border: none;
         background: none;
     }
-    
+
     .menu__back--hidden {
         pointer-events: none;
         opacity: 0;
     }
-    
+
     .menu__back:hover,
     .menu__back:focus {
         color: #fff;
         outline: none;
     }
-    
-    
+
+
     /* Open and close buttons */
-    
+
     .action {
         position: absolute;
         display: block;
@@ -281,11 +281,11 @@
         border: none;
         background: none;
     }
-    
+
     .action:focus {
         outline: none;
     }
-    
+
     .action--open {
         font-size: rem(24);
         top: rem(24);
@@ -295,7 +295,7 @@
         position: fixed;
         z-index: 1000;
     }
-    
+
     .action--close {
         font-size: rem(17.6);
         top: rem(22);
@@ -303,7 +303,7 @@
         display: none;
         color: #45464e;
     }
-    
+
 }
 
 

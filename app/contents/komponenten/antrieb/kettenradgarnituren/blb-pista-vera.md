@@ -14,7 +14,7 @@ images:
   - '/media/images/rubrics/parts/items/drive/crankset-blb-pista-vera_4.jpeg'
 
 description:
-    Elegant und klassisch gestaltete Kettenradgarnitur. Geriffelte Kurbelarme und blumenförmiger 
+    Elegant und klassisch gestaltete Kettenradgarnitur. Geriffelte Kurbelarme und blumenförmiger
     Kettenring.
 
 specs:
@@ -24,7 +24,7 @@ specs:
   - chain-fit: '1/8"'
   - bcd: '130 mm'
   - teeth: '46 T'
-  - colors: 
+  - colors:
     - 'schwarz'
     - 'blau'
     - 'rot'

@@ -21,8 +21,8 @@ images:
 
 description: >
     Alle Komponenten sind einzeln erhältlich, sodaß Du individuell nachrüsten kannst und nur das bezahlst, was Du wirklich brauchst.
-    
-specs: 
+
+specs:
   - type: 'Schraubensicherung'
 
 ---

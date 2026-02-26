@@ -22,13 +22,13 @@ images:
   - '/media/images/rubrics/parts/items/seats/saddle-blb-fly_12.jpeg'
 
 description: >
-    Der Fly passt durch seine elegante, klassische Form und die unglaubliche Farvielfalt zu beinahe 
+    Der Fly passt durch seine elegante, klassische Form und die unglaubliche Farvielfalt zu beinahe
     jedem Projekt. Dabei ist er preiswert und hat ein Gewicht 307g.
-    
-specs: 
+
+specs:
   - type: 'Renn'
   - weight: '307g'
-  - colors: 
+  - colors:
     - 'schwarz'
     - 'blau'
     - 'braun'

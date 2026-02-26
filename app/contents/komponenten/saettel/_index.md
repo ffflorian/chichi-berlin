@@ -7,7 +7,7 @@ linkTitle: 'Sättel'
 slug: 'saettel'
 section: 'saddles'
 
-title: 'Sättel' 
+title: 'Sättel'
 description: 'TODO'
 image: '/media/images/rubrics/parts/items/seats/saddle-blb-mosquito-race-ultra_04.jpeg'
 

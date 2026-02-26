@@ -8,16 +8,16 @@ manufacturer: 'Cinelli'
 
 image: '/media/images/rubrics/accessories/items/caps-cinelli-2014-columbus-multitag_1.jpg'
 
-images: 
+images:
   - '/media/images/rubrics/accessories/items/caps-cinelli-2014-columbus-multitag_2.jpg'
   - '/media/images/rubrics/accessories/items/caps-cinelli-2014-columbus-multitag_3.jpg'
 
 
 description: >
-    
-    
+
+
 specs:
   - material: '100% Baumwolle'
   - season: '2014'
-    
+
 ---

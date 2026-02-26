@@ -16,7 +16,7 @@ images:
 description: >
     Durch den hellen nachtönenden Klang ist die Glocke auch in regem Verkehr bestens zu hören. Sie passt dank der schlichten Eleganz bestens zu klassischen und puristischen Rädern.
 
-specs: 
+specs:
   - materials: 'Messing; alle anderen Bauteile ebenfalls aus Metall'
   - clamp-size: 'passt an alle Lenker'
 

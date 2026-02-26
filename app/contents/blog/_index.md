@@ -17,8 +17,8 @@ menu:
   top:
     weight: 6
 
-outputs: 
+outputs:
   - html
   - rss
-  
+
 ---

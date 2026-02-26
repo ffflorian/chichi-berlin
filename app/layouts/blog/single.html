@@ -6,36 +6,36 @@
 
 
 <section class="edge-spacer--h">
-    
+
     <h1 class="page-title">{{ .Title | safeHTML }}</h1>
     {{ with $.Params.subtitle | default (printf "%02d.%02d.%d" .PublishDate.Day .PublishDate.Month .PublishDate.Year) }}
     <p class="page-subtitle">{{ . }}</p>
     {{ end }}
-    
+
     <div class="row-2-cols">
         <article class="col--left">
             <div class="post--content">
                 {{ .Content}}
             </div>
-            
+
             <nav class="component__post-nav">
                 {{ with .PrevInSection }}
-                <span class="prev">                    
+                <span class="prev">
                     <a href="{{ .Permalink | relLangURL }}">← <span>{{ truncate 25 "..." ( .LinkTitle | safeHTML ) }}</span></a>
-                </span>                
+                </span>
                 {{ end }}
-    
+
                 {{ with .NextInSection }}
                 <span class="next">
                     <a href="{{ .Permalink | relLangURL }}"><span>{{ truncate 25 "..." ( .LinkTitle | safeHTML ) }}</span> →</a>
                 </span>
                 {{ end }}
             </nav>
-            
+
         </article>
-        
+
         {{ partial "components/blog-sidebar.html" . }}
     </div>
-    
+
 </section>
 {{ end }}

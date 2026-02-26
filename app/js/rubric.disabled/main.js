@@ -11,7 +11,7 @@ import selectors from './initializations.js';
 function main(){
 
     initialize( selectors );
-    
+
 }
 
 

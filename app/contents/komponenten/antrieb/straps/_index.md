@@ -13,6 +13,6 @@ image: '/media/images/rubrics/parts/items/drive/straps-veganski-freestylepedal_0
 
 weight: 6
 menu:
-  - aside_parts_engine  
+  - aside_parts_engine
 
 ---

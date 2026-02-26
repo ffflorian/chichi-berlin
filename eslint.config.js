@@ -569,7 +569,7 @@ export default [
                     allowObjectEnd: true,
                     allowArrayStart: true,
                     allowArrayEnd: true,
-            
+
                 }
             ],
             'max-depth': [ 2, 6 ],
@@ -577,7 +577,7 @@ export default [
                 2,
                 {
                     code: 100,
-                    // comment: eq code 
+                    // comment: eq code
                     tabWidth: 4,
                     ignoreComments: false,
                     ignoreTrailingComments: false,

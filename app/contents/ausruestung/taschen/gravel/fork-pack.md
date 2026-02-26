@@ -38,7 +38,7 @@ description: |
     + Innenversteifung
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Einzeltasche'
   - width: '16,5 cm'

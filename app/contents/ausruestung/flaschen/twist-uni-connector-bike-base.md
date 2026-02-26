@@ -8,7 +8,7 @@ manufacturer: 'Fidlock'
 
 image: '/media/images/rubrics/accessories/items/bottle-fidlock-twist-uni-connector-bike-base_01.jpg'
 
-images: 
+images:
   - '/media/images/rubrics/accessories/items/bottle-fidlock-twist-uni-connector-bike-base_02.jpg'
 
 description: |
@@ -16,11 +16,11 @@ description: |
 
     __Super Features:__
 
-    + passt an jede PET-Flasche 
-    + einfache Befestigung dank Boa® Fit System 
-    + passend für Flaschendurchmesser bis 80 mm 
-    + Anti-Rutsch-Einlage für festen Halt 
-    + kompatibel mit allen TWIST bases 
+    + passt an jede PET-Flasche
+    + einfache Befestigung dank Boa® Fit System
+    + passend für Flaschendurchmesser bis 80 mm
+    + Anti-Rutsch-Einlage für festen Halt
+    + kompatibel mit allen TWIST bases
 specs:
   - type: 'Set (connector mit base)'
   - width: '69 mm'

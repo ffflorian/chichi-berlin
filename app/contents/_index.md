@@ -8,7 +8,7 @@ keywords:
  - 'Fahrräder'
  - 'Ersatzteile'
  - 'Reparatur'
- - 'Werkstatt' 
+ - 'Werkstatt'
 
 key-visual-url: '/media/images/pictures/key-visual_landing-page_v2.jpg'
 scroll-offset-coordinate: 'viewport'
@@ -25,7 +25,7 @@ offers:
     image: '/media/images/offers/bell-star-pro-shield-16.jpg'
     description: >
       Wir haben vereinzelt Helme, die nicht oft gekauft werden. Damit sie nicht überlagert werden und noch jemand Freude daran hat, verkaufen wir diese reduziert, z.B. den Star Pro Shield 16 von Bell. Hier findet ihr einen Testbericht: https://www.bike-components.de/blog/testen/im-test-bell-star-pro-aero-helm/
-  
+
   - headline: 'Sparangebot Gebrauchtrad + Schloß'
     image: '/media/images/offers/chichi-design-3gangkette_1.jpg'
     description: >

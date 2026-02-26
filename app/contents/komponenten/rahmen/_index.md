@@ -7,7 +7,7 @@ linkTitle: 'Rahmen'
 slug: 'rahmen'
 section: 'frames'
 
-title: 'Rahmen' 
+title: 'Rahmen'
 description: 'TODO'
 image: '/media/images/rubrics/parts/items/frames/bombtrack-oxbridge-2014.jpg'
 

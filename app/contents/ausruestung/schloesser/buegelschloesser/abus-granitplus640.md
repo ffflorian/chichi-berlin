@@ -17,7 +17,7 @@ description: |
     Empfohlen für die Absicherung hochwertiger Zweiräder
     Leichtes Kurierschloss
 
-specs: 
+specs:
   - type: 'Bügel'
   - breadth: '83mm'
   - weight: '860g'

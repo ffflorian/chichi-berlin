@@ -3,7 +3,7 @@
 linkTitle: 'Hersteller'
 slug: 'hersteller'
 
-title: 'Hersteller' 
+title: 'Hersteller'
 description: 'TODO'
 
 menu:

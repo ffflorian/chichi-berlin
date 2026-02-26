@@ -1,6 +1,6 @@
 
 .header__container {
-        
+
     .header__inner {
         position: relative;
 
@@ -53,19 +53,19 @@
             width: 100%;
             transition: background-color 0.15s;
             background-color: none;
-        
+
             @include flex-center;
         }
     }
-    
-    
+
+
     .row-wrap__contacts {
         width: 100%;
         transition: background-color 0.15s;
-        
+
         @include flex-center;
-    } 
-    
+    }
+
     .row-wrap__contacts {
         height: $mobile_header-height_row-thin_rel * 1vh;
         min-height: rem($mobile_header-height_row-thin);
@@ -78,11 +78,11 @@
             min-height: rem($desktop_header-height_row-thin);
             padding: 0;
         }
-                
+
         .row-wrap__contacts--inner {
             width: 100%;
         }
-        
+
         .contact {
             width: 100%;
             //max-width: rem(1060);
@@ -96,21 +96,21 @@
                 justify-content: space-between;
                 margin: rem(23) 0;
             }
-            
+
             & > *:first-child {
                 font-weight: 700;
             }
-            
+
             @include type(m);
-            
+
             address {
                 display: inline;
             }
-            
+
             * {
                 font-weight: inherit;
             }
-            
+
             li {
                 display: flex;
                 flex-flow: row nowrap;
@@ -123,7 +123,7 @@
                     padding: 0 rem(4);
                 }
             }
-            
+
             .icon {
                 fill: color(white);
                 height: rem(16);
@@ -131,27 +131,27 @@
             }
         }
     }
-    
+
     .row-wrap__nav {
         height: $desktop_header-height_row-thick_rel * 1vh;
         min-height: rem($desktop_header-height_row-thick);
-        
+
         background-color: color(brand-pink);
         color: color(white);
-        
+
         @include bp-medium() {
             height: rem($desktop_header-height_row-thick);
             background-color: color(brand-pink);
         }
     }
-    
 
-    
+
+
     &[data-offset="0"] {
         .row-wrap__contacts {
             background-color: color(bg-dark);
         }
-        
+
         .row-wrap__nav {
             background-color: color(brand-pink);
         }
@@ -160,12 +160,12 @@
 
 
 #site[data-state_header="changed"] {
-    
+
     .header__inner {
         .row-wrap__contacts {
-            
+
         }
-        
+
         .row-wrap__nav {
             background-color: rgba( color(brand-pink), 0.8 );
         }

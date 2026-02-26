@@ -22,14 +22,14 @@ images:
   - '/media/images/rubrics/parts/items/seats/saddle-blb-mosquito-race-ultra_12.jpeg'
 
 description: >
-    Hergestellt aus qualitativ hochwertigem Echtleder mit polierten Cro-Mo Sattelstreben, bietet der 
-    Mosquito Race Ultra Komfort bei einem unschlagbar günstigem Preis für einen echten Ledersattel. 
-    Dieser Sattel ist in vier klassischen Farben erhältlich und passt dadurch zu dem Echtleder 
-    Lenkerband von BLB. Der Mosquito Race-Ultra zeichnet sich durch seine anatomische Form aus. Die 
-    Aussparung sorgt für zusätzliche Bequemlichkeit, Luftzirkulation und ein geringes Gewicht. Es 
+    Hergestellt aus qualitativ hochwertigem Echtleder mit polierten Cro-Mo Sattelstreben, bietet der
+    Mosquito Race Ultra Komfort bei einem unschlagbar günstigem Preis für einen echten Ledersattel.
+    Dieser Sattel ist in vier klassischen Farben erhältlich und passt dadurch zu dem Echtleder
+    Lenkerband von BLB. Der Mosquito Race-Ultra zeichnet sich durch seine anatomische Form aus. Die
+    Aussparung sorgt für zusätzliche Bequemlichkeit, Luftzirkulation und ein geringes Gewicht. Es
     sind Werkzeuge zur Befestigung im Lieferumfang enthalten (Spanner und passender Inbus-Schlüssel).
-    
-specs: 
+
+specs:
   - type: 'Renn'
   - material: 'Echtleder'
   - weight: '519g'

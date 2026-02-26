@@ -11,7 +11,7 @@ image: '/media/images/rubrics/accessories/items/tool-parktool-satz-ringmaulschlu
 description: >
     Dieselbe solide Qualität wie das Ringmaulschlüssel-Set, jedoch mit 2-Wege Ratschen bestückt.
 
-specs: 
+specs:
   - sizes:
     - '6'
     - '7'

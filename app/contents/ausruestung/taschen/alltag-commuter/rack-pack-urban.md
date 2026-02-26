@@ -28,7 +28,7 @@ description: |
     Lieferumfang: Tasche mit Schultertragegurt
 
     __Super Features:__
-    
+
     + PVC-frei
     + perfekt als Tasche für den Kurzurlaub, den Sport nach der Arbeit oder die Uni
     + robustes, PU-beschichtetes Cordura-Mischgewebe mit angenehmer Haptik

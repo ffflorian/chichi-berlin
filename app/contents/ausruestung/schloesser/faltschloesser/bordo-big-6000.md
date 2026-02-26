@@ -17,7 +17,7 @@ description: |
     Guter Schutz bei mittlerem Diebstahlrisiko
     Empfohlen für die Absicherung guter Zweiräder
 
-specs: 
+specs:
   - type: 'Falt'
   - length: '120cm'
   - weight: '1400g'

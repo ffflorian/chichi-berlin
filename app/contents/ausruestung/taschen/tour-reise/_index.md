@@ -13,6 +13,6 @@ image: '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic
 
 weight: 1
 menu:
-  - aside_accessories_bags  
+  - aside_accessories_bags
 
 ---

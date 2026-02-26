@@ -15,14 +15,14 @@ images:
   - '/media/images/rubrics/parts/items/seats/saddle-blb-stealth_5.jpeg'
 
 description: >
-    Die optimierte Schaumdichte des Stealth hilft Druck zu reduzieren. Verchromte Sattelstreben 
+    Die optimierte Schaumdichte des Stealth hilft Druck zu reduzieren. Verchromte Sattelstreben
     kombinieren Steifigkeit und Komfort wodurch dieser Sattel vielseitig einsetzbar ist, bei einem
     Gewicht von nur 233 Gramm.
-    
-specs: 
+
+specs:
   - type: 'Renn'
   - weight: '233g'
-  - colors: 
+  - colors:
     - 'carbon look'
     - 'matt schwarz'
 

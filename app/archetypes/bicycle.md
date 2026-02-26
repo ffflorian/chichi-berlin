@@ -15,7 +15,7 @@ description: >
 configurable: true
 related-posts:
   - 'BLOG_POST_FILE_NAME_WITHOUT_EXTENSION'
-  
+
 copyright: 'copyleft note'
 
 specs:
@@ -38,7 +38,7 @@ specs:
   - tyres:
   - brakes:
   - brake-levers:
-  - shifter: 
+  - shifter:
   - derailleurs:
   - seatpost:
   - saddle:

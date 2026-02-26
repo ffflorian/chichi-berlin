@@ -15,7 +15,7 @@ images:
 description: >
     Die Gelegenheit, günstig an eine schlichte Glocke mit Spiralfeder zu kommen.
 
-specs: 
+specs:
   - materials: 'Kunststoff und Metall'
   - clamp-size: '22,2 – 25,4mm'
 

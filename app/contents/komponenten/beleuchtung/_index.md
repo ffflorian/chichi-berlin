@@ -7,7 +7,7 @@ linkTitle: 'Beleuchtung'
 slug: 'beleuchtung'
 section: 'light'
 
-title: 'Beleuchtung' 
+title: 'Beleuchtung'
 description: 'TODO'
 image: '/media/images/rubrics/parts/items/'
 

@@ -13,7 +13,7 @@ description: >
 
 specs:
   - length: '116 Links'
-  - width: '1/2 x 1/8”' 
+  - width: '1/2 x 1/8”'
   - color: 'silber'
-    
+
 ---

@@ -18,7 +18,7 @@ description: >
     Verstärktes Hochsicherheits-Scheibenzylinderschloss gegen Picking und Aufbohren gesichert.
     Evolution Series 4 Verschlusskopf
 
-specs: 
+specs:
   - type: 'Kette'
   - lenght: '90 cm'
   - weight: '2,77 kg'

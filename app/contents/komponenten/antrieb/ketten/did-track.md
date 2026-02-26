@@ -8,7 +8,7 @@ manufacturer: 'D.I.D'
 
 image: '/media/images/rubrics/parts/items/drive/chain-did-track_1'
 
-images: 
+images:
   - '/media/images/rubrics/parts/items/drive/chain-did-track_2'
 
 description: >
@@ -16,9 +16,9 @@ description: >
 
 specs:
   - length: '116 Links'
-  - width: '1/8”' 
+  - width: '1/8”'
   - colors:
     - 'schwarz'
     - 'silber'
-    
+
 ---

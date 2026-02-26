@@ -18,7 +18,7 @@ description: |
     Guter Schutz bei niedrigem Diebstahlrisiko
     Empfohlen für die Absicherung günstiger Zweiräder und Kinderräder
 
-specs: 
+specs:
   - type: 'Kabel'
   - length: '85cm'
   - weight: '460g'

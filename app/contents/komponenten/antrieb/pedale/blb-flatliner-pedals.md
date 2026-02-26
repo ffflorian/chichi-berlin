@@ -13,7 +13,7 @@ images:
   - '/media/images/rubrics/parts/items/drive/pedals-blb-flatliner_3.jpeg'
 
 description: >
-    Ultra haltbare und leichtgewichtige Freestyle-Pedale aus Aluminium. Versiegelte Lager, 
+    Ultra haltbare und leichtgewichtige Freestyle-Pedale aus Aluminium. Versiegelte Lager,
     austauschbare Pins.
 
 specs:

@@ -12,7 +12,7 @@ images:
   - '/media/images/rubrics/parts/items/cockpit/bartape-pro-cork_2.jpeg'
 
 description: >
-    Dieses korkartige Lenkerband bietet exzellenten Grip und mildert Erschütterungen. Es ist 
+    Dieses korkartige Lenkerband bietet exzellenten Grip und mildert Erschütterungen. Es ist
     beständig und leicht.
     Die Packung beinhaltet 2 Rollen Lenkerband, 2 Lenkerendstopfen, 2 Klebestreifen
 

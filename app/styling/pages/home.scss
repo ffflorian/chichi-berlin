@@ -1,39 +1,39 @@
 .page--home {
-    
+
     .contents {
-        
+
         & > section, & > section ~ section {
             margin-top: rem($headline-section-gap);
         }
-        
+
         &:before {
             height: percentageDesktopPageHeight($desktop_header-height_row-thin);
             min-height: rem($desktop_header-height_row-thin);
         }
     }
-    
+
     .key-visual {
         width: 100%;
         height: calc(100svh - #{rem($desktop_header-height_row-thin)});
-        
+
         background-repeat: no-repeat;
         background-size: cover;
-        
+
         position: relative;
-        
+
         @include flex-center;
     }
-    
+
     .logo__white {
         min-height: rem(380);
         height: 42.2vh;
-        
+
         width: 100%;
         text-align: center;
-        
+
         padding-left: rem($mobile_side-padding * 2);
         padding-right: rem($mobile_side-padding * 2);
-        
+
         svg {
             display: inline;
             height: 100%;
@@ -41,19 +41,19 @@
             fill: color(white);
         }
     }
-    
-    
+
+
     .section-title {
         text-align: center;
         margin: rem(spacing(2)) auto;
-        
+
         max-width: 80%;
         font-weight: bold;
 
         @include bp-medium() {
             margin: rem(spacing(4)) auto rem(spacing(3));
         }
-        
+
         & + :not(.subtitle) {
             margin-top: rem(spacing(4));
             @include bp-medium() {
@@ -61,64 +61,64 @@
             }
         }
     }
-    
+
     .post-teasers {
         padding-left: 0 !important;
-        
+
         @include bp-medium() {
             display: flex;
             flex-flow: row nowrap;
             gap: rem(spacing(4));
         }
-        
+
         .post-teaser {
             list-style: none;
             margin-top: 0;
-            
+
             .content-preview {
                 overflow: hidden;
                 max-height: rem(240);
             }
         }
-        
+
         & > * {
             min-width: 30%;
             max-width: 100%;
             flex-grow: 3;
         }
-        
+
         nav {
             padding: rem(spacing(3)) rem(spacing(2)) rem(spacing(1));
         }
     }
-    
-    
+
+
     .special-offers {
         padding: 0 rem(spacing(3));
         margin: 0;
-        
-        
+
+
         li {
             list-style: none;
-            
+
             & ~ * {
                 margin-top: rem(spacing(8));
             }
-            
+
             &:nth-of-type(2n) .component__special-offer {
                 & > * {
                     &:first-child {
                         order: 2;
                         padding-left: rem(spacing(3));
                     }
-                    
+
                     &:last-child {
                         order: 1;
                         padding-right: rem(spacing(3));
-                    }   
+                    }
                 }
             }
         }
-        
+
     }
 }

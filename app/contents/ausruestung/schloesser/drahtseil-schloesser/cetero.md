@@ -13,7 +13,7 @@ description: |
     Guter Schutz bei mittlerem Diebstahlrisiko
     Empfohlen für die Absicherung guter Zweiräder
 
-specs: 
+specs:
   - type: 'Kabel'
   - length: '100cm'
   - weight: '1140g'

@@ -13,6 +13,6 @@ image: '/media/images/rubrics/accessories/items/carry-saddle-bag-dry-bag_1.jpeg'
 
 weight: 4
 menu:
-  - aside_accessories_bags  
+  - aside_accessories_bags
 
 ---

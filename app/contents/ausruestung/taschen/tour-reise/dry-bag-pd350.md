@@ -29,7 +29,7 @@ description: |
     + innen leicht zu reinigen
 
 specs:
-  - colors: 
+  - colors:
     - 'slate - black'
     - 'cranberry - signal red'
   - bag type: 'Einzeltasche'

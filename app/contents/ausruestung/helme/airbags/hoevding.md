@@ -8,7 +8,7 @@ manufacturer: 'Hövding'
 
 image: '/media/images/rubrics/accessories/items/helmet-hoevding-opened-and-closed.jpg'
 
-images: 
+images:
   - '/media/images/rubrics/accessories/items/helmet-hoevding-car-accident.jpg'
   - '/media/images/rubrics/accessories/items/helmet-hoevding_01.jpg'
 
@@ -20,5 +20,5 @@ description: |
 
 specs:
   - model: 'Hövding 3.0'
-    
+
 ---

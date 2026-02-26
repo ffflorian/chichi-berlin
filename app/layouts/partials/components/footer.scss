@@ -2,11 +2,11 @@
 
 .footer-nav {
     position: relative;
-    
+
     height: $desktop_footer-height_rel * 1vh;
     max-height: rem($desktop_footer-height_max);
     width: 100%;
-    
+
     .footer-nav-wrap {
         position: absolute;
         width: 100%;
@@ -23,7 +23,7 @@
             height: auto;
         }
     }
-    
+
     .footer-nav--inner {
         @include flex-center;
         height: 100%;

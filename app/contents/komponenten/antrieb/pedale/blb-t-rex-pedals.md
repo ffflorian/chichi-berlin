@@ -20,8 +20,8 @@ images:
   - '/media/images/rubrics/parts/items/drive/pedals-blb-t-rex_10.jpeg'
 
 description: >
-    Kostengünstige Kunststoffpedale im breiten BMX-Stil, geeignet für Freestyle. Kompatibel mit 
-    allen Arten von Foot Retention Systemen, passen sie perfekt zum BLB Lockdown Freestyle Strap 
+    Kostengünstige Kunststoffpedale im breiten BMX-Stil, geeignet für Freestyle. Kompatibel mit
+    allen Arten von Foot Retention Systemen, passen sie perfekt zum BLB Lockdown Freestyle Strap
     System.
 
 specs:

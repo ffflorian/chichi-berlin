@@ -8,7 +8,7 @@ manufacturer: 'Fidlock'
 
 image: '/media/images/rubrics/accessories/items/bottle-fidlock-twist-bike-base-adapter_01.jpg'
 
-images: 
+images:
   - '/media/images/rubrics/accessories/items/bottle-fidlock-twist-bike-base-adapter_02.jpg'
 
 description: |
@@ -16,11 +16,11 @@ description: |
 
     __Super Features:__
 
-    + Schiene zum Verschieben der TWIST bike base 
-    + zur Montage zwischen Fahrradrahmen und TWIST bike base und den Gewindeösen 
+    + Schiene zum Verschieben der TWIST bike base
+    + zur Montage zwischen Fahrradrahmen und TWIST bike base und den Gewindeösen
     + gewinnt je Richtung zusätzliche 26,5 mm Platz
     + inklusive vier Monatgeschrauben
-    + Aluminium, schwarz eloxiert 
+    + Aluminium, schwarz eloxiert
 
 specs:
   - type: 'Längenadapter'

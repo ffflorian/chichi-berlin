@@ -26,5 +26,5 @@ specs:
   - colors:
     - 'schwarz'
     - 'silber'
-    
+
 ---

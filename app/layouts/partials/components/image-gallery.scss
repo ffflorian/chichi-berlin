@@ -3,44 +3,44 @@
     $viewport-height-desktop: 520;
     $viewport-height-mobile: 300;
     $controls-height: 100;
-    
+
     .viewport {
 
-        // NOTE: html/style defaults to stacking images in viewport under each other. Only 
+        // NOTE: html/style defaults to stacking images in viewport under each other. Only
         // after a moment, slick logic kicks in and puts them in a row. Since it's async, it's not
-        // ensured, that this will happen before page scroll event, responsible for showing footer, 
-        // has determined overall page height. Eventually this causes the footer not being displayed 
+        // ensured, that this will happen before page scroll event, responsible for showing footer,
+        // has determined overall page height. Eventually this causes the footer not being displayed
         // properly when reaching the end of the page.
         // The following rule ensures this, because viewport height is equal to the height of its
         // containing items
         height: rem($viewport-height-mobile);
         margin-left: rem(spacing(3));
-        
+
         @include bp-medium() {
             height: rem($viewport-height-desktop);
             margin: 0;
         }
-        
+
         .item {
             height: rem($viewport-height-mobile);
             padding: rem(8);
-        
+
             @include bp-medium() {
                 height: rem($viewport-height-desktop);
             }
         }
-        
+
         opacity: 0;
         transition: opacity 0.2s;
         &.slick-initialized {
             opacity: 1;
         }
     }
-    
+
     .controls {
         max-width: 80%;
         margin: rem(spacing(3)) auto 0;
-        
+
         height: rem($controls-height);
 
         @include bp-medium() {
@@ -61,67 +61,67 @@
             height: rem($controls-height);
             background-color: color(white);
             cursor: pointer;
-            
+
             &:focus {
                 outline: none;
             }
-            
+
             & ~ * {
                 margin-left: rem(10);
             }
         }
-        
+
         opacity: 0;
         transition: opacity 0.2s;
         &.slick-initialized {
-            opacity: 1;    
+            opacity: 1;
         }
     }
-    
-    
+
+
     .item {
         @include flex-center;
         overflow: hidden;
-        
+
         & > * {
             max-width: 100%;
             max-height: 100%;
         }
     }
-    
-    
+
+
     .slick-prev, .slick-next {
         height: 100%;
         opacity: 0.2;
         background-color: color(grey-light);
         transition: all 0.2s;
-        
+
         &:before {
             color: color(grey-dark);
             font-weight: 600;
             opacity: 1.0;
             font-size: rem(16);
-            
+
             transition: all 0.2s;
         }
-        
+
         &.slick-disabled {
             height: 0;
-            
+
             &:before {
-                opacity: 0;         
-            }            
+                opacity: 0;
+            }
         }
-        
+
         &:hover, &:focus {
             opacity: 0.5;
-            
+
             &:before {
                 color: color(white);
             }
         }
     }
-    
+
     .slick-prev {
         &:before {
             content: '<';
@@ -132,8 +132,8 @@
             content: '>';
         }
     }
-     
-    
+
+
     .slick-dots li button::before {
         font-size: rem(16);
     }

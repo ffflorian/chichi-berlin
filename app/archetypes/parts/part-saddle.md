@@ -9,9 +9,9 @@ manufacturer: 'Selle Italia'
 image: '/media/images/rubrics/parts/items/'
 
 description: >
-    
-specs: 
-  - type: 
+
+specs:
+  - type:
   - material:
   - breadth:
   - lenght;

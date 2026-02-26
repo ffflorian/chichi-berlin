@@ -37,7 +37,7 @@ description: |
     + geeignet für Ordner im DIN A4-Format
 
 specs:
-  - colors: 
+  - colors:
     - 'black'
     - 'petrol'
     - 'rooibos'

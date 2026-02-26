@@ -26,25 +26,25 @@
 {{ $posts := $.Param "related-posts" | default slice }}
 
 <section class="edge-spacer--h">
-    
+
     <h1 class="page-title">{{ $.Params.model }}</h1>
     {{ with $.Params.manufacturer }}
     <p class="page-subtitle">{{ . }}</p>
     {{ end }}
-    
-    
+
+
     <div class="row">
-        
+
         {{ partial "components/image-gallery.html" . }}
-        
+
     </div>
-    
-    
+
+
     <div class="description">
         <p>
             {{ index .Params "description" | default (i18n "no-description") | markdownify }}
         </p>
-        
+
         {{ if gt (len $posts) 0 }}
         <div class="post-links">
             <span>{{ i18n "related-posts" }}:</span>
@@ -61,8 +61,8 @@
         </div>
         {{ end }}
     </div>
-    
-    
+
+
     {{ if $configurable }}
     <div class="configurator-link">
         <a href="https://hartje-konfigurator.de/de/contoura" target="_blank">
@@ -70,13 +70,13 @@
         </a>
     </div>
     {{ end }}
-    
-    
+
+
     {{ $specsList := $.Params.specs }}
     {{ if $specsList }}
-    
+
     {{ $.Scratch.Add "specs" slice }}
-    
+
     {{ range $specsList }}
     {{ $spec := . }}
     {{ range $specName, $value := $spec }}
@@ -85,12 +85,12 @@
         {{ end }}
     {{ end }}
     {{ end }}
-    
-    {{ $specs := $.Scratch.Get "specs" }}    
+
+    {{ $specs := $.Scratch.Get "specs" }}
     {{ div (len $specs) 2.0 | $.Scratch.Set "splitPoint" }}
-    
+
     {{ if not (modBool (len $specs) 2) }}
-        {{ $.Scratch.Get "splitPoint" | math.Ceil | $.Scratch.Set "splitPoint" }} 
+        {{ $.Scratch.Get "splitPoint" | math.Ceil | $.Scratch.Set "splitPoint" }}
     {{ end }}
     {{ if eq (len $specs) 1 }}
         {{ $.Scratch.Set "splitPoint" 1 }}
@@ -99,7 +99,7 @@
     {{ end }}
 
     {{ $splitPoint := $.Scratch.Get "splitPoint" }}
-    
+
     <div class="specs row-2-cols">
         {{ $colLeft := first $splitPoint $specs }}
         <ul class="col--left">
@@ -118,13 +118,13 @@
         {{ end }}
     </div>
     {{ end }}
-    
+
     {{ with $.Params.copyright }}
     <div class="copyright">
         <em>{{ $.Params.copyright }}</em>
     </div>
     {{ end }}
-    
+
 </section>
 {{ end }}
 

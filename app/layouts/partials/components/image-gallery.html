@@ -4,7 +4,7 @@
 {{ end }}
 
 <div class="component__image-gallery">
-    
+
     <div class="viewport">
         {{ range $.Scratch.Get "images" }}
             <div class="item">
@@ -12,7 +12,7 @@
             </div>
         {{ end }}
     </div>
-    
+
     <div class="controls">
     {{ range $.Scratch.Get "images" }}
         <div class="item">

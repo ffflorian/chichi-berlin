@@ -33,7 +33,7 @@ description: |
     + Geeignet für Ordner im DIN A4-Format
 
 specs:
-  - colors: 
+  - colors:
     - 'black reflex'
   - bag type: 'Einzeltasche'
   - width: '30 cm'

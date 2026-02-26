@@ -13,6 +13,6 @@ image: '/media/images/rubrics/parts/items/drive/cassette-ird-classica-shimano-7s
 
 weight: 1
 menu:
-  - aside_parts_engine  
+  - aside_parts_engine
 
 ---

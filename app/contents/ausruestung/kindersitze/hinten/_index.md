@@ -13,7 +13,7 @@ image: '/media/images/rubrics/accessories/items/'
 
 weight: 2
 menu:
-  - aside_accessories_childrens-seats  
+  - aside_accessories_childrens-seats
 
 draft: true
 

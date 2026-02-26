@@ -16,7 +16,7 @@ images:
   - '/media/images/rubrics/parts/items/drive/crankset-blb-notorious-track_6.jpeg'
 
 description:
-    Die BLB Notorious Track Kettenradgarnitur bietet beste Festigkeit und Stabilität. Diese 
+    Die BLB Notorious Track Kettenradgarnitur bietet beste Festigkeit und Stabilität. Diese
     Kettenradgarnitur ist geeignet für optimierte Performance auf Track und Straße.
 
 specs:
@@ -25,11 +25,11 @@ specs:
   - bcd: '144 mm'
   - teeth:
     - '46 T'
-    - '47 T' 
+    - '47 T'
     - '48 T'
     - '49 T'
   - weight: '860g'
-  - colors: 
+  - colors:
     - 'grün'
     - 'pink'
     - 'lila'

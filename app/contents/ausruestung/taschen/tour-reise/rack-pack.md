@@ -30,7 +30,7 @@ description: |
     Lieferumfang: Tasche mit gepolstertem Schultertragegurt
 
     __Super Features:__
-    
+
     + Allzwecktasche mit vielseitigen Einsatzmöglichkeiten: Sport (z.B. nasse Tauchanzüge), Reise, Freizeit, Fahrrad, Motorrad, Expedition, Kanu, Trekking
     + abnehmbarer, gepolsterter Schultertragegurt mit Karabiner
     + Volumenangabe in Litern auf Taschenseite

@@ -15,12 +15,12 @@ images:
   - '/media/images/rubrics/parts/items/seats/saddle-blb-stealth-contour_5.jpeg'
 
 description: >
-    Der Stealth Contour verspricht ein bequemes Design bei hoher Performance. Die Rillen beugen 
-    Taubheitsgefühl und Ermüdungserscheinungen vor. Optimierte Schaumdichte verringert den Druck. 
-    Verchromte Sattelstreben kombinieren Steifigkeit mit Komfort bei einem geringen Gewicht von nur 
+    Der Stealth Contour verspricht ein bequemes Design bei hoher Performance. Die Rillen beugen
+    Taubheitsgefühl und Ermüdungserscheinungen vor. Optimierte Schaumdichte verringert den Druck.
+    Verchromte Sattelstreben kombinieren Steifigkeit mit Komfort bei einem geringen Gewicht von nur
     256g (+/- 10%).
-    
-specs: 
+
+specs:
   - type: 'Renn'
   - weight: '256g (+/- 10%)'
   - color: 'matt schwarz'

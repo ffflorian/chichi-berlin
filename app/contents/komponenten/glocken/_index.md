@@ -7,7 +7,7 @@ linkTitle: 'Glocken'
 slug: 'glocken'
 section: 'bells'
 
-title: 'Glocken' 
+title: 'Glocken'
 description: 'TODO'
 image: '/media/images/rubrics/parts/items/cockpit/kategoriebild-glocke.png'
 

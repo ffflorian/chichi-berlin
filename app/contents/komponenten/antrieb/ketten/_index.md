@@ -13,6 +13,6 @@ image: '/media/images/rubrics/parts/items/drive/chain-did-track_1'
 
 weight: 2
 menu:
-  - aside_parts_engine  
+  - aside_parts_engine
 
 ---

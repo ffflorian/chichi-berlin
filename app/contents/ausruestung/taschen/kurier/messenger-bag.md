@@ -39,7 +39,7 @@ description: |
     + Closure-Extension
 
 specs:
-  - colors: 
+  - colors:
     - 'black - sun yellow'
     - 'red - black'
     - 'black'

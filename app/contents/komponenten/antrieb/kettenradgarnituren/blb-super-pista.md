@@ -24,10 +24,10 @@ specs:
   - bottom-bracket-fit: 'JIS'
   - chain-fit: '1/8"'
   - bcd: '144 mm'
-  - teeth: 
+  - teeth:
     - '46 T'
-    - '48 T' 
-  - colors: 
+    - '48 T'
+  - colors:
     - 'black'
     - 'silver'
 

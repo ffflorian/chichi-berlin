@@ -17,7 +17,7 @@ description: |
     Guter Schutz bei niedrigem Diebstahlrisiko
     Empfohlen für die Absicherung günstiger Zweiräder
 
-specs: 
+specs:
   - type: 'Kette'
   - length: '75cm'
   - weight: '850g'

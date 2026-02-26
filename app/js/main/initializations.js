@@ -9,16 +9,16 @@ const selectors = {
         const { offset } = this.dataset;
         const viewport = window;
         const $site = document.documentElement;
-        const { documentElement: $pane = $site } = document;  
+        const { documentElement: $pane = $site } = document;
         const element = document.getElementById('site');
-        
+
         let lastKnownOffset = 0;
         let requestedNewFrame = false;
-        
+
         let scrolled = false;
         let changeHeaderOn = 0;
         let changeFooterOn = $pane.scrollHeight - FOOTER_SCROLL_THRESHOLD;
-       
+
         if( offset === 'viewport' ){
             changeHeaderOn = global.innerHeight;
         }else{
@@ -28,16 +28,16 @@ const selectors = {
             }
         }
         changeHeaderOn = changeHeaderOn - 84;
-        
+
         const scrollPage = ()=>{
             const currentScrollingPosition = isScrollingVertical();
-            
+
             if( changeHeaderOn > 0 ){
                 if ( currentScrollingPosition >= changeHeaderOn ) {
                     element.dataset.state_header = 'untouched';
                 }else{
                     element.dataset.state_header = 'changed';
-                }                
+                }
             }
 
             if ( currentScrollingPosition + global.innerHeight >= changeFooterOn ) {
@@ -45,10 +45,10 @@ const selectors = {
             }else{
                 element.dataset.state_footer = 'invisible';
             }
-            
+
             scrolled = false;
         };
-        
+
         const isScrollingVertical = ()=>{
             if( lastKnownOffset > 0 ){
                 return lastKnownOffset;
@@ -56,29 +56,29 @@ const selectors = {
                 return $site.scrollTop;
             }
         };
-        
+
         viewport.addEventListener( 'scroll', function( event ) {
-            
+
             lastKnownOffset = viewport.scrollY;
-            if( requestedNewFrame === false ){          
+            if( requestedNewFrame === false ){
                 global.requestAnimationFrame(function() {
-            
+
                     if( scrolled === false) {
                         scrolled = true;
                         global.setTimeout( scrollPage, 150 );
                     }
-                    
+
                     requestedNewFrame = false;
                 });
                 requestedNewFrame = true;
             }
-            
+
         }, false );
-        
+
         scrollPage();
     },
-    
-    
+
+
     '#page-aside-nav': function(){
         const element = this;
 
@@ -104,16 +104,16 @@ const selectors = {
             }
         });
     },
-    
-    
+
+
     '.component__image-gallery': function(){
         const element = this;
         const { jQuery } = global;
-        
+
         if( typeof jQuery === 'undefined' ){
             return console.log( 'jquery not available' );
         }
-        
+
         const controls = element.querySelector( '.controls' );
         const viewport = element.querySelector( '.viewport' );
         const items = viewport.querySelectorAll( '.item' );
@@ -202,14 +202,14 @@ const selectors = {
                 if( event.key === 'ArrowLeft' ) showImage( currentIndex - 1 );
                 if( event.key === 'ArrowRight' ) showImage( currentIndex + 1 );
             });
-        }        
+        }
     },
-    
-    
+
+
     '#store-location': function(){
         const element = this;
         const { L: leaflet } = global;
-        
+
         const COORDINATES = [
             52.4809994,             // lat
             13.425803200000018      // lng
@@ -231,31 +231,31 @@ const selectors = {
         // (enforcing https) is not released, we cannot use the providers package
         const MAP_PROVIDER_NAME = 'Thunderforest.OpenCycleMap';
         const MAP_PROVIDER_URL = 'https://{s}.tile.thunderforest.com/{variant}/{z}/{x}/{y}.png?apikey={apikey}';
-        
-        
-        const provider = leaflet.tileLayer( 
+
+
+        const provider = leaflet.tileLayer(
             MAP_PROVIDER_URL,
             {
                 apikey: 'edc8a89afa764f77ae70e47c50359b4f',
                 variant: 'cycle'
             }
         );
-        
+
         const icon = leaflet.icon({
             iconUrl: '/media/images/assets/icon_marker.svg',
             iconSize: [ 28, 42 ],
             iconAnchor: [ 14, 42 ],
             popupAnchor: [ 0, -40 ]
         });
-        
+
         const marker = leaflet.marker( COORDINATES, { icon } );
-        
+
         const popup = leaflet.popup({
             maxWidth: 300,
             minWidth: 250
         });
         popup.setContent( popupContents );
-        
+
         const map = leaflet.map( element ).setView( COORDINATES, ZOOM );
         provider.addTo( map );
         marker.addTo( map )

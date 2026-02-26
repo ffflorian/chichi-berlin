@@ -41,7 +41,7 @@ description: |
     + 1 Tragegriff ohne Steckschnalle bei der 2 Liter Version
 
 specs:
-  - colors: 
+  - colors:
     - 'blue'
     - 'black'
   - bag type: 'Einzeltasche'

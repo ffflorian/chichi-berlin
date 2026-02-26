@@ -24,15 +24,15 @@
                 </li>
                 {{ end }}
             </ul>
-            
+
             {{ partial "components/posts-list-nav.html" $paginator }}
         {{ else }}
             {{ i18n "no-post" }}
         {{ end }}
         </article>
-        
+
         {{ partial "components/blog-sidebar.html" . }}
     </div>
-    
+
 </section>
 {{ end }}

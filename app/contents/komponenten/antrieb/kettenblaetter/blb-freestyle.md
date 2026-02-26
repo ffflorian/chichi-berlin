@@ -28,5 +28,5 @@ specs:
     - 'schwarz'
     - 'silber'
     - 'weiß'
-    
+
 ---

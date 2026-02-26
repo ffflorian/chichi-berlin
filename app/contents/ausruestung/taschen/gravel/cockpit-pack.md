@@ -27,7 +27,7 @@ description: |
     + geeignet für die Montage an Carbon-Rahmen
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Einzeltasche'
   - width: '18 cm'

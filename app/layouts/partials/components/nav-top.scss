@@ -26,9 +26,9 @@
             font-family: $decorative-font-family;
             @include type(xxxl);
             font-weight: 700;
-            
+
             & ~ * {
-                
+
             }
         }
     }

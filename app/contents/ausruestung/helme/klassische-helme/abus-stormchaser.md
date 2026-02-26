@@ -8,7 +8,7 @@ manufacturer: 'Abus'
 
 image: '/media/images/rubrics/accessories/items/helmet-stormchaser_01.jpg'
 
-images: 
+images:
   - '/media/images/rubrics/accessories/items/helmet-stormchaser_02.jpg'
   - '/media/images/rubrics/accessories/items/helmet-stormchaser_03.jpg'
   - '/media/images/rubrics/accessories/items/helmet-stormchaser_04.jpg'
@@ -18,5 +18,5 @@ description: |
 
 specs:
   - model: 'StormChaser'
-    
+
 ---

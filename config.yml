@@ -15,14 +15,14 @@ permalinks:
 
 # the length of text to show in a .Summary
 summaryLength:              70
-  
+
 # Allows you to disable all page types and will render nothing related to 'kind';
 # values = 'page', 'home', 'section', 'taxonomy', 'taxonomyTerm', 'RSS', 'sitemap', 'robotsTXT', '404'
 disableKinds: [
-#    'taxonomy', 
+#    'taxonomy',
 #    'taxonomyTerm'
 ]
-outputs: 
+outputs:
     section: [ 'html' ]
 
 # NOTE: haven't used proper relative paths, because of https://github.com/gohugoio/hugo/issues/4024
@@ -137,7 +137,7 @@ taxonomies:
 #  bicycle:      'bicycles'
 #  part:         'parts'
 #  accessory:    'accessories'
-  
+
 # see https://gohugo.io/templates/menu-templates/
 SectionPagesMenu:           ''
 

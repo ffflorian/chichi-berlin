@@ -13,6 +13,6 @@ image: '/media/images/rubrics/accessories/items/bottle-fidlock-twist-bottle-800-
 
 weight: 3
 menu:
-  - aside_accessories_bottles  
+  - aside_accessories_bottles
 
 ---

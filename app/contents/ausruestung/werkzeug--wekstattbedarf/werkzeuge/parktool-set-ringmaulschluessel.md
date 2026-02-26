@@ -11,7 +11,7 @@ image: '/media/images/rubrics/accessories/items/tool-parktool-satz-ringmaulschlu
 description: >
     Ein Satz Kombischlüssel in Park Tool Qualität, bestehend aus Ring- und Maulschlüsseln. Geschmiedeter Chrom Vanadium Stahl, chromglanzpoliert und mit blauem Kunststoffüberzug im Griffbereich. Stabil, komfortabel und einfach schön!
 
-specs: 
+specs:
   - sizes:
     - '6'
     - '7'

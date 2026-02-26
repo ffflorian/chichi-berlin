@@ -16,5 +16,5 @@ description: >
 
 specs:
   - color: 'schwarz'
-    
+
 ---

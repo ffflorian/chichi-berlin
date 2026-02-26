@@ -12,7 +12,7 @@ images:
   - '/media/images/rubrics/parts/items/cockpit/handlebar-blb-aerobigeazyflat_2.jpeg'
 
 description: >
-    Dieser megabreite Freestylelenker gibt Dir mehr Kontrolle und Komfort auf längeren Alltagswegen. 
+    Dieser megabreite Freestylelenker gibt Dir mehr Kontrolle und Komfort auf längeren Alltagswegen.
 
 specs:
   - width: '750mm'

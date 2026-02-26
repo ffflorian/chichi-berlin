@@ -14,10 +14,10 @@ images:
   - '/media/images/rubrics/parts/items/seats/saddle-blb-raven_4.jpeg'
 
 description: >
-    Der Raven ist stylisch und bequem. Ein klassischer Sattel mit stilvollen Details und Cro-Mo 
+    Der Raven ist stylisch und bequem. Ein klassischer Sattel mit stilvollen Details und Cro-Mo
     Sattelstreben. Erhältlich auch in der Ausführung "Raven Suede" (Wildlederoptik).
-    
-specs: 
+
+specs:
   - type: 'Renn'
   - material: 'Veganes Leder'
   - weight: '304g'

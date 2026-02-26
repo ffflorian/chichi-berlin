@@ -24,5 +24,5 @@ specs:
     - 'schwarz'
     - 'rot'
     - 'weiß'
-    
+
 ---

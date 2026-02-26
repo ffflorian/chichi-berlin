@@ -14,8 +14,8 @@ images:
 
 description: >
     Altbewährtes Design, langlebiger Sattel, komfortabel, leicht und preisgünstig.
-    
-specs: 
+
+specs:
   - type: 'Renn'
   - width: '137 mm'
   - length: '277 mm'

@@ -13,7 +13,7 @@ image: '/media/images/rubrics/accessories/items/'
 
 weight: 1
 menu:
-  - aside_accessories_transportation  
+  - aside_accessories_transportation
 
 draft: true
 

@@ -2,10 +2,10 @@
 <div class="shortcode__logo-grid shortcode">
     {{ if gt (len $list) 0 }}
     <ul class="logo-list">
-    {{ range $list }} 
+    {{ range $list }}
         <li>
         {{ if .link }}<a class="flow" href="{{ .link }}" title="Website: {{ .label }}" target="_blank">{{ else }}<div class="flow">{{ end }}
-        
+
         {{ if .svg }}
             <div class="flow--svg">
                 {{ printf "svgs/%s.html" .svg | partial }}
@@ -18,9 +18,9 @@
         {{ else }}
             <div class="flow--text">
                 <span>{{ .label }}</span>
-            </div>        
+            </div>
         {{ end }}
-        
+
         {{ if .link }}</a>{{ else }}</div>{{ end }}
         </li>
     {{ end }}

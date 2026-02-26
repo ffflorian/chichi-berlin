@@ -17,7 +17,7 @@ description: >
 
 copyright: 'copyleft note'
 
-specs: 
+specs:
   - type: 'Bügel'
   - height: ''
   - breadth: ''

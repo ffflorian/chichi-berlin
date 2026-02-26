@@ -15,8 +15,8 @@ images:
   - '/media/images/rubrics/parts/items/drive/pedals-fyxation-gates-slim_5.jpeg'
 
 description: >
-    Die Gates Slim, sind haltbare und universell einsetzbare Plattformpedale. Durch die flache 
-    Gestaltung, lose Kugellager, und Nylon als verlässlichen Werkstoff sind sie ideale Pedale für 
+    Die Gates Slim, sind haltbare und universell einsetzbare Plattformpedale. Durch die flache
+    Gestaltung, lose Kugellager, und Nylon als verlässlichen Werkstoff sind sie ideale Pedale für
     den urbanen Einsatz und für das BMX. Auch die Slim Serie ist kompatibel mit den meisten Straps.
 
 specs:

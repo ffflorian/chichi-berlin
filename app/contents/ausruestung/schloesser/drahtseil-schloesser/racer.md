@@ -14,7 +14,7 @@ description: |
     Empfohlen für die Absicherung günstiger Zweiräder
     Je größer das Längenmaß, desto einfacher das Anschließen an einen festen Gegenstand
 
-specs: 
+specs:
   - type: 'Kabel'
   - length: '185cm'
   - weight: '550g'

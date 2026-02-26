@@ -13,5 +13,5 @@ description: >
 
 specs:
   - color: 'silber'
-    
+
 ---

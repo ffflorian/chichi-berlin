@@ -18,7 +18,7 @@ images:
   - '/media/images/rubrics/parts/items/drive/pedals-blb-track_8.jpeg'
 
 description: >
-    Elegantes Modell, aus Aluminium, CNC gefräst. Doppelseitige Track Pedale mit versiegelten 
+    Elegantes Modell, aus Aluminium, CNC gefräst. Doppelseitige Track Pedale mit versiegelten
     Lagern, welche dauerhaft geschmeidige Bewegung ermöglicht.
 
 specs:

@@ -13,6 +13,6 @@ image: '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classi
 
 weight: 5
 menu:
-  - aside_accessories  
+  - aside_accessories
 
 ---

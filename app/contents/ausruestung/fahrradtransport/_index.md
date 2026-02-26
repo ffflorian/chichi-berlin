@@ -13,7 +13,7 @@ image: '/media/images/rubrics/accessories/items/'
 
 weight: 3
 menu:
-  - aside_accessories  
+  - aside_accessories
 
 draft: true
 

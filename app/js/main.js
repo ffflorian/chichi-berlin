@@ -14,7 +14,7 @@ function main(){
 
     bind( events );
     initialize( selectors );
-    
+
 }
 
 

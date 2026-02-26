@@ -10,11 +10,11 @@
     <h5>
         {{ printf "%02d.%02d.%d" .PublishDate.Day .PublishDate.Month .PublishDate.Year }}
     </h5>
-    
+
     <div class="content-preview">
         {{ truncate $teaserTextLength "..." .Content | replaceRE "<h[^>]+>(.|\n)*</h[^>]+>" "" | replaceRE "<figure>(.|\n)*</figure>" "" | safeHTML }}
     </div>
-    
+
     <nav>
         <a class="btn--primary"
            title="{{ .Title }}"

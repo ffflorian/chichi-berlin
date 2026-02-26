@@ -35,7 +35,7 @@ description: |
     + 2 Reflektoren
 
 specs:
-  - colors: 
+  - colors:
     - 'stahlblau'
     - 'schwarz'
   - bag type: 'Einzeltasche'

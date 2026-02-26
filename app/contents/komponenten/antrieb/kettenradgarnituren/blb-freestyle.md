@@ -23,7 +23,7 @@ specs:
   - chain-fit: '1/8"'
   - bcd: '130 mm'
   - teeth: 44
-  - colors: 
+  - colors:
     - 'grün'
     - 'pink'
     - 'lila'

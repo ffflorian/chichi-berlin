@@ -13,6 +13,6 @@ image: '/media/images/rubrics/accessories/items/schloesser.png'
 
 weight: 4
 menu:
-  - aside_accessories  
+  - aside_accessories
 
 ---

@@ -38,7 +38,7 @@ description: |
     + ausgeglichene Gewichtsverteilung am Rad
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Einzeltasche'
   - upper length: '40 cm / 50 cm'

@@ -1,11 +1,11 @@
 .shortcode__logo-grid {
-    
+
     ul.logo-list {
         display: grid;
         margin: 0;
         padding: 0;
         grid-template-columns: repeat(1, 1fr);
-        
+
         @include bp-medium() {
             grid-template-columns: repeat(3, 1fr);
         }
@@ -13,44 +13,44 @@
         @include bp-desktop() {
             grid-template-columns: repeat(4, 1fr);
         }
-        
+
         gap: rem(spacing(3));
-        
-        
+
+
         li {
             list-style: none;
             height: rem(160);
-            
+
             position: relative;
-            
+
             & ~ li {
                 margin-top: 0;
             }
-            
+
             a {
                 text-decoration: none;
                 &:hover {
                     color: inherit;
                 }
             }
-            
+
             .flow {
                 height: 100%;
                 width: 100%;
                 background-color: color(white);
                 display: block;
-                
+
                 padding: rem(spacing(2.8)) rem(spacing(2.2));
-                
+
                 .flow--svg, .flow--img, .flow--text {
                     overflow: hidden;
                     @include flex-center;
                     height: 100%;
                     width: 100%;
                 }
-                
+
                 .flow--svg {
-                    
+
                     svg {
                         max-height: 100%;
                         max-width: 100%;
@@ -58,15 +58,15 @@
                         height: 100%;
                     }
                 }
-                
+
                 .flow--img {
-                    
+
                     img {
                         max-height: 100%;
                         max-width: 100%;
                     }
                 }
-                
+
                 .flow--text {
                     span {
                         font-size: rem(40);
@@ -79,5 +79,5 @@
             }
         }
     }
-    
+
 }

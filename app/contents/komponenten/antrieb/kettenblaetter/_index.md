@@ -13,6 +13,6 @@ image: '/media/images/rubrics/parts/items/drive/chainring-blb-track_1.jpeg'
 
 weight: 3
 menu:
-  - aside_parts_engine  
+  - aside_parts_engine
 
 ---

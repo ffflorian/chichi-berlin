@@ -10,7 +10,7 @@ image: '/media/images/rubrics/accessories/items/'
 
 description: >
 
-specs:  
+specs:
   - material:
   - breadth:
   - type:

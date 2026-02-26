@@ -7,8 +7,8 @@
     <title>{{ $title | safeHTML }}</title>
 
     <link rel="canonical" href="{{ .Permalink }}">
-    
-    {{ partial "head/meta.html" . }}    
+
+    {{ partial "head/meta.html" . }}
     {{ partial "head/icon.html" . }}
 
     {{ with .OutputFormats.Get "RSS" }}
@@ -17,8 +17,8 @@
     {{ end }}
 
     {{ partial "head/csp.html" . }}
-    
-    {{ block "head" . }}        
+
+    {{ block "head" . }}
     {{ end }}
 
     {{ partial "head/static.html" . }}
@@ -26,7 +26,7 @@
 <body>
 
     {{ $slug := delimit (findRE "[^/]+" .Permalink | last 1) "" }}
-    
+
     {{ if $.IsPage }}
         {{ $.Scratch.Set "pageName" $.File.TranslationBaseName }}
     {{ else if $.IsNode }}
@@ -46,7 +46,7 @@
     {{ end }}
     {{ $.Scratch.Set "pageName" ($.Param "name" | default ($.Scratch.Get "pageName")) }}
     {{ $page := $.Scratch.Get "pageName" }}
-    
+
     <!--
     NOTE: see `if $.IsNode` condition
     -->
@@ -54,38 +54,38 @@
         {{ $sectionPage := $.Site.GetPage "section" . }}
         {{ $.Scratch.Set "section" $sectionPage.Params.section }}
     {{ end }}
-    
-    <div id="site" 
+
+    <div id="site"
          class="layout--{{ .Param "layout-name" | default "master" }} type--{{ .Type }} {{ with .Section }}section--{{ $.Scratch.Get "section" }}{{ end }} page--{{ $page }}"
          data-state_header="{{ if isset $.Params "scroll-offset-coordinate" }}changed{{ else }}untouched{{ end }}"
          data-state_footer="{{ if ($.Param "show-footer" | default false) }}visible{{ else }}invisible{{ end }}"
     >
-    
+
         <header class="header__flow" id="page-header">
             {{ block "header" . }}
             {{ partial "components/header.html" . }}
             {{ end }}
         </header>
-    
-        {{ block "aside" . }}        
+
+        {{ block "aside" . }}
         {{ end }}
-    
+
         <main class="contents" id="page-contents">
             {{ block "main" . }}
             {{ .Content }}
             {{ end }}
         </main>
-    
+
         <footer class="footer__flow" id="page-footer">
         {{ block "footer" . }}
-        {{ partial "components/footer.html" . }} 
+        {{ partial "components/footer.html" . }}
         {{ end }}
         </footer>
-        
+
     </div>
 
 
-    {{ block "dependencies" . }}        
+    {{ block "dependencies" . }}
     {{ end }}
 
     {{ partial "head/tracking-code.html" . }}

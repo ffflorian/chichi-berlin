@@ -42,7 +42,7 @@ description: |
     + QL2.1 Haken 18 mm (E211) & QL2.1 Haken 20 mm (E193)
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Taschenpaar'
   - width: '25 cm'

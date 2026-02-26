@@ -20,7 +20,7 @@ images:
   - '/media/images/rubrics/parts/items/drive/pedals-blb-flatliner-road_10.jpeg'
 
 description: >
-    Premium Kunststoff Freestyle-Pedale. Super geschmeidig durch versiegelte Lager. Nur mit dem 
+    Premium Kunststoff Freestyle-Pedale. Super geschmeidig durch versiegelte Lager. Nur mit dem
     Freestyle Foot Retention System kombinierbar.
 
 specs:

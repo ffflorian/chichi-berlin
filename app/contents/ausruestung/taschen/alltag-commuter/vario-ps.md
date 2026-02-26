@@ -52,7 +52,7 @@ description: |
     + Anti-Theft-Device (E124), QL2.1 Haken 18 mm (E211) & 20 mm (E193)
 
 specs:
-  - colors: 
+  - colors:
     - 'petrol'
     - 'rooibos'
     - 'black'

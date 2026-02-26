@@ -7,7 +7,7 @@ linkTitle: 'Bremsen'
 slug: 'bremsen'
 section: 'brakes'
 
-title: 'Bremsen' 
+title: 'Bremsen'
 description: 'Bremsen'
 image: '/media/images/rubrics/parts/items/brakes/kategoriebild-bremsen.jpg'
 

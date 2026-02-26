@@ -1,21 +1,21 @@
 <nav class="component__nav-aside" id="side-menu">
-    
+
     {{ $section := .Section }}
     {{ $parent := .Parent }}
-    {{ $currentPage := . }}   
-    
+    {{ $currentPage := . }}
+
     <nav class="menu__breadcrumbs" aria-label="You are here">
         <ol>
             {{ template "breadcrumb" dict "parentPage" $parent "currentPage" $currentPage "global" $ }}
         </ol>
     </nav>
-    
+
     <div class="menu__wrap" parent="{{ printf "%#v" $parent.IsHome }}">
-        
+
         <ul class="menu__level menu__level--current">
         {{ if $currentPage.IsPage }}
             {{ if not $currentPage.Params.draft }}
-            
+
             {{ range sort $parent.Pages ".Params.model" "asc" }}
             {{ if not .Params.draft }}
             <li class="menu__item" data="page">
@@ -35,7 +35,7 @@
             {{ if $parent.IsHome }}
                 {{ .Scratch.Set "sections" $currentPage.Sections }}
             {{ end }}
-            
+
             {{ range sort (.Scratch.Get "sections") ".Params.weight" "asc" }}
             {{ if .IsNode }}
             {{ if not .Params.draft }}
@@ -49,7 +49,7 @@
             {{ end }}
             {{ end }}
             {{ end }}
-        
+
         {{ end }}
         </ul>
     </div>
@@ -60,7 +60,7 @@
 
 
 {{ define "breadcrumb" }}
-    {{ $pagesInTopMenu := where .global.Site.Menus.top ".Page.File.UniqueID" .parentPage.File.UniqueID }}    
+    {{ $pagesInTopMenu := where .global.Site.Menus.top ".Page.File.UniqueID" .parentPage.File.UniqueID }}
 
     {{ if and (not .parentPage.IsHome) }}
 
@@ -69,7 +69,7 @@
     {{ end }}
 
     {{ if not .parentPage.Params.draft }}
-    <li>        
+    <li>
         <a href="{{ .parentPage.RelPermalink }}" class="">{{ .parentPage.LinkTitle | safeHTML }}</a>
     </li>
     {{ end }}

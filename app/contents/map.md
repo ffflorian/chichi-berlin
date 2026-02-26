@@ -3,7 +3,7 @@
 linkTitle: 'Wo'
 slug: 'karte'
 
-title: 'Karte' 
+title: 'Karte'
 description: 'An diesem Ort könnt ihr uns finden'
 
 layout: 'fullscreen'

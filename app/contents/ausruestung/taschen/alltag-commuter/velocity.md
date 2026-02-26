@@ -48,7 +48,7 @@ description: |
     + Closure-Extension (E64): Verlängerung des Klettverschlusses bei großem Packvolumen
 
 specs:
-  - colors: 
+  - colors:
     - 'black'
     - 'petrol - black'
   - bag type: 'Einzeltasche'

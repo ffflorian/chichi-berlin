@@ -56,7 +56,7 @@ description: |
     + Acessory-Pack
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Einzeltasche'
   - width: '40 cm / 58 cm'

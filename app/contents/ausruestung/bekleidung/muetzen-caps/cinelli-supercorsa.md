@@ -8,7 +8,7 @@ manufacturer: 'Cinelli'
 
 image: '/media/images/rubrics/accessories/items/caps-cinelli-2014-supercorsa_1.jpg'
 
-images: 
+images:
   - '/media/images/rubrics/accessories/items/caps-cinelli-2014-supercorsa_2.jpg'
   - '/media/images/rubrics/accessories/items/caps-cinelli-2014-supercorsa_3.jpg'
   - '/media/images/rubrics/accessories/items/caps-cinelli-2014-supercorsa_4.jpg'
@@ -19,10 +19,10 @@ images:
   - '/media/images/rubrics/accessories/items/caps-cinelli-2014-supercorsa_9.jpg'
 
 description: >
-    
-    
+
+
 specs:
   - material: '100% Baumwolle'
   - season: '2014'
-    
+
 ---

@@ -1,7 +1,7 @@
 ---
 
 title:
-linkTitle: 
+linkTitle:
 subtitle:
 
 slug:

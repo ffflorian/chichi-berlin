@@ -31,5 +31,5 @@ specs:
     - 'rosa'
     - 'rot'
     - 'weiß'
-    
+
 ---

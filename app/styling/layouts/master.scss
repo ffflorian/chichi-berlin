@@ -1,24 +1,24 @@
 .layout--master {
-    
+
     .header__flow {
         position: fixed;
         z-index: 500;
         top: 0;
         width: 100%;
     }
-    
+
     .aside__flow {
         position: fixed;
         z-index: 400;
         right: 100vw;
         height: 100vh;
     }
-    
+
     h1, h2, h3 {
         font-family: $decorative-font-family;
         letter-spacing: rem(1);
     }
-    
+
     h1 {
         line-height: 1.3;
         font-size: rem(40);
@@ -38,9 +38,9 @@
         font-size: rem(28);
         margin: rem(20) 0;
     }
-    
+
     .contents {
-                        
+
         // NOTE: compensate header height
         &:before {
             content: '';
@@ -53,7 +53,7 @@
                 min-height: rem($desktop_header-height_min);
             }
         }
-        
+
         // NOTE: compensate footer height
         &:after {
             content: '';
@@ -61,60 +61,60 @@
             display: block;
             max-height: rem($desktop_footer-height_max);
         }
-        
+
         background-color: color(bg-light);
-        
+
         min-height: 100vh;
-        
+
         @include type(ml);
-        
+
         & > * {
             // NOTE: makes margins not collapsing
             overflow: hidden;
         }
-        
+
         p {
             & + p {
                 margin-top: rem(30);
             }
         }
-        
+
         section {
             & ~ section {
                 margin-top: rem(60);
             }
-            
+
             &:first-child {
                 margin-top: rem($section-vertical-margin);
             }
-            
+
             &:last-child {
                 margin-bottom: rem($section-vertical-margin);
             }
-        }       
+        }
 
-        
+
         .page-title {
             text-align: center;
-            margin: 0 auto;         
-            
+            margin: 0 auto;
+
             font-weight: bold;
             max-width: 80%;
 
             word-wrap: break-word;
             hyphens: manual;
-            
+
             & + :not(.page-subtitle) {
                 margin-top: rem($headline-section-gap);
             }
         }
-        
+
         .page-subtitle {
             text-align: center;
             text-transform: uppercase;
             font-weight: 100;
             color: color(grey-dark);
-            
+
             & + * {
                 margin-top: rem($headline-section-gap - 50);
 
@@ -124,8 +124,8 @@
             }
         }
     }
-    
-    
+
+
     .footer__flow {
         position: fixed;
         z-index: 500;

@@ -17,8 +17,8 @@ images:
   - '/media/images/rubrics/parts/items/drive/pedals-fyxation-gates_7.jpeg'
 
 description: >
-    Die Gates Pedale sind im klassischen BMX-Stil gestaltete Plattformpedale, die mit den meisten 
-    Foot Retention Systemen kompatibel sind. Stabil konstruiert, besteht das Gate Pedal aus Nylon 
+    Die Gates Pedale sind im klassischen BMX-Stil gestaltete Plattformpedale, die mit den meisten
+    Foot Retention Systemen kompatibel sind. Stabil konstruiert, besteht das Gate Pedal aus Nylon
     und hält deshalb viel besser als günstigere Kunststoff- Alternativen.
 
 specs:

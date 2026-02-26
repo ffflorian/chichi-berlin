@@ -44,7 +44,7 @@ description: |
     + Safe-It Gr. S - L (Modelle ab 2017)
 
 specs:
-  - colors: 
+  - colors:
     - 'petrol - black'
     - 'red - black'
     - 'black'

@@ -9,9 +9,9 @@ manufacturer: 'Checker Pig'
 image: '/media/images/rubrics/bicycles/items/zulu-disc-trapez-2018.jpg'
 
 description: >
-    Das Zulu hat einen leichten Trekking Alurahmen, innovative LED Beleuchtung und eine 
-    zuverlässige Shimano Nexus 8 Gang Nabenschaltung. Der ideale Begleiter für die Tour am 
-    Wochenende oder den täglichen Weg zur Arbeit. Jetzt mit hydraulischen Shimano 
+    Das Zulu hat einen leichten Trekking Alurahmen, innovative LED Beleuchtung und eine
+    zuverlässige Shimano Nexus 8 Gang Nabenschaltung. Der ideale Begleiter für die Tour am
+    Wochenende oder den täglichen Weg zur Arbeit. Jetzt mit hydraulischen Shimano
     Scheibenbremsen - optimale Bremsperformance bei jeder Witterung.
 
 specs:

@@ -13,6 +13,6 @@ image: '/media/images/rubrics/accessories/items/kategoriebild-werkzeug-werkstatt
 
 weight: 10
 menu:
-  - aside_accessories  
+  - aside_accessories
 
 ---

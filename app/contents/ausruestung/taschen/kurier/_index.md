@@ -13,6 +13,6 @@ image: '/media/images/rubrics/accessories/items/bags-ortlieb-messenger-bag_01.jp
 
 weight: 3
 menu:
-  - aside_accessories_bags  
+  - aside_accessories_bags
 
 ---

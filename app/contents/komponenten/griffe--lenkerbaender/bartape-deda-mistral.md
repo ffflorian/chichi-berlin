@@ -19,7 +19,7 @@ images:
   - '/media/images/rubrics/parts/items/cockpit/bartape-deda-mistral_9.jpeg'
 
 description: >
-    Deda Mistral: weich und glatt, dabei fein perforiert. Eine Mischung aus Eleganz und Qualität, 
+    Deda Mistral: weich und glatt, dabei fein perforiert. Eine Mischung aus Eleganz und Qualität,
     erhältlich in einer Vielfalt toller Farben.
 
 specs:

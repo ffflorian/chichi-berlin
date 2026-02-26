@@ -17,7 +17,7 @@ description: |
     Empfohlen für die Absicherung guter Zweiräder
     Je größer das Längenmaß, desto einfacher das Anschließen an einen festen Gegenstand
 
-specs: 
+specs:
   - type: 'Falt'
   - length: '90cm'
   - weight: '12500g'

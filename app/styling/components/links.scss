@@ -5,11 +5,11 @@ $underline-thickness: 1;
     li:not(.logo__black) {
         a {
             display: inline-block;
-                    
+
             text-decoration: none;
-            
+
             transition: color 0.2s ease-in-out 0s;
-    
+
             &:after {
                 content: '';
                 display: block;
@@ -18,7 +18,7 @@ $underline-thickness: 1;
                 background: color(black);
                 transition: width 0.3s ease-in-out 0s;
             }
-            
+
             @include bp-medium() {
                 &:hover, &:focus {
                     color: color(black);
@@ -27,14 +27,14 @@ $underline-thickness: 1;
                         width: 100%;
                     }
                 }
-            }    
+            }
         }
-        
+
         &.active {
             a {
                 color: color(black);
                 &:after {
-                    width: 100%;    
+                    width: 100%;
                 }
             }
         }
@@ -44,9 +44,9 @@ $underline-thickness: 1;
 
 @mixin text-link {
     text-decoration: underline;
-    
+
     transition: all 0.2s;
-    
+
     &:hover, &:focus {
         text-decoration: none;
         background-color: rgba( color(brand-pink), 0.8);

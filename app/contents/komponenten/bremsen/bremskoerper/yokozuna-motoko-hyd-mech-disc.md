@@ -13,7 +13,7 @@ images:
   - '/media/images/rubrics/parts/items/brakes/body-hydr-mech-disc-yokozuna-motoko_3.jpg'
 
 description: >
-    Die Motoko kombiniert gekonnt die Vorteile einer hydraulischen Bremse mit der Robustheit mechanischer Systeme. Insbesondere auf langen Touren, weit entfernt von der nächsten Werkstatt, ist es gut zu wissen, daß ein Leitungsschaden nicht mehr zum Totalausfall der Bremse führen muß. 
+    Die Motoko kombiniert gekonnt die Vorteile einer hydraulischen Bremse mit der Robustheit mechanischer Systeme. Insbesondere auf langen Touren, weit entfernt von der nächsten Werkstatt, ist es gut zu wissen, daß ein Leitungsschaden nicht mehr zum Totalausfall der Bremse führen muß.
     Die Leistung der Bremse ist absolut ausreichend für Rennräder, zum Crossen, oder am Gravelbike. Durch die Kompatibilität mit Deinen alten mechanischen Hebeln, lassen sich außerdem Kosten sparen. Extrafeste Züge und eine 160mm Scheibe sind inklusive.
 
 specs:

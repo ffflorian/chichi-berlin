@@ -15,10 +15,10 @@ images:
   - '/media/images/rubrics/parts/items/seats/saddle-blb-raven-suede_5.jpeg'
 
 description: >
-    Der Raven Suede ist stylisch und bequem. Ein klassischer Sattel mit stilvollen Details und 
+    Der Raven Suede ist stylisch und bequem. Ein klassischer Sattel mit stilvollen Details und
     Cro-Mo Sattelstreben. Erhältlich auch in glatter Ausführung ("Raven").
-    
-specs: 
+
+specs:
   - type: 'Renn'
   - material: 'Veganes Leder'
   - weight: '304g'

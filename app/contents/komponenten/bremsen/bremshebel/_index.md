@@ -13,6 +13,6 @@ image: '/media/images/rubrics/parts/items/brakes/kategoriebild-bremshebel.jpg'
 
 weight: 1
 menu:
-  - aside_parts_brakes  
+  - aside_parts_brakes
 
 ---

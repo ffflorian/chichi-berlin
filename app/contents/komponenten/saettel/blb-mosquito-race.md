@@ -16,16 +16,16 @@ images:
   - '/media/images/rubrics/parts/items/seats/saddle-blb-mosquito-race_6.jpeg'
 
 description: >
-    Hergestellt aus qualitativ hochwertigem Echtleder mit poliertem Cro-Mo Gestänge, bietet der 
-    Mosquito Style und Komfort bei einem unschlagbar günstigen Preis. Dieser Sattel ist in vier 
-    klassischen Farben erhältlich und passt dadurch zu dem Echtleder Lenkerband von BLB. Der 
-    Mosquito Race zeichnet sich durch seine anatomische Form aus. Es sind Werkzeuge zur Befestigung 
+    Hergestellt aus qualitativ hochwertigem Echtleder mit poliertem Cro-Mo Gestänge, bietet der
+    Mosquito Style und Komfort bei einem unschlagbar günstigen Preis. Dieser Sattel ist in vier
+    klassischen Farben erhältlich und passt dadurch zu dem Echtleder Lenkerband von BLB. Der
+    Mosquito Race zeichnet sich durch seine anatomische Form aus. Es sind Werkzeuge zur Befestigung
     im Lieferumfang enthalten (Spanner und passender Inbus-Schlüssel).
-    
-specs: 
+
+specs:
   - type: 'Ren'
   - weight: '543g'
-  - colors: 
+  - colors:
     - 'schwarz'
     - 'dunkelbraun'
     - 'honig'

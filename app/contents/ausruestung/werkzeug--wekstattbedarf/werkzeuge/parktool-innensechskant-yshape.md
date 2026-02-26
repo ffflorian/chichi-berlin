@@ -11,7 +11,7 @@ image: '/media/images/rubrics/accessories/items/tool-parktool-innensechskant-ysh
 description: >
     Y-Schlüssel mit Innensechskant im Balldriver. Arbeitswinkel bis 25°
 
-specs: 
+specs:
   - sizes:
     - '4'
     - '5'

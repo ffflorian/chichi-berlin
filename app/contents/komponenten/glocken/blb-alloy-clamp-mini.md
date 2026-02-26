@@ -14,7 +14,7 @@ images:
 description: >
     Wenn Dein Cockpit so schon voll genug ist, dann wird diese kleine aber helltönende Glocke Dir ein Lächeln aufs Gesicht zaubern.
 
-specs: 
+specs:
   - materials: 'Kunststoff und Messing'
   - clamp-size: '22,2'
 

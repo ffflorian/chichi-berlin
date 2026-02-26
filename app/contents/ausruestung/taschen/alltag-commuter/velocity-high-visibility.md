@@ -17,7 +17,7 @@ images:
   - '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-high-vis_07.jpg'
 
 description: |
-    Mit einem Volumen von 23 l ist der Velocity High Visibility groß genug für alles, was du an einem Tag in der Schule, an der Uni oder im Job brauchst. Er verfügt sogar über ein gepolstertes Innenfach für dein Notebook oder Tablet. Was ihn ganz besonders macht, ist das Reflexgarn, das in das PU-beschichtete Gewebe eingearbeitet ist. Dadurch reflektiert der Rucksack, sobald er von Scheinwerfern angestrahlt wird. Das Material leuchtet gut sichtbar in der Dunkelheit – und erhöht so signifikant deine Sicherheit im Straßenverkehr. Selbst bei Tageslicht ist das Neongelb eine aufmerksamkeitsstarke Hingucker-Farbe. Der praktische Roll-Klettverschluss und das ergonomische Tragesystem machen den Rucksack zu einem Lieblingsstück für jeden Tag. Die Halterung am Verschluss ermöglicht das Anbringen eines zusätzlichen Rücklichts oder eines Helms. 
+    Mit einem Volumen von 23 l ist der Velocity High Visibility groß genug für alles, was du an einem Tag in der Schule, an der Uni oder im Job brauchst. Er verfügt sogar über ein gepolstertes Innenfach für dein Notebook oder Tablet. Was ihn ganz besonders macht, ist das Reflexgarn, das in das PU-beschichtete Gewebe eingearbeitet ist. Dadurch reflektiert der Rucksack, sobald er von Scheinwerfern angestrahlt wird. Das Material leuchtet gut sichtbar in der Dunkelheit – und erhöht so signifikant deine Sicherheit im Straßenverkehr. Selbst bei Tageslicht ist das Neongelb eine aufmerksamkeitsstarke Hingucker-Farbe. Der praktische Roll-Klettverschluss und das ergonomische Tragesystem machen den Rucksack zu einem Lieblingsstück für jeden Tag. Die Halterung am Verschluss ermöglicht das Anbringen eines zusätzlichen Rücklichts oder eines Helms.
 
     Lieferumfang: Rucksack mit Hüft- und Brustgurt
 
@@ -42,7 +42,7 @@ description: |
     + Closure-Extension (E64): Verlängerung des Klettverschlusses bei großem Packvolumen
 
 specs:
-  - colors: 
+  - colors:
     - 'black reflex'
     - 'neon yellow - black reflex'
   - bag type: 'Einzeltasche'

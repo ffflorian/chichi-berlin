@@ -3,13 +3,13 @@
 linkTitle: 'Philosophie'
 slug: 'philosophie'
 
-title: 'Firmen&shy;philosophie' 
+title: 'Firmen&shy;philosophie'
 description: 'TODO'
 
 menu:
   footer:
     weight: 1
-    
+
 ---
 
 

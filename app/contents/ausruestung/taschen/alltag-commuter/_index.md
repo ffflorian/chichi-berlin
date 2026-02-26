@@ -13,6 +13,6 @@ image: '/media/images/rubrics/accessories/items/sub-backpack_1.jpeg'
 
 weight: 2
 menu:
-  - aside_accessories_bags  
+  - aside_accessories_bags
 
 ---

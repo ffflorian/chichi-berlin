@@ -7,7 +7,7 @@ linkTitle: 'Felgen'
 slug: 'felgen'
 section: 'rims'
 
-title: 'Felgen' 
+title: 'Felgen'
 description: 'TODO'
 image: '/media/images/rubrics/parts/items/'
 

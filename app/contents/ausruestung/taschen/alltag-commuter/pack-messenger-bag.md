@@ -16,9 +16,9 @@ images:
   - '/media/images/rubrics/accessories/items/pack-messenger-bag_6.jpeg'
 
 description: >
-    Die Restrap Messenger Bag ist die perfekte Alltagstasche und bietet Platz für Wechselkleidung, 
-    einen 13“ Laptop und etwa ein bis zwei junge Kaninchen. Der Stützriemen verhindert das 
-    Herumschwingen und hält die Tasche sicher auf dem Rücken. Gearbeitet aus Cordura, sind alle 
+    Die Restrap Messenger Bag ist die perfekte Alltagstasche und bietet Platz für Wechselkleidung,
+    einen 13“ Laptop und etwa ein bis zwei junge Kaninchen. Der Stützriemen verhindert das
+    Herumschwingen und hält die Tasche sicher auf dem Rücken. Gearbeitet aus Cordura, sind alle
     verwendeten Materialien komplett wasserfest. 100% Handarbeit aus Yorkshire, England.
 
 specs:

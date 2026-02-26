@@ -26,10 +26,10 @@ specs:
   - tyres: 'bis 35 mm'
   - brakes: 'Cantilever/V-Brake Sockel'
   - seatpost: '27,2 mm'
-  - features: 
-    - 'Belt system opening' 
+  - features:
+    - 'Belt system opening'
     - 'Front rack inserts'
-  - sizes: 
+  - sizes:
     - 'S (52)'
     - 'M (54)'
     - 'L (56)'

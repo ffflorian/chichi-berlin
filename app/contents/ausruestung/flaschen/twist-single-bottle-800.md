@@ -19,7 +19,7 @@ description: |
     + Kompatibel mit allen TWIST bases fürs Fahrrad
 
 specs:
-  - colors: 
+  - colors:
     - 'smoke'
   - type: 'Einzelflasche'
   - width: '76 mm'

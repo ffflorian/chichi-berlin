@@ -13,6 +13,6 @@ image: '/media/images/rubrics/parts/items/drive/crankset-blb-pista-vera_1.jpeg'
 
 weight: 4
 menu:
-  - aside_parts_engine  
+  - aside_parts_engine
 
 ---

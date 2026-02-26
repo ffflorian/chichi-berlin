@@ -26,7 +26,7 @@ specs:
   - tyres: 'bis 25 mm'
   - brakes: 'F&R Short-reach Caliper (nicht im Lieferumfang)'
   - seatpost: '27,2 mm'
-  - sizes: 
+  - sizes:
     - '44'
     - '47'
     - '50'

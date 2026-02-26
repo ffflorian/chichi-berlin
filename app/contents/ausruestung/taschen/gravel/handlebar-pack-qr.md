@@ -42,7 +42,7 @@ description: |
     + Handlebar-Pack QR Inner Pocket (Art.Nr. F9924)
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Einzeltasche'
   - lower width: '26 cm'

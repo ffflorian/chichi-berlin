@@ -12,7 +12,7 @@
     {{ with $.Params.subtitle }}
     <p class="page-subtitle">{{ . }}</p>
     {{ end }}
-    
+
     <div class="row-2-cols">
         <article class="col--left">
             <ul class="posts">
@@ -22,13 +22,13 @@
                 </li>
                 {{ end }}
             </ul>
-            
+
             {{ partial "components/posts-list-nav.html" $paginator }}
         </article>
-        
+
         {{ partial "components/blog-sidebar.html" . }}
     </div>
-    
+
 </section>
 {{ end }}
 

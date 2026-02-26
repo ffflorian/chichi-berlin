@@ -1,9 +1,9 @@
 {{ $currentPage := . }}
 
 <aside class="component__blog-sidebar">
-    
+
     {{ if .IsPage }}
-    <a class="go-up" 
+    <a class="go-up"
        href="{{ ($.Site.GetPage "section" "blog").RelPermalink }}"
     >
         ← <span>{{ i18n "back-to-list" }}</span>
@@ -15,7 +15,7 @@
         ← <span>{{ i18n "back-to-overview" }}</span>
     </a>
     {{ end }}
-    
+
     {{ $enabled := default false ($.Site.Data.banner.isEnabled) }}
     {{ if $enabled }}
     <div class="news">
@@ -38,5 +38,5 @@
             {{ end }}
         </ul>
     </nav>
-    
+
 </aside>

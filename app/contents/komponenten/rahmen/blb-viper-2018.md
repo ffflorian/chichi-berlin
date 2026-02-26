@@ -23,7 +23,7 @@ specs:
   - headset: 'tapered, inklusive'
   - bottom-bracket: 'BSA'
   - seatpost: 'integriert'
-  - sizes: 
+  - sizes:
     - '50'
     - '53'
     - '55'

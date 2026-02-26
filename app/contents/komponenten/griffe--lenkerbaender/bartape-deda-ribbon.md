@@ -27,7 +27,7 @@ images:
   - '/media/images/rubrics/parts/items/cockpit/bartape-ribbon_17.jpeg'
 
 description: >
-    Tolle Griffigkeit, gute Wasserfestigkeit. Deda Ribbon Lenkerband beinhaltet Chromfarbene 
+    Tolle Griffigkeit, gute Wasserfestigkeit. Deda Ribbon Lenkerband beinhaltet Chromfarbene
     Plastik Endstopfen und Finishing Klebeband.
 
 specs:

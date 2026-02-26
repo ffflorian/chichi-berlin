@@ -15,7 +15,7 @@ images:
 description: >
     Crane Glocken werde in Osaka, Japan hergestellt. Ihr Klang ist klar und hell.
 
-specs: 
+specs:
   - materials: 'alle Bauteile aus Metall'
   - diameter: '45mm'
 

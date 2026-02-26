@@ -9,7 +9,7 @@ linkTitle: 'Bereifung'
 slug: 'bereifung'
 section: 'tires'
 
-title: 'Bereifung' 
+title: 'Bereifung'
 description: 'TODO'
 image: '/media/images/rubrics/parts/items/'
 

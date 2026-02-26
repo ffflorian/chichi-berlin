@@ -14,11 +14,11 @@ images:
   - '/media/images/rubrics/parts/items/seats/saddle-ridea-full-carbon_4.jpeg'
 
 description: >
-    Der RIDEA S143 Voll-Carbonsattel ist ein super leichter Sattel, mit einem Gewicht von nur 120g. 
-    Die natürliche Flexibilität der Carbonfaser wird genutzt und bietet bestmöglichen Komfort bei 
+    Der RIDEA S143 Voll-Carbonsattel ist ein super leichter Sattel, mit einem Gewicht von nur 120g.
+    Die natürliche Flexibilität der Carbonfaser wird genutzt und bietet bestmöglichen Komfort bei
     komplettem strukturellen Support. Maximale Belastung: 120kg.
-    
-specs: 
+
+specs:
   - type: 'Renn'
   - rail: 'Carbon'
   - color: 'schwarz'

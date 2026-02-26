@@ -12,7 +12,7 @@ images:
   - '/media/images/rubrics/parts/items/cockpit/handlebar-bombtrack-moustache_2.jpg'
 
 description: >
-    
+
 
 
 specs:

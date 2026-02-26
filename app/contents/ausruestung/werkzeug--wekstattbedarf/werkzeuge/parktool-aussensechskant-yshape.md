@@ -11,7 +11,7 @@ image: '/media/images/rubrics/accessories/items/tool-parktool-aussensechskant-ys
 description: >
     Die drei gängigsten Schrauben- und Mutternmaße kombiniert mit dem klassischen Park Tool Y-Schlüsseldesign, aus geschmiedetem CR-V Stahl.
 
-specs: 
+specs:
   - sizes:
     - '8'
     - '9'

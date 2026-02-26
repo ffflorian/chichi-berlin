@@ -24,7 +24,7 @@ specs:
   - tyres: 'bis 28mm'
   - brakes: 'F&R Flat mount disc brake, rotor size up to 160mm (not included)'
   - seatpost: '27,2'
-  - sizes: 
+  - sizes:
     - '48'
     - '51'
     - '54'

@@ -34,7 +34,7 @@ description: |
     + Handlebar-Pack
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Einzeltasche'
   - width: '30 cm'

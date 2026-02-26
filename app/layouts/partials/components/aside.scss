@@ -1,17 +1,17 @@
 
 .component__aside {
-    
+
     display: flex;
     flex-flow: column nowrap;
     justify-content: space-between;
     align-items: stretch;
-    
+
     max-width: rem(300);
     min-width: rem(200);
     width: 20vw;
     height: 100vh;
     height: 100dvh;
-    
+
     // NOTE: compensate header height
     &:before {
         content: '';
@@ -24,7 +24,7 @@
             min-height: rem($desktop_header-height_min);
         }
     }
-    
+
     // NOTE: compensate footer height
     &:after {
         content: '';
@@ -45,23 +45,23 @@
 .aside-nav {
     flex-grow: 1;
     transition: left 0.35s 0.2s;
-    
+
     border-top-right-radius: rem(5);
     border-bottom-right-radius: rem(5);
-    
+
     background-color: color(bg-dark);
-    
+
     margin-top: rem($desktop_aside-gap);
     margin-bottom: rem($desktop_aside-gap);
-    
+
     //left: 100%;
     left: 15%;
-    
+
     position: relative;
-    
+
     &:hover, &[data-state="open"] {
         left: 100%;
-        transition: left 0.2s;    
+        transition: left 0.2s;
     }
 }
 

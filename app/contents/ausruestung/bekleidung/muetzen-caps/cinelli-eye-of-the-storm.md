@@ -10,9 +10,9 @@ image: '/media/images/rubrics/accessories/items/caps-cinelli-2016-eye-of-the-sto
 
 
 description: >
-    
-    
+
+
 specs:
   - season: '2016'
-    
+
 ---

@@ -23,7 +23,7 @@ description: >
 
 specs:
   - type: 'Seitenzug / Renn'
-  - clamp-sizes: 
+  - clamp-sizes:
      - '22,2'
      - '23,8'
   - weight: '48g'

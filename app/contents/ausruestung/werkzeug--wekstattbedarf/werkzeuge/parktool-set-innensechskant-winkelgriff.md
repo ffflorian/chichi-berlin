@@ -13,7 +13,7 @@ description: >
     Verwindungssteifer Werkzeugstahl, gerade Spitze am kurzen, Kugelköpfen am langen Schaft. Präzisionsgefaste Spitzen für optimale Passform. Die komfortablen, ergonomisch geformten P-Griffe aus Nylon liegen optimal in der Hand.
     Robuste (Loch-)Wandhalterung für schnellen Zugriff und Übersichtlichkeit.
 
-specs: 
+specs:
   - features:
     - ''
   - sizes:

@@ -2,25 +2,25 @@
     white-space: nowrap;
     display: inline-flex;
     flex-flow: row nowrap;
-    
+
     .two {
         &:before {
             content: '@';
         }
     }
-    
+
     .three {
         &:before {
             content: '.';
         }
     }
-    
+
     .separator {
         overflow: hidden;
         display: inline-block;
         width: 0;
         font-size: 0;
-        
+
         -moz-user-select: none;
         -webkit-user-select: none;
         -ms-user-select: none;

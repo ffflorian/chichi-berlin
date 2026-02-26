@@ -14,18 +14,18 @@ images:
   - ''
 
 specs:
-  - frametype: 
-  - tubeset-frame: 
-  - fork: 
-  - wheel-size: 
-  - headset-fit: 
-  - bottom-bracket: 
-  - tyre-fit: 
-  - brake-type: 
-  - seatpost 
-  - features: 
-  - sizes: 
-  - weight: 
-  - color: 
+  - frametype:
+  - tubeset-frame:
+  - fork:
+  - wheel-size:
+  - headset-fit:
+  - bottom-bracket:
+  - tyre-fit:
+  - brake-type:
+  - seatpost
+  - features:
+  - sizes:
+  - weight:
+  - color:
 
 ---

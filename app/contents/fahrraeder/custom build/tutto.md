@@ -16,6 +16,6 @@ description: >
    folgt
 
 specs:
- 
+
 
 ---

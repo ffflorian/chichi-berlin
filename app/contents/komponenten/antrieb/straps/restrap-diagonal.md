@@ -25,5 +25,5 @@ specs:
   - colors:
     - 'blau'
     - 'rot'
-    
+
 ---
