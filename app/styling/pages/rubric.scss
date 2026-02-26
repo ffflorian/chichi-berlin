@@ -1,22 +1,22 @@
 .type--rubric {
-    
+
     .contents {
-        
+
         section {
             &:first-child {
                 margin-top: rem($desktop_aside-gap);
             }
-            
+
             &:last-child {
                 margin-bottom: rem($desktop_aside-gap);
             }
-        } 
-        
-        
+        }
+
+
         .rubric--grid {
             display: grid;
             grid-template-columns: repeat(1, 1fr);
-            
+
             @include bp-medium() {
                 grid-template-columns: repeat(2, 1fr);
             }
@@ -24,73 +24,73 @@
             @include bp-desktop() {
                 grid-template-columns: repeat(3, 1fr);
             }
-            
+
             gap: rem(spacing(3));
-            
+
             & > li {
                 a {
                     display: block;
                     width: 100%;
                     height: 100%;
-                    
+
                     .wrap {
                         position: relative;
                         overflow: hidden;
-                        background-color: color(white);                         
+                        background-color: color(white);
                         padding: 0 rem(spacing(1));
                     }
-                    
+
                     &:hover, &:focus {
                         .bg {
                             transform: scale(1.1);
                         }
-                        
+
                         .fg {
                             top: 0;
-                            
+
                             &.is-explanation {
                                 opacity: 1;
                             }
                         }
-                        
+
                         .subtitle h3 {
                             bottom: 100%;
                             transition: bottom .15s ease-in-out 0.0s;
                         }
                     }
-                    
+
                     .bg, .fg {
                         position: inherit;
                         top: 0;
                         left: 0;
                         width: 100%;
                         height: rem(200);
-                        
+
                         @include bp-medium() {
                             height: rem(250);
                         }
                     }
-                    
+
                     .bg {
                         background-position: center;
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-color: transparent;
                         background-blend-mode: normal;
-                        
+
                         transition: transform .4s ease-in-out 0.0s;
                         transform: scale(1.00);
                     }
-                    
+
                     .fg {
                         position: absolute;
                         top: 100%;
-                        
+
                         padding: 0 15%;
                         text-align: center;
-                        
+
                         @include flex-center;
-                        
+
                         transition: top .25s ease-in-out 0.07s;
 
                         h2 {
@@ -103,18 +103,18 @@
                             word-break: break-word;
                             hyphens: auto;
                         }
-                        
+
                         &.is-explanation {
                             top: 0;
                             opacity: 0;
                             padding: 0 5%;
                             background-color: rgba(44, 44, 45, 0.9);
-                            
+
                             transition: opacity .25s ease-in-out 0.07s;
-                            
+
                             h2 {
                                 font-size: rem(24);
-                                
+
                                 color: color(white);
                             }
                         }
@@ -123,7 +123,7 @@
                         overflow: hidden;
                         height: rem(26);
                         position: relative;
-                        
+
                         h3 {
                             @include type(m);
                             font-weight: 300;
@@ -135,66 +135,66 @@
                             width: 100%;
                             padding: 0 rem(spacing(2));
                             margin: 0;
-                            
+
                             transition: bottom .15s ease-in-out 0.2s;
                         }
                     }
                 }
             }
         }
-        
+
         .description {
             max-width: 70%;
             margin: rem(spacing(6)) auto;
-            
+
             ul {
                 list-style: inherit;
                 margin: rem(spacing(1)) auto;
-                
+
                 li {
                     margin-left: rem(spacing(3));
                     padding-left: rem(spacing(0.5));
                 }
             }
-            
+
             em {
                 font-style: italic;
             }
-            
+
             strong {
                 font-weight: bold;
             }
-            
+
             .post-links {
                 margin-top: rem(spacing(2));
                 ul {
                     list-style: initial;
                     margin-left: 1em;
-                    
+
                     li:before {
-                        contents: '';
+                        content: '';
                     }
                 }
-                
+
                 a {
                     @include text-link;
                 }
             }
         }
-        
+
         .configurator-link {
             text-align: center;
-            
+
             a {
                 @include btn--primary;
-                
+
                 @include type-size(ml);
                 font-weight: 400;
-                
+
                 &:before {
                     margin-bottom: -8%;
                 }
-                
+
                 &:hover, &:focus {
                     &:before {
                         height: 260%;
@@ -202,7 +202,7 @@
                 }
             }
         }
-            
+
         .specs {
             max-width: 70%;
             margin-left: auto;
@@ -211,13 +211,13 @@
             margin-bottom: 0;
             display: flex;
             flex-flow: row wrap;
-            
+
             &:last-child {
-                margin-bottom: rem($desktop_aside-gap);    
+                margin-bottom: rem($desktop_aside-gap);
             }
-        
+
             .col--left {
-                margin-bottom: rem(spacing(3));    
+                margin-bottom: rem(spacing(3));
 
                 @include bp-medium() {
                     padding-right: rem(spacing(3));
@@ -228,31 +228,23 @@
                     padding-left: rem(spacing(3));
                 }
             }
-            
-            ul {
-                
-            }
-            
-            li {
-                
-            }
-            
-            .label { 
+
+            .label {
                 &:after {
                     content: ':';
                 }
             }
         }
-        
+
         .copyright {
             max-width: 70%;
             margin: rem(spacing(2)) auto rem($desktop_aside-gap);
-            
+
             em {
                 font-family: 'Open Sans Italic';
                 @include type(m);
             }
         }
     }
-    
+
 }
