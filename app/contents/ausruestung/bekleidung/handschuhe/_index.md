@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Handschuhe'
@@ -9,7 +9,7 @@ section: 'gloves'
 
 title: 'Hand&shy;schuhe'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 4
 menu:

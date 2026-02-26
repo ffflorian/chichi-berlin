@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Pumpen'
@@ -9,11 +9,11 @@ section: 'pumps'
 
 title: 'Pumpen'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 7
 menu:
-  - aside_accessories  
+  - aside_accessories
 
 draft: true
 

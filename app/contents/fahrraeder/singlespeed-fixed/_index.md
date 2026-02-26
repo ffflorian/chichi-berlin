@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Singlespeed & Fixed'
@@ -9,7 +9,7 @@ section: 'singlespeed-fixed'
 
 title: 'Singlespeed & Fixed'
 description: 'leicht, schnell, wendig, minimalistisch, Kurz- und Mitteldistanz, befestigte Wege'
-image: '/media/images/rubrics/bicycles/items/cinelli-tutto-plus_01.jpg'
+image: '/media/images/categories/bicycles/items/cinelli-tutto-plus_01.jpg'
 
 explanation: 'leicht, schnell, wendig, minimalistisch, Kurz- und Mitteldistanz, befestigte Wege'
 

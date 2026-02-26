@@ -1,16 +1,16 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Midnight Special'
 manufacturer: 'Surly'
 
-image: '/media/images/rubrics/bicycles/items/surly-midnight-special-2023_01.jpg'
+image: '/media/images/categories/bicycles/items/surly-midnight-special-2023_01.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/surly-midnight-special-2023_02.jpg'
-  - '/media/images/rubrics/bicycles/items/surly-midnight-special-2023_03.jpg'
+  - '/media/images/categories/bicycles/items/surly-midnight-special-2023_02.jpg'
+  - '/media/images/categories/bicycles/items/surly-midnight-special-2023_03.jpg'
 
 description: |
     Midnight Special glänzt auf löchrigem Asphalt und gelegentlichen Schotterstrecken. Seine 650b Road Plus-Reifen schlucken Straßengeräusche und absorbieren alle Unebenheiten auf der Straße.

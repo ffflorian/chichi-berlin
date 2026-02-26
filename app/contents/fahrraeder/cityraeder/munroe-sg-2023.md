@@ -1,24 +1,24 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Munroe SG'
 manufacturer: 'Bombtrack'
 
-image: '/media/images/rubrics/bicycles/items/munroe-sg-2023_01.jpeg'
+image: '/media/images/categories/bicycles/items/munroe-sg-2023_01.jpeg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/munroe-sg-2023_02.jpeg'
-  - '/media/images/rubrics/bicycles/items/munroe-sg-2023_03.jpeg'
-  - '/media/images/rubrics/bicycles/items/munroe-sg-2023_04.jpeg'
-  - '/media/images/rubrics/bicycles/items/munroe-sg-2023_05.jpeg'
-  - '/media/images/rubrics/bicycles/items/munroe-sg-2023_06.jpeg'
-  - '/media/images/rubrics/bicycles/items/munroe-sg-2023_07.jpeg'
-  - '/media/images/rubrics/bicycles/items/munroe-sg-2023_08.jpeg'
-  - '/media/images/rubrics/bicycles/items/munroe-sg-2023_09.jpeg'
-  - '/media/images/rubrics/bicycles/items/munroe-sg-2023_10.jpeg'
-  - '/media/images/rubrics/bicycles/items/munroe-sg-2023_11.jpeg'
+  - '/media/images/categories/bicycles/items/munroe-sg-2023_02.jpeg'
+  - '/media/images/categories/bicycles/items/munroe-sg-2023_03.jpeg'
+  - '/media/images/categories/bicycles/items/munroe-sg-2023_04.jpeg'
+  - '/media/images/categories/bicycles/items/munroe-sg-2023_05.jpeg'
+  - '/media/images/categories/bicycles/items/munroe-sg-2023_06.jpeg'
+  - '/media/images/categories/bicycles/items/munroe-sg-2023_07.jpeg'
+  - '/media/images/categories/bicycles/items/munroe-sg-2023_08.jpeg'
+  - '/media/images/categories/bicycles/items/munroe-sg-2023_09.jpeg'
+  - '/media/images/categories/bicycles/items/munroe-sg-2023_10.jpeg'
+  - '/media/images/categories/bicycles/items/munroe-sg-2023_11.jpeg'
 
 specs:
   - frametype: 'Diamant'

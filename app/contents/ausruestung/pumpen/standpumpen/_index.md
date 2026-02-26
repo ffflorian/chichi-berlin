@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Standpumpen'
@@ -9,7 +9,7 @@ section: 'stand'
 
 title: 'Stand&shy;pumpen'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 1
 menu:

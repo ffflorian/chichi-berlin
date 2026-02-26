@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Boxen'
@@ -9,11 +9,11 @@ section: 'boxes'
 
 title: 'Boxen'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 1
 menu:
-  - aside_accessories_transportation  
+  - aside_accessories_transportation
 
 draft: true
 

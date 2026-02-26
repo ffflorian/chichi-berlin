@@ -1,23 +1,23 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Handlebar-Pack'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-handlebar-pack-9l_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-handlebar-pack-9l_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-handlebar-pack-9l_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-handlebar-pack-9l_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-handlebar-pack-9l_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-handlebar-pack-9l_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-handlebar-pack-9l_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-handlebar-pack-9l_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-handlebar-pack-9l_08.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-handlebar-pack-9l_09.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-handlebar-pack-15l_01.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-handlebar-pack-9l_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-handlebar-pack-9l_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-handlebar-pack-9l_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-handlebar-pack-9l_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-handlebar-pack-9l_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-handlebar-pack-9l_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-handlebar-pack-9l_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-handlebar-pack-9l_09.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-handlebar-pack-15l_01.jpg'
 
 description: |
     Unverzichtbar, wenn du auf deiner Bikepacking-Tour in der Natur übernachten willst: Das Ortlieb Handlebar-Pack ist die wasserdichte Gepäckrolle mit 9 oder 15 l Volumen für Schlafsack und Isomatte. Außerdem sorgt sie für eine ausgeglichene Gepäck- und Lastenverteilung am Rad. Dank der beidseitigen Rollverschlüsse kannst du jederzeit ganz leicht auf den Inhalt zugreifen. Kompressionsriemen an der Außenseite ermöglichen das Verstauen und Anbringen von weiterem Equipment. Auch vier Haken für die Anbringung des Accessory-Packs als Volumenerweiterung sind bereits vorhanden. Das Montagesystem, bestehend aus Distanzstücken und zwei Gurtbändern mit darunterliegenden haftstarken Klettverschlüssen, sorgt für eine stabile Befestigung an jedem Lenkertyp, auch die Anbringung an Carbonlenkern ist möglich. Eine Kunststoffversteifung im Inneren des Handlebar-Packs und eine Fixierung am Steuerrohr geben verlässliche Stabilität – in jedem Gelände.
@@ -56,7 +56,7 @@ description: |
     + Acessory-Pack
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Einzeltasche'
   - width: '40 cm / 58 cm'

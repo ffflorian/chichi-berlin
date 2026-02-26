@@ -1,12 +1,12 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Tara'
 manufacturer: 'Tubus'
 
-image: '/media/images/rubrics/accessories/items/tubus-tara_01.jpg'
+image: '/media/images/categories/accessories/items/tubus-tara_01.jpg'
 
 description: |
     Seit mehr als 25 Jahren auf den Pisten dieser Welt unterwegs, ist der belastbare Lowrider immer robuster geworden. Schnörkellos in der Form, unkompliziert und variabel in der Montage. Die gesamte Befestigung an der Gabel wurde optimiert, wodurch TARA jetzt noch besser an verschiedenste Gabeln passt und flexibler zu positionieren ist. Zusätzlich gibt es die Möglichkeit, einen Scheinwerfer zu montieren.

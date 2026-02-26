@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Vorbauten'
 slug: 'vorbauten'
 section: 'stems'
 
-title: 'Vorbauten' 
+title: 'Vorbauten'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/'
+image: '/media/images/categories/parts/items/'
 
 weight: 10
 menu:

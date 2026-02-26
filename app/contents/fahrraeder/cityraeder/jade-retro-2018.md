@@ -1,25 +1,25 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Jade Retro'
 manufacturer: 'Winora'
 
-image: '/media/images/rubrics/bicycles/items/jade-retro-2018_1.jpg'
+image: '/media/images/categories/bicycles/items/jade-retro-2018_1.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/jade-retro-2018_2.jpg'
-  - '/media/images/rubrics/bicycles/items/jade-retro-2018_3.jpg'
-  - '/media/images/rubrics/bicycles/items/jade-retro-2018_4.jpg'
+  - '/media/images/categories/bicycles/items/jade-retro-2018_2.jpg'
+  - '/media/images/categories/bicycles/items/jade-retro-2018_3.jpg'
+  - '/media/images/categories/bicycles/items/jade-retro-2018_4.jpg'
 
 description: >
-    Ein echter Retro-Klassiker neu interpretiert: Das JADE mit geschwungenem Alu-Rahmen und 
-    federnder Schwalbe Fat Frank Bereifung, vereint frühere Stilrichtungen gekonnt mit der Moderne. 
-    Liebevolle Details bei Dekor und Ausstattung verleihen diesem Comfort-Modell das gewisse 
-    Extra – für echte Freigeister und Tagträumer, die sicher und komfortabel unterwegs sein wollen. 
-    Der in Rahmenfarbe lackierte System-Gepäckträger von Atran ermöglich eine einfache 
-    Zubehörmontage, egal ob Holzkorb oder Seitentaschen. Mit dem JADE FT behält man dank 
+    Ein echter Retro-Klassiker neu interpretiert: Das JADE mit geschwungenem Alu-Rahmen und
+    federnder Schwalbe Fat Frank Bereifung, vereint frühere Stilrichtungen gekonnt mit der Moderne.
+    Liebevolle Details bei Dekor und Ausstattung verleihen diesem Comfort-Modell das gewisse
+    Extra – für echte Freigeister und Tagträumer, die sicher und komfortabel unterwegs sein wollen.
+    Der in Rahmenfarbe lackierte System-Gepäckträger von Atran ermöglich eine einfache
+    Zubehörmontage, egal ob Holzkorb oder Seitentaschen. Mit dem JADE FT behält man dank
     Front-Gepäckträger seine Einkäufe stets im Blick.
 
 specs:

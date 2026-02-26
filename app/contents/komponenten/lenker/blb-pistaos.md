@@ -1,17 +1,17 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Pista OS'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/cockpit/handlebar-blb-pistaos_1.jpeg'
+image: '/media/images/categories/parts/items/cockpit/handlebar-blb-pistaos_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-pistaos_2.jpeg'
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-pistaos_3.jpeg'
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-pistaos_4.jpeg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-pistaos_2.jpeg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-pistaos_3.jpeg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-pistaos_4.jpeg'
 
 description: ''
 

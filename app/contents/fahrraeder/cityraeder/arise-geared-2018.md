@@ -1,21 +1,21 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Arise Geared'
 manufacturer: 'Bombtrack'
 
-image: '/media/images/rubrics/bicycles/items/arise-geared-2018_1.jpg'
+image: '/media/images/categories/bicycles/items/arise-geared-2018_1.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/arise-geared-2018_2.jpg'
-  - '/media/images/rubrics/bicycles/items/arise-geared-2018_3.jpg'
-  - '/media/images/rubrics/bicycles/items/arise-geared-2018_4.jpg'
-  - '/media/images/rubrics/bicycles/items/arise-geared-2018_5.jpg'
-  - '/media/images/rubrics/bicycles/items/arise-geared-2018_6.jpg'
-  - '/media/images/rubrics/bicycles/items/arise-geared-2018_7.jpg'
-  - '/media/images/rubrics/bicycles/items/arise-geared-2018_8.jpg'
+  - '/media/images/categories/bicycles/items/arise-geared-2018_2.jpg'
+  - '/media/images/categories/bicycles/items/arise-geared-2018_3.jpg'
+  - '/media/images/categories/bicycles/items/arise-geared-2018_4.jpg'
+  - '/media/images/categories/bicycles/items/arise-geared-2018_5.jpg'
+  - '/media/images/categories/bicycles/items/arise-geared-2018_6.jpg'
+  - '/media/images/categories/bicycles/items/arise-geared-2018_7.jpg'
+  - '/media/images/categories/bicycles/items/arise-geared-2018_8.jpg'
 
 description: >
      Das Arise Geared ist mit seiner Rahmengeomerie besonders für Vielfahrer in der Stadt attraktiv. Die Komponenten garantieren besten Komfort bei alltäglicher Nutzung.

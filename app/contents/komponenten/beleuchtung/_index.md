@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Beleuchtung'
 slug: 'beleuchtung'
 section: 'light'
 
-title: 'Beleuchtung' 
+title: 'Beleuchtung'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/'
+image: '/media/images/categories/parts/items/'
 
 weight: 3
 menu:

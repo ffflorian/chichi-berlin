@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Bremsen'
 slug: 'bremsen'
 section: 'brakes'
 
-title: 'Bremsen' 
+title: 'Bremsen'
 description: 'Bremsen'
-image: '/media/images/rubrics/parts/items/brakes/kategoriebild-bremsen.jpg'
+image: '/media/images/categories/parts/items/brakes/kategoriebild-bremsen.jpg'
 
 weight: 2
 menu:

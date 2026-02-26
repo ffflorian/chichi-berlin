@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Falt'
@@ -9,7 +9,7 @@ section: 'fold'
 
 title: 'Falt&shy;schlösser'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/locks-abus-fold-bordocentium_1.jpg'
+image: '/media/images/categories/accessories/items/locks-abus-fold-bordocentium_1.jpg'
 
 weight: 3
 menu:

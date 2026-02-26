@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Aerobar'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/cockpit/handlebar-blb-aerobar_1.jpeg'
+image: '/media/images/categories/parts/items/cockpit/handlebar-blb-aerobar_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-blb-aerobar_2.jpeg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-blb-aerobar_2.jpeg'
 
 description: >
     Ausgehend vom großen Erfolg des BLB Bullhorn und ispiriert von Aero Base Lenkern wurde dieser Aerobar entworfen. Er hat eine abgeflachte Grifffläche für noch mehr Komfort, während seine schmale Bauart Dich problemlos durch den engsten Verkehr filtern lässt.

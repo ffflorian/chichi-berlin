@@ -1,33 +1,33 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Seat-Pack'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-11l_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-11l_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-16l_01.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-11l_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-16l_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-11l_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-16l_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-16l_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-11l_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-16l_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-16l_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-16l_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-16l_08.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-11l_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-16l_09.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-seat-pack-16l_10.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-16l_01.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-11l_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-16l_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-11l_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-16l_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-16l_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-11l_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-16l_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-16l_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-16l_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-16l_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-11l_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-16l_09.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-seat-pack-16l_10.jpg'
 
 description: |
     Auf geht’s zum nächsten Microadventure! Das Herzstück deiner Bikepacking-Ausrüstung, das Ortlieb Seat-Pack, wird mit extra starken Klettverschlüssen einfach an die Sattelstütze montiert. Praktischer Nebeneffekt: die Satteltasche dient zugleich als Schutzblech im Gelände. Das geräumige, wasserdichte Seat-Pack sorgt zuverlässig für trockenen Klamottennachschub. Die Tasche lässt sich durch das seitliche Abspannen des Rollverschlusses clever zwischen 8 und 16,5 Litern bzw. zwischen 7 und 11 Litern Volumen variieren, je nachdem, wie lange du unterwegs bist. Ein zusätzliches Ventil sorgt schnell und einfach für Kompression und noch mehr Kompaktheit. Für eine Tagestour kannst du das Seat-Pack ideal als Rucksack-Ersatz verwenden, egal ob du mit Crossbike, Mountainbike oder Rennrad unterwegs bist. Die Tasche ist in zwei Größen erhältlich.
     Dank der elastischen Kordelfixierung auf der Oberseite hast du  zusätzlich Stauraum für den schnellen Zugriff (nicht Teil des 11 l slate Modells).
-    Sechs Zentimeter Anbringhöhe an der Sattelstütze reichen der kleineren der beiden Taschen bereits aus, deshalb eignet sich die kompaktere Variante ideal für kleinere Rahmengrößen, Fullys und Bikes mit absenkbarer Sattelstütze. 
+    Sechs Zentimeter Anbringhöhe an der Sattelstütze reichen der kleineren der beiden Taschen bereits aus, deshalb eignet sich die kompaktere Variante ideal für kleinere Rahmengrößen, Fullys und Bikes mit absenkbarer Sattelstütze.
 
     Lieferumfang: Satteltasche mit Klettverschluss, Ventil, verstellbaren Gurten, Innenversteifung
 
@@ -68,7 +68,7 @@ description: |
     + Seat-Pack Support-Strap (E216)
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Einzeltasche'
   - width: '40 cm / 64 cm'

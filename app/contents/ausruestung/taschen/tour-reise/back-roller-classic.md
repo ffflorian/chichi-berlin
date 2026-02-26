@@ -1,23 +1,23 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Back-Roller Classic'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_08.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_09.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_10.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_09.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_10.jpg'
 
 description: |
     Robustes Polyestergewebe macht ihn zum langlebigen Touren-Begleiter. Ausgestattet mit hermetischen Rollverschlüssen sorgt er dafür, dass Verpflegung und Equipment sicher verpackt und wasserdicht geschützt am Ziel ankommen. Mit dem Quick-Lock2.1-Aufhängesystem lässt sich der Klassiker einfach und schnell am Rad befestigen und wieder abnehmen. Beim Transport zu Fuß sorgt der Schultergurt für ein angenehmes Tragegefühl.

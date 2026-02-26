@@ -1,23 +1,23 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Sport-Roller Classic'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classic_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-classic_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classic_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classic_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classic_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classic_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classic_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classic_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classic_08.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classic_09.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-classic_10.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-classic_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-classic_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-classic_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-classic_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-classic_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-classic_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-classic_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-classic_09.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-classic_10.jpg'
 
 description: |
     Die klassische Packtasche aus strapazierfähigem Polyestergewebe zeigt in jeder Situation Kampfgeist. Der Sport-Roller Classic ist für Lowrider-Gepäckträger am Vorderrad oder Hinterradgepäckträger geeignet und kann auch als Radtasche am Kinderrad verwendet werden. Durch das Quick-Lock 2.1 - Aufhängesystem lässt er sich schnell und einfach am Rad befestigen und wieder abnehmen.

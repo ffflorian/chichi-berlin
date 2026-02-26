@@ -1,16 +1,16 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Track'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/drive/chainring-blb-track_1.jpeg'
+image: '/media/images/categories/parts/items/drive/chainring-blb-track_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/drive/chainring-blb-track_2.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chainring-blb-track_3.jpeg'
+  - '/media/images/categories/parts/items/drive/chainring-blb-track_2.jpeg'
+  - '/media/images/categories/parts/items/drive/chainring-blb-track_3.jpeg'
 
 
 description: >
@@ -27,5 +27,5 @@ specs:
     - 'schwarz'
     - 'silber'
     - 'weiß'
-    
+
 ---

@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Quick Rack Light'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/ortlieb-quick-rack-light_01.jpg'
+image: '/media/images/categories/accessories/items/ortlieb-quick-rack-light_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/ortlieb-quick-rack-light_02.jpg'
+  - '/media/images/categories/accessories/items/ortlieb-quick-rack-light_02.jpg'
 
 description: |
     Wer es clean mag und bei seinem Fahrrad auf jedes Gramm achtet, wird den Quick Rack Light lieben. Mit nur 440 Gramm ist er gut 140 Gramm leichter als sein großer Bruder, der Quick Rack. Und trotzdem kann er ihm in Sachen Funktionalität durchaus das Wasser reichen. Mit zwei stabilen Seitenstreben ist er geeignet für sämtliche ORTLIEB Seitentaschen und damit maximal flexibel. Dein puristisches und leichtes Bike wird im Handumdrehen zu einem praktischen Rad für alltägliche Aktivitäten wie Einkaufen oder Pendeln. In nur 15 Sekunden kannst du den Quick Rack Light montieren und in lediglich 5 Sekunden wieder demontieren. Die Streben mit 10 mm Rohrdurchmesser tragen bis zu 20 kg Gepäck.

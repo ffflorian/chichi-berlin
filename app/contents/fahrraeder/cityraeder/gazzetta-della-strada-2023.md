@@ -1,19 +1,19 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Gazzetta Della Strada'
 manufacturer: 'Cinelli'
 
-image: '/media/images/rubrics/bicycles/items/cinelli-gazzetta-della-strada-2023_01.jpg'
+image: '/media/images/categories/bicycles/items/cinelli-gazzetta-della-strada-2023_01.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/cinelli-gazzetta-della-strada-2023_02.jpg'
-  - '/media/images/rubrics/bicycles/items/cinelli-gazzetta-della-strada-2023_03.jpg'
-  - '/media/images/rubrics/bicycles/items/cinelli-gazzetta-della-strada-2023_04.jpg'
-  - '/media/images/rubrics/bicycles/items/cinelli-gazzetta-della-strada-2023_05.jpg'
-  - '/media/images/rubrics/bicycles/items/cinelli-gazzetta-della-strada-2023_06.jpg'
+  - '/media/images/categories/bicycles/items/cinelli-gazzetta-della-strada-2023_02.jpg'
+  - '/media/images/categories/bicycles/items/cinelli-gazzetta-della-strada-2023_03.jpg'
+  - '/media/images/categories/bicycles/items/cinelli-gazzetta-della-strada-2023_04.jpg'
+  - '/media/images/categories/bicycles/items/cinelli-gazzetta-della-strada-2023_05.jpg'
+  - '/media/images/categories/bicycles/items/cinelli-gazzetta-della-strada-2023_06.jpg'
 
 description: >
      Das Gazzetta della Strada ist Cinellis gefeierte stadttaugliche Re-interpretation des klassischen französischen Randonneurs. Es wurde designt, um jedes Wetter und alle erdenklichen im Alltag anfallenden Transporte zu meistern.

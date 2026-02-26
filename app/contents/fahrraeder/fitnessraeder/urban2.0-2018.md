@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Urban 2.0'
 manufacturer: 'BBF Bike'
 
-image: '/media/images/rubrics/bicycles/items/urban2.0-2018_1.jpg'
+image: '/media/images/categories/bicycles/items/urban2.0-2018_1.jpg'
 
 description: >
-     Alles was Du brauchst, um auf befestigten Wegen schnell zu sein. Leicht genug, um für ein paar 
+     Alles was Du brauchst, um auf befestigten Wegen schnell zu sein. Leicht genug, um für ein paar
      Treppen geschultert zu werden. Mit Anbaumöglichkeiten für Schutzbleche und Gepäckträger.
 
 specs:

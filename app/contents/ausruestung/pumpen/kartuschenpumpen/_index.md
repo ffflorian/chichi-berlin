@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Kartuschenpumpen'
@@ -9,7 +9,7 @@ section: 'cartridge'
 
 title: 'Kartuschen&shy;pumpen'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 3
 menu:

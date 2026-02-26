@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Kindersitze'
@@ -9,11 +9,11 @@ section: 'childrens-seats'
 
 title: 'Kinder&shy;sitze'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 6
 menu:
-  - aside_accessories  
+  - aside_accessories
 
 draft: true
 

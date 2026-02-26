@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Lockdown'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/drive/straps-blb-lockdown_1.jpeg'
+image: '/media/images/categories/parts/items/drive/straps-blb-lockdown_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/drive/straps-blb-lockdown_2.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-blb-lockdown_2.jpeg'
 
 description: >
     Die BLB Lockdown Straps funktionieren mit fast jedem Pedal und sind wahnsinnig haltbar. Selbst härteste Beanspruchung lassen sie sich auch nach einem Jahr nicht anmerken. Reflektierende Logos erhöhen Deine Sichtbarkeit bei Nacht.
@@ -17,5 +17,5 @@ description: >
 
 specs:
   - color: 'schwarz'
-    
+
 ---

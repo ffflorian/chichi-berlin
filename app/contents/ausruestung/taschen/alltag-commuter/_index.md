@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Alltag & Commuter'
@@ -9,10 +9,10 @@ section: 'commuter'
 
 title: 'Alltag & Commuting'
 description: 'Im Alltag alles dabei haben!'
-image: '/media/images/rubrics/accessories/items/sub-backpack_1.jpeg'
+image: '/media/images/categories/accessories/items/sub-backpack_1.jpeg'
 
 weight: 2
 menu:
-  - aside_accessories_bags  
+  - aside_accessories_bags
 
 ---

@@ -1,22 +1,22 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'S512H'
 manufacturer: 'YBN'
 
-image: '/media/images/rubrics/parts/items/drive/chain-ybn-s512h_1.jpeg'
+image: '/media/images/categories/parts/items/drive/chain-ybn-s512h_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/drive/chain-ybn-s512h_2.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chain-ybn-s512h_3.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chain-ybn-s512h_4.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chain-ybn-s512h_5.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chain-ybn-s512h_6.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chain-ybn-s512h_7.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chain-ybn-s512h_8.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chain-ybn-s512h_9.jpeg'
+  - '/media/images/categories/parts/items/drive/chain-ybn-s512h_2.jpeg'
+  - '/media/images/categories/parts/items/drive/chain-ybn-s512h_3.jpeg'
+  - '/media/images/categories/parts/items/drive/chain-ybn-s512h_4.jpeg'
+  - '/media/images/categories/parts/items/drive/chain-ybn-s512h_5.jpeg'
+  - '/media/images/categories/parts/items/drive/chain-ybn-s512h_6.jpeg'
+  - '/media/images/categories/parts/items/drive/chain-ybn-s512h_7.jpeg'
+  - '/media/images/categories/parts/items/drive/chain-ybn-s512h_8.jpeg'
+  - '/media/images/categories/parts/items/drive/chain-ybn-s512h_9.jpeg'
 
 description: >
     Eine großartige Gelegenheit, Deinen Aufbau farblich zu vollenden, ohne danach ein riesen Loch im Portemonnaie zu haben.

@@ -1,25 +1,25 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Numerino'
 manufacturer: 'ABUS'
 copyright: '© ABUS August Bremicker Söhne KG'
 
-image: '/media/images/rubrics/accessories/items/locks-abus-cable-numerino_1.jpg'
+image: '/media/images/categories/accessories/items/locks-abus-cable-numerino_1.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/locks-abus-cable-numerino_2.jpg'
-  - '/media/images/rubrics/accessories/items/locks-abus-cable-numerino_3.jpg'
-  - '/media/images/rubrics/accessories/items/locks-abus-cable-numerino_4.jpg'
-  - '/media/images/rubrics/accessories/items/locks-abus-cable-numerino_5.jpg'
+  - '/media/images/categories/accessories/items/locks-abus-cable-numerino_2.jpg'
+  - '/media/images/categories/accessories/items/locks-abus-cable-numerino_3.jpg'
+  - '/media/images/categories/accessories/items/locks-abus-cable-numerino_4.jpg'
+  - '/media/images/categories/accessories/items/locks-abus-cable-numerino_5.jpg'
 
 description: |
     Guter Schutz bei niedrigem Diebstahlrisiko
     Empfohlen für die Absicherung günstiger Zweiräder und Kinderräder
 
-specs: 
+specs:
   - type: 'Kabel'
   - length: '85cm'
   - weight: '350g'

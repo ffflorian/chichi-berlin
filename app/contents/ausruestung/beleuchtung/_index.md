@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Beleuchtung'
@@ -9,11 +9,11 @@ section: 'lights'
 
 title: 'Beleuchtung'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 2
 menu:
-  - aside_accessories  
+  - aside_accessories
 
 draft: true
 

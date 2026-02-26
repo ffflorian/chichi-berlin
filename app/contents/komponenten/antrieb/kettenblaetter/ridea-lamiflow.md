@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Lami Flow'
 manufacturer: 'Ridea'
 
-image: '/media/images/rubrics/parts/items/drive/chainring-ridea-lamiflow_1.jpeg'
+image: '/media/images/categories/parts/items/drive/chainring-ridea-lamiflow_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/drive/chainring-ridea-lamiflow_2.jpeg'
+  - '/media/images/categories/parts/items/drive/chainring-ridea-lamiflow_2.jpeg'
 
 description: >
     Brand new high strength, lightweight 7150-T7 alloy chain ring with innovative aero technology.

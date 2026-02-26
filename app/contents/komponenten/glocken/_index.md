@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Glocken'
 slug: 'glocken'
 section: 'bells'
 
-title: 'Glocken' 
+title: 'Glocken'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/cockpit/kategoriebild-glocke.png'
+image: '/media/images/categories/parts/items/cockpit/kategoriebild-glocke.png'
 
 weight: 7
 menu:

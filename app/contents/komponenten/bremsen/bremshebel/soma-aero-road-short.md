@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Aoero Road Short'
 manufacturer: 'Soma'
 
-image: '/media/images/rubrics/parts/items/brakes/lever-mech-soma-aero-road-short_1.jpg'
+image: '/media/images/categories/parts/items/brakes/lever-mech-soma-aero-road-short_1.jpg'
 
 images:
-  - '/media/images/rubrics/parts/items/brakes/'
+  - '/media/images/categories/parts/items/brakes/'
 
 description: >
     G

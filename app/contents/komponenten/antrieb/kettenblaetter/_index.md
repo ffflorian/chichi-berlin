@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Kettenblätter'
@@ -9,10 +9,10 @@ section: 'chainrings'
 
 title: 'Ketten&shy;blätter'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/drive/chainring-blb-track_1.jpeg'
+image: '/media/images/categories/parts/items/drive/chainring-blb-track_1.jpeg'
 
 weight: 3
 menu:
-  - aside_parts_engine  
+  - aside_parts_engine
 
 ---

@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Gepäckträger'
 slug: 'gepaeckträger'
 section: 'racks'
 
-title: 'Gepäck&shy;träger' 
+title: 'Gepäck&shy;träger'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/rack-tubus-logo-classic_01.jpg'
+image: '/media/images/categories/parts/items/rack-tubus-logo-classic_01.jpg'
 
 weight: 8
 menu:

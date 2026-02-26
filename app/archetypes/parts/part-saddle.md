@@ -1,17 +1,17 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: ''
 manufacturer: 'Selle Italia'
 
-image: '/media/images/rubrics/parts/items/'
+image: '/media/images/categories/parts/items/'
 
 description: >
-    
-specs: 
-  - type: 
+
+specs:
+  - type:
   - material:
   - breadth:
   - lenght;

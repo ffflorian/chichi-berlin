@@ -1,25 +1,25 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Sport-Roller City'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-city_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-city_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-city_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-city_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-city_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-city_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-city_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-city_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-city_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-city_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-city_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-city_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-city_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-city_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-city_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-city_08.jpg'
 
 description: |
     Es muss nicht immer die große Outdoor-Tour sein: Die Sport-Roller schenken auch City-Bikern mehr Flexibilität. Ob beidseitige Vorder- und Hinterrad-Beladung oder Benutzung einer einzigen Tasche: Sie liefern das Picknick ins Grüne, das Sport-Equipment ins Fitness-Studio und den Großeinkauf nach Hause.
-    Leuchtstarke Reflektoren aus 3M-Scotchlite-Reflexmaterial an den Taschenseiten setzen auf gesteigerte Verkehrssicherheit. Und die kostengünstigen Basics sind ausbaufähig: Die Sport-Roller City besitzen einen Kantenschutz mit Schlitzen, an dem das ORTLIEB Radtaschentragesystem angebracht werden kann. 
+    Leuchtstarke Reflektoren aus 3M-Scotchlite-Reflexmaterial an den Taschenseiten setzen auf gesteigerte Verkehrssicherheit. Und die kostengünstigen Basics sind ausbaufähig: Die Sport-Roller City besitzen einen Kantenschutz mit Schlitzen, an dem das ORTLIEB Radtaschentragesystem angebracht werden kann.
 
     Lieferumfang: Taschenpaar und Reduzierstücke 8, 11 und 16 mm (je 2 Paar)
 

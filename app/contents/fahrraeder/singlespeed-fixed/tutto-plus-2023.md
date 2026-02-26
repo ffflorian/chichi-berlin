@@ -1,16 +1,16 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Tutto Plus'
 manufacturer: 'Cinelli'
 
-image: '/media/images/rubrics/bicycles/items/cinelli-tutto-plus_01.jpg'
+image: '/media/images/categories/bicycles/items/cinelli-tutto-plus_01.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/cinelli-tutto-plus_02.jpg'
-  - '/media/images/rubrics/bicycles/items/cinelli-tutto-plus_03.jpg'
+  - '/media/images/categories/bicycles/items/cinelli-tutto-plus_02.jpg'
+  - '/media/images/categories/bicycles/items/cinelli-tutto-plus_03.jpg'
 
 description: >
     Das Tutto Plus ist das neueste und raffinierteste City-Bahnrad von Cinelli, das sich von einem Messenger-Arbeitsrad mit vorderem Gepäckträger in ein Criterium-Bike, in ein Singlespeed-Cyclocross und in einen unzerstörbaren Pendler verwandeln kann.

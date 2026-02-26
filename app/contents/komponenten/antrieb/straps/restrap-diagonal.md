@@ -1,21 +1,21 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Diagonal'
 manufacturer: 'RESTRAP'
 
-image: '/media/images/rubrics/parts/items/drive/straps-restrap-diagonal_1.jpeg'
+image: '/media/images/categories/parts/items/drive/straps-restrap-diagonal_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/drive/straps-restrap-diagonal_2.jpeg'
-  - '/media/images/rubrics/parts/items/drive/straps-restrap-diagonal_3.jpeg'
-  - '/media/images/rubrics/parts/items/drive/straps-restrap-diagonal_4.jpeg'
-  - '/media/images/rubrics/parts/items/drive/straps-restrap-diagonal_5.jpeg'
-  - '/media/images/rubrics/parts/items/drive/straps-restrap-diagonal_6.jpeg'
-  - '/media/images/rubrics/parts/items/drive/straps-restrap-diagonal_7.jpeg'
-  - '/media/images/rubrics/parts/items/drive/straps-restrap-diagonal_8.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-restrap-diagonal_2.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-restrap-diagonal_3.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-restrap-diagonal_4.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-restrap-diagonal_5.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-restrap-diagonal_6.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-restrap-diagonal_7.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-restrap-diagonal_8.jpeg'
 
 description: >
     Das erste Produkt in der Geschichte von Restrap erfreut sich nach wie vor großer Beliebtheit.
@@ -25,5 +25,5 @@ specs:
   - colors:
     - 'blau'
     - 'rot'
-    
+
 ---

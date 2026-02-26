@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Karten-, Handy-, Kamera-Halterungen'
@@ -9,11 +9,11 @@ section: 'devices'
 
 title: 'Halterungen für Karten, Handy, Kamera'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 3
 menu:
-  - aside_accessories_mounts 
+  - aside_accessories_mounts
 
 draft: true
 

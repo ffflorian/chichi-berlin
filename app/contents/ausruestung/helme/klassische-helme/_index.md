@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Klassische Helme'
@@ -9,7 +9,7 @@ section: 'helmets'
 
 title: 'Klassische Helme'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/helmet-stormchaser_01.jpg'
+image: '/media/images/categories/accessories/items/helmet-stormchaser_01.jpg'
 
 weight: 2
 menu:

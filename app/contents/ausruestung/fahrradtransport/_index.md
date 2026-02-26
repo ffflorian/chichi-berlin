@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Fahrradtransport'
@@ -9,11 +9,11 @@ section: 'transportation'
 
 title: 'Fahrrad&shy;transport'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 3
 menu:
-  - aside_accessories  
+  - aside_accessories
 
 draft: true
 

@@ -1,25 +1,25 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Duffle'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_08.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_09.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_10.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_11.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-duffle-60l_12.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_09.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_10.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_11.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-duffle-60l_12.jpg'
 
 description: |
     Wer auf seinen Abenteuern gerne die Extreme auslotet, erwartet entsprechendes Durchhaltevermögen auch von seinem Equipment. Die Duffle schließt Bekleidung & Co. wasserdicht ein und ist durch ihre bequem gepolsterten, auch als Tragegriffe verwendbaren Schultergurte schnell zum praktischen Rucksack umfunktionierbar. Der lange wasserdichte TIZIP-Reißverschluss (überarbeitete Version) ermöglicht schnellen Zugriff auf die Ausrüstung, deren Packmaß sich mit dem innenliegenden Kompressionsgurt (nicht bei Größe40L) zusätzlich verkleinern lässt. Ihr verstärkter Boden aus abriebfestem Cordura-Gewebe macht sie zum langlebigen Expeditionspartner. Mit einem separaten kleinen Kabelschloss (nicht im Lieferumfang enthalten) kann die Tasche verschlossen werden.

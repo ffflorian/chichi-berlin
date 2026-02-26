@@ -1,22 +1,22 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Packing Cubes for Panniers'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-packing-cubes-for-panniers_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-packing-cubes-for-panniers_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-packing-cubes-for-panniers_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-packing-cubes-for-panniers_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-packing-cubes-for-panniers_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-packing-cubes-for-panniers_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-packing-cubes-for-panniers_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-packing-cubes-for-panniers_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-packing-cubes-for-panniers_08.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-packing-cubes-for-panniers_09.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-packing-cubes-for-panniers_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-packing-cubes-for-panniers_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-packing-cubes-for-panniers_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-packing-cubes-for-panniers_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-packing-cubes-for-panniers_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-packing-cubes-for-panniers_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-packing-cubes-for-panniers_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-packing-cubes-for-panniers_09.jpg'
 
 description: |
     Finden statt Suchen lautet die Devise. Die Packing Cubes sparen Zeit und Nerven, weil sie dich beim gut organisierten Packen für deine Radreise unterstützen: In den Taschen lassen sich Campingausrüstung, Kleidung, Erste-Hilfe-Ausrüstung, Werkzeug, Waschzeug und vieles mehr unterbringen. Dieses Ordnungssystem ist für die kleinen Dinge gemacht, die in den Tiefen der Radtaschen oft nach unten rutschen oder sich in vielen kleinen Beuteln irgendwo befinden. Außerdem wird dadurch die getrennte Aufbewahrung von sauberer und schmutziger Ausrüstung wie z. B. Wäsche erleichtert. Die drei Taschen mit 2 x 6 L und 1 x 5 L Volumen passen übereinander gestapelt perfekt in den Ortlieb Back-Roller oder Velo-Shopper und Bike-Packer.

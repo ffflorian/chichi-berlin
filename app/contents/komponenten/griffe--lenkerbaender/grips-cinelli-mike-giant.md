@@ -1,12 +1,12 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Mike Giant'
 manufacturer: 'Cinelli'
 
-image: '/media/images/rubrics/parts/items/cockpit/grips-cinelli-mike-giant.jpeg'
+image: '/media/images/categories/parts/items/cockpit/grips-cinelli-mike-giant.jpeg'
 
 description: >
     Diese Griffe im "Mike Giant" - Design punkten mit einer samtigen Haptik und Fixierringen aus Metall.

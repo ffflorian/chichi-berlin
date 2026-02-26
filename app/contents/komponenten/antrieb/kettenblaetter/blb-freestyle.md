@@ -1,19 +1,19 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Freestyle'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/drive/chainring-blb-freestyle_1.jpeg'
+image: '/media/images/categories/parts/items/drive/chainring-blb-freestyle_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/drive/chainring-blb-freestyle_2.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chainring-blb-freestyle_3.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chainring-blb-freestyle_4.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chainring-blb-freestyle_5.jpeg'
-  - '/media/images/rubrics/parts/items/drive/chainring-blb-freestyle_6.jpeg'
+  - '/media/images/categories/parts/items/drive/chainring-blb-freestyle_2.jpeg'
+  - '/media/images/categories/parts/items/drive/chainring-blb-freestyle_3.jpeg'
+  - '/media/images/categories/parts/items/drive/chainring-blb-freestyle_4.jpeg'
+  - '/media/images/categories/parts/items/drive/chainring-blb-freestyle_5.jpeg'
+  - '/media/images/categories/parts/items/drive/chainring-blb-freestyle_6.jpeg'
 
 description: >
     Super steif und robust.
@@ -28,5 +28,5 @@ specs:
     - 'schwarz'
     - 'silber'
     - 'weiß'
-    
+
 ---

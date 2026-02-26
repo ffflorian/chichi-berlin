@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Körbe'
@@ -9,11 +9,11 @@ section: 'baskets'
 
 title: 'Körbe'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 2
 menu:
-  - aside_accessories_mounts 
+  - aside_accessories_mounts
 
 draft: true
 

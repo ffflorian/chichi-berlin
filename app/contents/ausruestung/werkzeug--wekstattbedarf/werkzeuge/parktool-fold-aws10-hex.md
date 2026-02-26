@@ -1,17 +1,17 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Mini-Tool Innensechskant-Set'
 manufacturer: 'Parktool'
 
-image: '/media/images/rubrics/accessories/items/tool-parktool-fold-aws10-hex.png'
+image: '/media/images/categories/accessories/items/tool-parktool-fold-aws10-hex.png'
 
 description: >
     Faltwerkzeug mit Innensechskant
 
-specs: 
+specs:
   - weight: '110g'
   - sizes:
     - '1,5'

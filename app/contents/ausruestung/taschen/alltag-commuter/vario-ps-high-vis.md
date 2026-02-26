@@ -1,27 +1,27 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Vario PS High Vis'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_08.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_09.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_10.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_11.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_12.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_13.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario-ps-high-vis_14.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_09.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_10.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_11.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_12.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_13.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario-ps-high-vis_14.jpg'
 
 description: |
     Mit dem Flap High Visibility wird der innovative Hybrid aus Rucksack und Radtasche zum Vario PS High Visibility. Dabei sorgt das Gewebe des Flaps mit eingearbeitetem Reflexgarn für mehr Sichtbarkeit im Straßenverkehr. Auf der einen Seite der Tasche befindet sich das bewährte Quick-Lock2.1 Halterungssystem für den Gepäckträger und auf der anderen Seite ein Rückentragesystem mit ergonomischen Schulterträgern. Je nach aktueller Verwendung, verdeckt und schützt das Flap die Seite, die gerade nicht benötigt wird. Mit einer integrierten Tasche bietet das Flap zusätzlichen Stauraum. Kleineres Equipment, wie Smartphone oder Schlüssel, finden in der Reißverschlussaußentasche Platz. Im Inneren des wasserdichten Multitalents befindet sich ein gepolstertes Laptopfach, das über den bewährten Rollverschluss zugänglich ist. Der Vario PS High Visibility ist natürlich 100 % wasserdicht und nachhaltig in Deutschland hergestellt.
@@ -51,7 +51,7 @@ description: |
     + Anti-Theft-Device (E124), QL2.1 Haken 18 mm (E211) & 20 mm (E193)
 
 specs:
-  - colors: 
+  - colors:
     - 'schwarz reflex'
   - bag type: 'Einzeltasche'
   - width: '31 cm'

@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Felgen'
 slug: 'felgen'
 section: 'rims'
 
-title: 'Felgen' 
+title: 'Felgen'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/'
+image: '/media/images/categories/parts/items/'
 
 weight: 11
 menu:

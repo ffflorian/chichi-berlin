@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Aerobar Carbon'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/cockpit/handlebar-blb-aerobarcarbon_1.jpeg'
+image: '/media/images/categories/parts/items/cockpit/handlebar-blb-aerobarcarbon_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-blb-aerobarcarbon_2.jpeg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-blb-aerobarcarbon_2.jpeg'
 
 description: >
     Der beliebte BLB Aerobar ist nun auch aus Carbon mit glänzender Optik zu haben.

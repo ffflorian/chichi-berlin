@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Bremskörper'
@@ -9,10 +9,10 @@ section: 'bodies'
 
 title: 'Brems&shy;körper'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/brakes/kategoriebild-bremskoerper.jpg'
+image: '/media/images/categories/parts/items/brakes/kategoriebild-bremskoerper.jpg'
 
 weight: 2
 menu:
-  - aside_parts_brakes  
+  - aside_parts_brakes
 
 ---

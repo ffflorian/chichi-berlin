@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Drahtseil'
@@ -9,7 +9,7 @@ section: 'cable'
 
 title: 'Drahtseil-Schlösser'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/locks-abus-cable-cetero.jpg'
+image: '/media/images/categories/accessories/items/locks-abus-cable-cetero.jpg'
 
 weight: 4
 menu:

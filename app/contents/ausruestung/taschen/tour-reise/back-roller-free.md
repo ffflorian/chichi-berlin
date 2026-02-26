@@ -1,21 +1,21 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Back-Roller Free (PVC-frei)'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-free_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-back-roller-free_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-free_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-free_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-free_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-free_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-free_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-free_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-free_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-free_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-free_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-free_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-free_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-free_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-free_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-back-roller-free_08.jpg'
 
 description: |
     Für alle, die auf PVC komplett verzichten wollen: Der bewährte Ortlieb Back-Roller in der PVC-freien Variante. Die Hinterradtasche mit dem Rollverschluss ist unschlagbar praktisch für Bike-Touren – oder den Großeinkauf am Samstag – denn hier passt ordentlich was rein! Außen wasserdicht, innen leicht zu reinigen und mit dem Schultergurt auch als Umhängetasche tragbar, ist der Back-Roller Free quasi unverzichtbar für alle, die öfter mal mit Gepäck auf dem Fahrrad unterwegs sind. Dank Quick-Lock 2.1 System passen die Taschen auf jeden Gepäckträger bis 16 mm Rohrdurchmesser. Größere Haken, z. B. für E-Bikes, gibt es als separates Zubehör.

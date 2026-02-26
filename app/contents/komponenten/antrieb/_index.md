@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Antrieb'
@@ -9,10 +9,10 @@ section: 'drive'
 
 title: 'Antrieb'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/drive/kategoriebild-antrieb.jpg'
+image: '/media/images/categories/parts/items/drive/kategoriebild-antrieb.jpg'
 
 weight: 1
 menu:
-  - aside_parts  
+  - aside_parts
 
 ---

@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Montageständer'
@@ -9,7 +9,7 @@ section: 'workstands'
 
 title: 'Montage&shy;ständer'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/tool-parktool-workstand-pcs4ext.png'
+image: '/media/images/categories/accessories/items/tool-parktool-workstand-pcs4ext.png'
 
 weight: 1
 menu:

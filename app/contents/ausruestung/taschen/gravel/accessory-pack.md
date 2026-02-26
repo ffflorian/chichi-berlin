@@ -1,21 +1,21 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Accessory-Pack'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-accessory-pack_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-accessory-pack_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-accessory-pack_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-accessory-pack_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-accessory-pack_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-accessory-pack_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-accessory-pack_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-accessory-pack_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-accessory-pack_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-accessory-pack_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-accessory-pack_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-accessory-pack_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-accessory-pack_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-accessory-pack_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-accessory-pack_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-accessory-pack_08.jpg'
 
 description: |
     Wohin mit den kleinen, aber wichtigen Extras auf deiner Bikepacking-Tour? Snacks, Smartphone, Regenschutz usw. packst du am besten ins Ortlieb Accessory-Pack.
@@ -34,7 +34,7 @@ description: |
     + Handlebar-Pack
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Einzeltasche'
   - width: '30 cm'

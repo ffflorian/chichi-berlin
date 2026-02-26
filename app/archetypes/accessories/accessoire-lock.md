@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Granit Plus 640'
 manufacturer: 'ABUS'
 
-image: '/media/images/rubrics/accessories/items/locks-abus-u-granitplus640_1.jpg'
+image: '/media/images/categories/accessories/items/locks-abus-u-granitplus640_1.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/locks-abus-u-granitplus640_2.jpg'
+  - '/media/images/categories/accessories/items/locks-abus-u-granitplus640_2.jpg'
 
 
 description: >
@@ -17,7 +17,7 @@ description: >
 
 copyright: 'copyleft note'
 
-specs: 
+specs:
   - type: 'Bügel'
   - height: ''
   - breadth: ''

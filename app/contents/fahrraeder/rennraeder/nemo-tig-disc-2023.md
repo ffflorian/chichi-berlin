@@ -1,20 +1,20 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Nemo Tig Disc Ultegra'
 manufacturer: 'Cinelli'
 
-image: '/media/images/rubrics/bicycles/items/nemo-tig-disc-2023_01.jpg'
+image: '/media/images/categories/bicycles/items/nemo-tig-disc-2023_01.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/nemo-tig-disc-2023_02.jpeg'
-  - '/media/images/rubrics/bicycles/items/nemo-tig-disc-2023_03.jpeg'
-  - '/media/images/rubrics/bicycles/items/nemo-tig-disc-2023_04.jpeg'
-  - '/media/images/rubrics/bicycles/items/nemo-tig-disc-2023_05.jpeg'
-  - '/media/images/rubrics/bicycles/items/nemo-tig-disc-2023_06.jpeg'
-  - '/media/images/rubrics/bicycles/items/nemo-tig-disc-2023_07.jpeg'
+  - '/media/images/categories/bicycles/items/nemo-tig-disc-2023_02.jpeg'
+  - '/media/images/categories/bicycles/items/nemo-tig-disc-2023_03.jpeg'
+  - '/media/images/categories/bicycles/items/nemo-tig-disc-2023_04.jpeg'
+  - '/media/images/categories/bicycles/items/nemo-tig-disc-2023_05.jpeg'
+  - '/media/images/categories/bicycles/items/nemo-tig-disc-2023_06.jpeg'
+  - '/media/images/categories/bicycles/items/nemo-tig-disc-2023_07.jpeg'
 
 description: >
     Das Nemo Tig ist Cinellis neuester Hochleistungs-Stahlrennrahmen. Es wurde für Fahrer entwickelt, die es gewohnt sind, High-End-Carbon-Rennrahmen zu fahren und nicht bereit sind, das „Renngefühl“ zu opfern, aber nach etwas suchen, das unvergleichlich angenehm zu fahren ist, wie es nur ein Stahlrahmen sein kann. Ganz im Sinne seines großen Bruders, dem Supercorsa, ist das Nemo nicht nur eine präzise Maßanfertigung, sondern auch in unzähligen Farbvarianten erhältlich.

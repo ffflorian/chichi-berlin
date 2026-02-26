@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Werkzeuge'
@@ -9,7 +9,7 @@ section: 'tools'
 
 title: 'Werkzeuge'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/kategoriebild-werkzeuge.jpg'
+image: '/media/images/categories/accessories/items/kategoriebild-werkzeuge.jpg'
 
 weight: 2
 menu:

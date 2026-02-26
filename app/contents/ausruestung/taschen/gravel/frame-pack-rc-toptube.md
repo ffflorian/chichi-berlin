@@ -1,19 +1,19 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Frame-Pack RC Toptube'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-rc-toptube_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-rc-toptube_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-rc-toptube_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-rc-toptube_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-rc-toptube_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-rc-toptube_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-rc-toptube_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-rc-toptube_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-rc-toptube_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-rc-toptube_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-rc-toptube_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-rc-toptube_06.jpg'
 
 description: |
     Das Frame-Pack RC Toptube ist die Lösung für alle, die trotz Gepäckunterbringung im Rahmen weiterhin nicht auf die Mitnahme von Trinkflaschen verzichten möchten. Ebenso ist die wasserdichte Rahmentasche mit Rollverschluss ideal für alle Fullsuspension-MTB´s, deren Dämpfer den Platz im Rahmendreieck limitieren. Durch den wasserdichten Rollverschluss, der mit Silikonringen gesichert wird, erreicht die Tasche aus der Bikepacking-Serie den IP64-Standard und bewahrt dadurch das Equipment vor einem unfreiwilligen Bad. Das Frame-Pack RC Toptube ermöglicht durch die 4 Liter Volumen die Unterbringung von schweren Ausrüstungsgegenständen wie dem Zeltgestänge, Werkzeug oder Proviant innerhalb des Rahmendreiecks und verhilft damit zu einem niedrigen Schwerpunkt am Rad. Die variabel zu positionierenden, stabilen und haftstarken Klettverschlüße ermöglichen eine einfache und unkomplizierte Montage am Ober- und Sitzrohr des Rades.

@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Helme'
@@ -9,10 +9,10 @@ section: 'protection'
 
 title: 'Helme'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/helmet-stormchaser_01.jpg'
+image: '/media/images/categories/accessories/items/helmet-stormchaser_01.jpg'
 
 weight: 2
 menu:
-  - aside_accessories  
+  - aside_accessories
 
 ---

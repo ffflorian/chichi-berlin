@@ -1,16 +1,16 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Straggler'
 manufacturer: 'Surly'
 
-image: '/media/images/rubrics/bicycles/items/surly-straggler-2023_01.jpg'
+image: '/media/images/categories/bicycles/items/surly-straggler-2023_01.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/surly-straggler-2023_02.jpg'
-  - '/media/images/rubrics/bicycles/items/surly-straggler-2023_03.jpg'
+  - '/media/images/categories/bicycles/items/surly-straggler-2023_02.jpg'
+  - '/media/images/categories/bicycles/items/surly-straggler-2023_03.jpg'
 
 description: |
     Das Straggler ist auf Crossover-Erkundung auf eine Vielzahl von Geländebedingungen abgestimmt. Es ist ein Tagesausflügler und ein Weekender. Es ist ein Rennrad für unwegsame Straßen, ein Cyclocross-Bike ohne Anspruch auf Rennsport, ein praktisches Stadtrad, ein leichtes Tourenrad und ein Allwetter-Pendler. Betrachte es als „Rennrad für Mountainbiker“. Wenn Du in Deinem Leben nur Platz für ein Fahrrad hast, kann das Straggler Dein Ein und Alles sein.

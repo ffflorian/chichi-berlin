@@ -1,12 +1,12 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'TWIST bottle 800 + bike base'
 manufacturer: 'Fidlock'
 
-image: '/media/images/rubrics/accessories/items/bottle-fidlock-twist-bottle-800-bike-base_01.jpg'
+image: '/media/images/categories/accessories/items/bottle-fidlock-twist-bottle-800-bike-base_01.jpg'
 
 description: |
     Die neue TWIST bottle mit 800 ml Fassungsvermögen für die extra langen Ausfahrten. Einfaches Squeezen dank weichem Material und ultra-sicherer Halt dank Belt-Only Technologie bestehend aus einem flexiblen und widerstandsfähigen Gürtel, welcher an einem speziellem Connector verschraubt wird. Natürlich ist die TWIST bottle 800 trotz neuer Technologie weiterhin kompatibel mit allen TWIST bases.

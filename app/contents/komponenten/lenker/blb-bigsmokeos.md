@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Big Smoke OS'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/cockpit/handlebar-blb-bigsmokeos_1.jpeg'
+image: '/media/images/categories/parts/items/cockpit/handlebar-blb-bigsmokeos_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-blb-bigsmokeos_2.jpeg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-blb-bigsmokeos_2.jpeg'
 
 description: >
     Dieser megabreite Freestylelenker gibt Dir mehr Kontrolle und Komfort auf längeren Alltagswegen und lässt Dich etwas aufrechter sitzen. Durch das Oversize Klemmaß ist er besonders steif.

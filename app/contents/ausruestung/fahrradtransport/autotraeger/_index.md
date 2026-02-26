@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Autoträger'
@@ -9,11 +9,11 @@ section: 'car-racks'
 
 title: 'Auto&shy;träger'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 2
 menu:
-  - aside_accessories_transportation  
+  - aside_accessories_transportation
 
 draft: true
 

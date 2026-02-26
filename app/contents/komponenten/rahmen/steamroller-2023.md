@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Steamroller'
 manufacturer: 'Surly'
 
-image: '/media/images/rubrics/parts/items/surly-steamroller-2023_01.jpg'
+image: '/media/images/categories/parts/items/surly-steamroller-2023_01.jpg'
 
 images:
-  - '/media/images/rubrics/parts/items/surly-steamroller-2023_02.jpg'
+  - '/media/images/categories/parts/items/surly-steamroller-2023_02.jpg'
 
 description: >
     Steamroller ist das Fahrrad in seiner einfachsten Form. Obwohl es oft mit Singlespeed-Bahnrädern verglichen wird, ist es viel mehr als das. Gebaut, um auf bröckelnden Straßen der Stadt zu glänzen, ist es aufgrund seiner großen Reifenfreiheit eine großartige Wahl für minimalistische Pendler sowie engagierte Winterpendler, die wissen, welche verheerenden Auswirkungen Streusalz auf Antriebe hat.

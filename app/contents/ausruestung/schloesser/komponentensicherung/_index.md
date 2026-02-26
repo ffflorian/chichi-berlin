@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Komponentensicherung'
@@ -9,7 +9,7 @@ section: 'component'
 
 title: 'Komponenten&shy;sicherung'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/hexlox-assortment.jpg'
+image: '/media/images/categories/accessories/items/hexlox-assortment.jpg'
 
 weight: 6
 menu:

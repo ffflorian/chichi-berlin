@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Sonnenbrillen'
@@ -9,7 +9,7 @@ section: 'glasses'
 
 title: 'Sonnen&shy;brillen'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 8
 menu:

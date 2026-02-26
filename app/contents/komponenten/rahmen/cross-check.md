@@ -1,18 +1,18 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Cross-Check'
 manufacturer: 'Surly'
 
-image: '/media/images/rubrics/parts/items/surly-cross-check-2023_01.jpeg'
+image: '/media/images/categories/parts/items/surly-cross-check-2023_01.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/surly-cross-check-2023_02.jpeg'
-  - '/media/images/rubrics/parts/items/surly-cross-check-2023_03.jpeg'
-  - '/media/images/rubrics/parts/items/surly-cross-check-2023_04.jpeg'
-  - '/media/images/rubrics/parts/items/surly-cross-check-2023_05.jpeg'
+  - '/media/images/categories/parts/items/surly-cross-check-2023_02.jpeg'
+  - '/media/images/categories/parts/items/surly-cross-check-2023_03.jpeg'
+  - '/media/images/categories/parts/items/surly-cross-check-2023_04.jpeg'
+  - '/media/images/categories/parts/items/surly-cross-check-2023_05.jpeg'
 
 description: >
     Es gibt kein Fahrrad, das alles kann, aber Cross-Check kommt dem verdammt nahe. Es ist ein Pendler- und Nutzgerät. Es war ein "Gravel Crusher", lange bevor es "Gravel Bikes" gab. Einige Leute sind sogar Cyclocross-Rennen damit gefahren. So hat jeder die Möglichkeit das Cross-Check an Fahrstil und Vorlieben anzupassen.

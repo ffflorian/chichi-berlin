@@ -1,19 +1,19 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Cetero'
 manufacturer: 'ABUS'
 copyright: '© ABUS August Bremicker Söhne KG'
 
-image: '/media/images/rubrics/accessories/items/locks-abus-cable-cetero.jpg'
+image: '/media/images/categories/accessories/items/locks-abus-cable-cetero.jpg'
 
 description: |
     Guter Schutz bei mittlerem Diebstahlrisiko
     Empfohlen für die Absicherung guter Zweiräder
 
-specs: 
+specs:
   - type: 'Kabel'
   - length: '100cm'
   - weight: '1140g'

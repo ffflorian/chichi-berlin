@@ -1,23 +1,23 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Granit Plus 640'
 manufacturer: 'ABUS'
 copyright: '© ABUS August Bremicker Söhne KG'
 
-image: '/media/images/rubrics/accessories/items/locks-abus-u-granitplus640_1.jpg'
+image: '/media/images/categories/accessories/items/locks-abus-u-granitplus640_1.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/locks-abus-u-granitplus640_2.jpg'
+  - '/media/images/categories/accessories/items/locks-abus-u-granitplus640_2.jpg'
 
 description: |
     Guter Schutz bei hohem Diebstahlrisiko
     Empfohlen für die Absicherung hochwertiger Zweiräder
     Leichtes Kurierschloss
 
-specs: 
+specs:
   - type: 'Bügel'
   - breadth: '83mm'
   - weight: '860g'

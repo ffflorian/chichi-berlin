@@ -1,16 +1,16 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Pursuit OS'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/cockpit/handlebar-blb-pursuitos_1.jpeg'
+image: '/media/images/categories/parts/items/cockpit/handlebar-blb-pursuitos_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-blb-pursuitos_2.jpeg'
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-blb-pursuitos_3.jpeg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-blb-pursuitos_2.jpeg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-blb-pursuitos_3.jpeg'
 
 description: >
     Großartiges Vintage- Design zu einem fairen Preis. Auch erhältlich mit 26mm Klemmung.

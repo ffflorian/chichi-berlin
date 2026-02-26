@@ -1,19 +1,19 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Odessa'
 manufacturer: '6KU'
 
-image: '/media/images/rubrics/bicycles/items/odessa-2018_1.jpeg'
+image: '/media/images/categories/bicycles/items/odessa-2018_1.jpeg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/odessa-2018_2.jpeg'
-  - '/media/images/rubrics/bicycles/items/odessa-2018_3.jpeg'
-  - '/media/images/rubrics/bicycles/items/odessa-2018_4.jpeg'
-  - '/media/images/rubrics/bicycles/items/odessa-2018_5.jpeg'
-  - '/media/images/rubrics/bicycles/items/odessa-2018_6.jpeg'
+  - '/media/images/categories/bicycles/items/odessa-2018_2.jpeg'
+  - '/media/images/categories/bicycles/items/odessa-2018_3.jpeg'
+  - '/media/images/categories/bicycles/items/odessa-2018_4.jpeg'
+  - '/media/images/categories/bicycles/items/odessa-2018_5.jpeg'
+  - '/media/images/categories/bicycles/items/odessa-2018_6.jpeg'
 
 description: >
      Die perfekte Balance zwischen wettertauglichem Alltagsrad und dem kleinen sportlichen, das so wunderbar schnell und unkompliziert ist.

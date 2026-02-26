@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Vorhänge'
@@ -9,7 +9,7 @@ section: 'padlock'
 
 title: 'Vorhänge&shy;schlösser'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 5
 menu:

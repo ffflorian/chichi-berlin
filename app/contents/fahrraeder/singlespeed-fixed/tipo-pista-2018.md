@@ -1,18 +1,18 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Tipo Pista'
 manufacturer: 'Cinelli'
 
-image: '/media/images/rubrics/bicycles/items/tipo-pista-2018_1.jpg'
+image: '/media/images/categories/bicycles/items/tipo-pista-2018_1.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/tipo-pista-2018_2.jpg'
-  - '/media/images/rubrics/bicycles/items/tipo-pista-2018_3.jpg'
-  - '/media/images/rubrics/bicycles/items/tipo-pista-2018_4.jpg'
-  - '/media/images/rubrics/bicycles/items/tipo-pista-2018_5.jpg'
+  - '/media/images/categories/bicycles/items/tipo-pista-2018_2.jpg'
+  - '/media/images/categories/bicycles/items/tipo-pista-2018_3.jpg'
+  - '/media/images/categories/bicycles/items/tipo-pista-2018_4.jpg'
+  - '/media/images/categories/bicycles/items/tipo-pista-2018_5.jpg'
 
 description: >
     Das Tipo Pista ist das erschwingliche Resultat jahrelanger Erfahrung im Bau der schnellsten und wildesten urbanen Trackbikes. Eine geradlinige Track Geometrie, der klassisch runde Columbus Alu- Rohrsatz, die leichte Carbongabel und ausgeklügelte Details bieten eine super Grundlage - egal, ob Du es fixed oder als Singlespeeder fahren willst.

@@ -1,17 +1,17 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Super Pista'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/drive/crankset-blb-super-pista_1.jpeg'
+image: '/media/images/categories/parts/items/drive/crankset-blb-super-pista_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/drive/crankset-blb-super-pista_2.jpeg'
-  - '/media/images/rubrics/parts/items/drive/crankset-blb-super-pista_3.jpeg'
-  - '/media/images/rubrics/parts/items/drive/crankset-blb-super-pista_4.jpeg'
+  - '/media/images/categories/parts/items/drive/crankset-blb-super-pista_2.jpeg'
+  - '/media/images/categories/parts/items/drive/crankset-blb-super-pista_3.jpeg'
+  - '/media/images/categories/parts/items/drive/crankset-blb-super-pista_4.jpeg'
 
 description:
     Die Super Pista kommt mit verbesserten Werten bezüglich Gewicht und Steifigkeit. Durch die
@@ -24,10 +24,10 @@ specs:
   - bottom-bracket-fit: 'JIS'
   - chain-fit: '1/8"'
   - bcd: '144 mm'
-  - teeth: 
+  - teeth:
     - '46 T'
-    - '48 T' 
-  - colors: 
+    - '48 T'
+  - colors:
     - 'black'
     - 'silver'
 

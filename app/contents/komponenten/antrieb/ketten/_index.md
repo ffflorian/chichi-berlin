@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Ketten'
@@ -9,10 +9,10 @@ section: 'chains'
 
 title: 'Ketten'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/drive/chain-did-track_1'
+image: '/media/images/categories/parts/items/drive/chain-did-track_1'
 
 weight: 2
 menu:
-  - aside_parts_engine  
+  - aside_parts_engine
 
 ---

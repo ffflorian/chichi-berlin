@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 draft: true
@@ -9,9 +9,9 @@ linkTitle: 'Bereifung'
 slug: 'bereifung'
 section: 'tires'
 
-title: 'Bereifung' 
+title: 'Bereifung'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/'
+image: '/media/images/categories/parts/items/'
 
 weight: 4
 menu:

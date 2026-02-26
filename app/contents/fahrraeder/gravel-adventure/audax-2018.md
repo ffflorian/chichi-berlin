@@ -1,21 +1,21 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Audax'
 manufacturer: 'Bombtrack'
 
-image: '/media/images/rubrics/bicycles/items/audax-2018_1.jpg'
+image: '/media/images/categories/bicycles/items/audax-2018_1.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/audax-2018_2.jpg'
-  - '/media/images/rubrics/bicycles/items/audax-2018_3.jpg'
-  - '/media/images/rubrics/bicycles/items/audax-2018_4.jpg'
-  - '/media/images/rubrics/bicycles/items/audax-2018_5.jpg'
-  - '/media/images/rubrics/bicycles/items/audax-2018_6.jpg'
-  - '/media/images/rubrics/bicycles/items/audax-2018_7.jpg'
-  - '/media/images/rubrics/bicycles/items/audax-2018_8.jpg'
+  - '/media/images/categories/bicycles/items/audax-2018_2.jpg'
+  - '/media/images/categories/bicycles/items/audax-2018_3.jpg'
+  - '/media/images/categories/bicycles/items/audax-2018_4.jpg'
+  - '/media/images/categories/bicycles/items/audax-2018_5.jpg'
+  - '/media/images/categories/bicycles/items/audax-2018_6.jpg'
+  - '/media/images/categories/bicycles/items/audax-2018_7.jpg'
+  - '/media/images/categories/bicycles/items/audax-2018_8.jpg'
 
 description: >
     Ursprünglich als ein eher traditioneller Tourenrenner konzipiert, wurde das Audax zu einem Traum für modernes Ausdauertraining.

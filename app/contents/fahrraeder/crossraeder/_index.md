@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Crossräder'
@@ -9,7 +9,7 @@ section: 'cross'
 
 title: 'Cross&shy;räder'
 description: 'Training, schnelle Bewältigung langer Alltagswege, Wintertraining, befestigte und unbefestigte Wege'
-image: '/media/images/rubrics/bicycles/items/aventon-kijote-2023_02.jpeg'
+image: '/media/images/categories/bicycles/items/aventon-kijote-2023_02.jpeg'
 
 explanation: 'Training, schnelle Bewältigung langer Alltagswege, Wintertraining, befestigte und unbefestigte Wege'
 

@@ -1,19 +1,19 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Gravel-Pack'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-gravel-pack_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-gravel-pack_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-gravel-pack_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-gravel-pack_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-gravel-pack_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-gravel-pack_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-gravel-pack_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-gravel-pack_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-gravel-pack_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-gravel-pack_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-gravel-pack_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-gravel-pack_06.jpg'
 
 description: |
     Perfekt für eine mehrtägige Tour: Das Ortlieb Gravel-Pack Duo bietet dir 25 Liter Stauraum für zusätzliches Equipment wie Proviant, Kochgeschirr oder luxuriöse „Extras“. Durch die Anbringung am Lowrider-Gepäckträger hast du selbst mit viel Gepäck einen tiefen Schwerpunkt und unveränderte Agilität im Gelände.
@@ -42,7 +42,7 @@ description: |
     + QL2.1 Haken 18 mm (E211) & QL2.1 Haken 20 mm (E193)
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Taschenpaar'
   - width: '25 cm'

@@ -1,19 +1,19 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Kijote'
 manufacturer: 'Aventon'
 
-image: '/media/images/rubrics/bicycles/items/aventon-kijote-2023_01.jpeg'
+image: '/media/images/categories/bicycles/items/aventon-kijote-2023_01.jpeg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/aventon-kijote-2023_02.jpeg'
-  - '/media/images/rubrics/bicycles/items/aventon-kijote-2023_03.jpeg'
-  - '/media/images/rubrics/bicycles/items/aventon-kijote-2023_04.jpeg'
-  - '/media/images/rubrics/bicycles/items/aventon-kijote-2023_05.jpeg'
-  - '/media/images/rubrics/bicycles/items/aventon-kijote-2023_06.jpeg'
+  - '/media/images/categories/bicycles/items/aventon-kijote-2023_02.jpeg'
+  - '/media/images/categories/bicycles/items/aventon-kijote-2023_03.jpeg'
+  - '/media/images/categories/bicycles/items/aventon-kijote-2023_04.jpeg'
+  - '/media/images/categories/bicycles/items/aventon-kijote-2023_05.jpeg'
+  - '/media/images/categories/bicycles/items/aventon-kijote-2023_06.jpeg'
 
 description: >
 

@@ -1,23 +1,23 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Velocity'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-29l_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-velocity-29l_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-29l_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-29l_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-29l_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-29l_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-17l_01.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-23l_01.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-29l_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-29l_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-velocity-29l_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-velocity-29l_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-velocity-29l_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-velocity-29l_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-velocity-29l_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-velocity-17l_01.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-velocity-23l_01.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-velocity-29l_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-velocity-29l_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-velocity-29l_08.jpg'
 
 description: |
     Der Rucksack im Kuriertaschenstil ist seit Jahren eines der beliebtesten Ortlieb Produkte. Er ist einfach unschlagbar für den täglichen Einsatz in Schule, Studium, Sport und Freizeit – und für den Weg zur Arbeit. Der Velocity ist robust und wasserdicht und sein besonderes Markenzeichen ist das markante Rückenpolster, das für eine gute Hinterlüftung sorgt. Jetzt wurde das Tragesystem, insbesondere die Schulterträger, ergonomisch optimiert – für ein noch bequemeres Tragegefühl. Der Hüftgurt ist leicht verstellbar und sogar ganz abnehmbar.
@@ -48,7 +48,7 @@ description: |
     + Closure-Extension (E64): Verlängerung des Klettverschlusses bei großem Packvolumen
 
 specs:
-  - colors: 
+  - colors:
     - 'black'
     - 'petrol - black'
   - bag type: 'Einzeltasche'

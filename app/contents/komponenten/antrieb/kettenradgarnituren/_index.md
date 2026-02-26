@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Kettenradgarnituren'
@@ -9,10 +9,10 @@ section: 'cranks'
 
 title: 'Ketten&shy;rad&shy;garnituren'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/drive/crankset-blb-pista-vera_1.jpeg'
+image: '/media/images/categories/parts/items/drive/crankset-blb-pista-vera_1.jpeg'
 
 weight: 4
 menu:
-  - aside_parts_engine  
+  - aside_parts_engine
 
 ---

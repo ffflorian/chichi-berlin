@@ -1,12 +1,12 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Zentrierständer TS-2.2P'
 manufacturer: 'Parktool'
 
-image: '/media/images/rubrics/accessories/items/tool-parktool-truingstand-ts2.2.png'
+image: '/media/images/categories/accessories/items/tool-parktool-truingstand-ts2.2.png'
 
 description: >
     Der wahrscheinlich bekannteste Zentrierständer weltweit jetzt in einer umfassend verbesserten Neuauflage. Er kombiniert die bewährten Eigenschaften des Vorgängers TS-2 mit technologischem Fortschritt und erleichtert so die Arbeit nachhaltig.

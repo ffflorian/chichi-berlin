@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Shirts'
@@ -9,7 +9,7 @@ section: 'shirts'
 
 title: 'Shirts'
 description: 'Oberbekleidung'
-image: '/media/images/rubrics/accessories/items/shirts-cinelli-cosmic-riders_01.jpg'
+image: '/media/images/categories/accessories/items/shirts-cinelli-cosmic-riders_01.jpg'
 
 weight: 3
 menu:

@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Reflexartikel'
@@ -9,7 +9,7 @@ section: 'reflex'
 
 title: 'Reflex&shy;artikel'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 2
 menu:

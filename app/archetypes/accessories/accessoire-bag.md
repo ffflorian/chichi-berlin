@@ -1,16 +1,16 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: ''
 manufacturer: ''
 
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 description: >
 
-specs:  
+specs:
   - material:
   - breadth:
   - type:

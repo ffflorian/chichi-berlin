@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Quick Rack'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/ortlieb-quick-rack_01.jpg'
+image: '/media/images/categories/accessories/items/ortlieb-quick-rack_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/ortlieb-quick-rack_02.jpg'
+  - '/media/images/categories/accessories/items/ortlieb-quick-rack_02.jpg'
 
 description: |
     Verwandle dein Fahrrad im Handumdrehen vom leichten Fahrrad für sportliche Touren zu einem Transport-Rad zum Einkaufen und Pendeln – so bleibst du komplett flexibel. In nur 15 Sekunden ist der praktische Gepäckträger montiert und in nur 5 Sekunden wieder demontiert. Die Streben mit einem Rohrdurchmesser von 10 mm vertragen eine Zuladung von bis zu 20 Kilogramm. Der Quick Rack ist für alle Ortlieb Halterungssysteme geeignet, somit kannst du jede Ortlieb Tasche damit kombinieren. Durch zwei Einhängeebenen und eine Plattform können außerdem Seitentaschen und ein Korb zeitgleich genutzt und befestigt werden. Die optionalen Schutzbleche sorgen dafür, dass du auch bei schlechtem Wetter trocken und sauber bleibst.

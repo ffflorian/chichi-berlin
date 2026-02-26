@@ -1,22 +1,22 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Ultimate Six Classic 5 l'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-ultimate-six-classic-5l_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-ultimate-six-classic-5l_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-ultimate-six-classic-5l_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-ultimate-six-classic-5l_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-ultimate-six-classic-5l_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-ultimate-six-classic-5l_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-ultimate-six-classic-5l_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-ultimate-six-classic-5l_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-ultimate-six-classic-5l_08.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-ultimate-six-classic-5l_09.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-ultimate-six-classic-5l_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-ultimate-six-classic-5l_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-ultimate-six-classic-5l_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-ultimate-six-classic-5l_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-ultimate-six-classic-5l_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-ultimate-six-classic-5l_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-ultimate-six-classic-5l_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-ultimate-six-classic-5l_09.jpg'
 
 description: |
     Ein Ortlieb-Klassiker, der auf keiner Radtour fehlen darf! Die Ultimate Six Classic aus wasserdichtem Polyestergewebe gehört zur Basisausrüstung jedes Tourenradlers. Für das Plus an Stabilität sorgt der verstärkte Deckel mit Magnetverschluss. Kompatibel ist die Ultimate Six Classic mit allen Ortlieb Mounting Sets und Rixen & Kaul Adaptern. Mit abnehmbarem Schultergurt für komfortablen Transport zu Fuß.
@@ -44,7 +44,7 @@ description: |
     + Safe-It Gr. S - L (Modelle ab 2017)
 
 specs:
-  - colors: 
+  - colors:
     - 'petrol - black'
     - 'red - black'
     - 'black'

@@ -1,18 +1,18 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Mystic'
 manufacturer: 'Cinelli'
 
-image: '/media/images/rubrics/bicycles/items/mystic-2016_1.jpg'
+image: '/media/images/categories/bicycles/items/mystic-2016_1.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/mystic-2016_2.jpg'
+  - '/media/images/categories/bicycles/items/mystic-2016_2.jpg'
 
 description: >
-    Das Mystic ist ein plainer Singlespeeder mit Columbus Carbongabel. Es kommt mit Bremsen, wird 
+    Das Mystic ist ein plainer Singlespeeder mit Columbus Carbongabel. Es kommt mit Bremsen, wird
     dank der FlipFlop Nabe jedoch mit wenigen Handgriffen zum Fixie.
     "Bike of the year" - Ciclismo Magazin
 

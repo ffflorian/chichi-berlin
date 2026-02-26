@@ -1,20 +1,20 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Frame-Pack'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-4l_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-4l_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-4l_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-4l_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-4l_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-4l_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-4l_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-frame-pack-6l_01.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-4l_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-4l_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-4l_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-4l_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-4l_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-frame-pack-6l_01.jpg'
 
 description: |
     Bikepacking ist gelebter Minimalismus – ab in die Natur, mit minimalem Gepäck – für eine Übernachtung oder gleich für mehrere Tage! Mit dem Ortlieb Frame-Pack holst du selbst aus dem Rahmendreieck noch wertvollen Stauraum heraus. Dank des niedrigen Schwerpunkts nah am Fahrrad ist das Frame-Pack der ideale Aufbewahrungsort für schwerere Ausrüstungsgegenstände wie Werkzeug, Campingkocher oder Proviant. Das bewährte, wasserdichte Nylongewebe sorgt in Verbindung mit dem wasserdichten Tizip Reißverschluss (überarbeitete Version) dafür, dass der Inhalt selbst bei widrigsten Bedingungen absolut trocken bleibt. Die Montage ist denkbar einfach und erfolgt mit robusten, haftstarken Klettverschlüssen an der oberen Rahmenstange und seitlichen, variablen Straps um das Sattel- bzw. Unterrohr. Das Frame-Pack ist in den Größen 4 und 6 l erhältlich – je nach Größe deines Rahmendreiecks.
@@ -38,7 +38,7 @@ description: |
     + ausgeglichene Gewichtsverteilung am Rad
 
 specs:
-  - colors: 
+  - colors:
     - 'black matt'
   - bag type: 'Einzeltasche'
   - upper length: '40 cm / 50 cm'

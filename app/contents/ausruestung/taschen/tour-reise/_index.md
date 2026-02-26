@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Tour & Reise'
@@ -9,10 +9,10 @@ section: 'travel'
 
 title: 'Reise&shy;taschen'
 description: 'Lange Tour - viel Gepäck'
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-back-roller-classic_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-back-roller-classic_01.jpg'
 
 weight: 1
 menu:
-  - aside_accessories_bags  
+  - aside_accessories_bags
 
 ---

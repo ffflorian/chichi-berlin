@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Minipumpen'
@@ -9,7 +9,7 @@ section: 'mini'
 
 title: 'Mini&shy;pumpen'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 2
 menu:

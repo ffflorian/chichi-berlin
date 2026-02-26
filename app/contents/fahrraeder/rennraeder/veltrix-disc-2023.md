@@ -1,17 +1,17 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Veltrix Disc'
 manufacturer: 'Cinelli'
 
-image: '/media/images/rubrics/bicycles/items/cinelli-veltrix-disc_01.jpg'
+image: '/media/images/categories/bicycles/items/cinelli-veltrix-disc_01.jpg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/cinelli-veltrix-disc_02.jpeg'
-  - '/media/images/rubrics/bicycles/items/cinelli-veltrix-disc_03.jpeg'
-  - '/media/images/rubrics/bicycles/items/cinelli-veltrix-disc_04.jpeg'
+  - '/media/images/categories/bicycles/items/cinelli-veltrix-disc_02.jpeg'
+  - '/media/images/categories/bicycles/items/cinelli-veltrix-disc_03.jpeg'
+  - '/media/images/categories/bicycles/items/cinelli-veltrix-disc_04.jpeg'
 
 description: >
     Das Veltrix wurde für den Wettkampf entwickelt und ist ein schneller und reaktiver Carbon-Monocoque-Rahmen. Es ist einfach zu fahren und stellt sowohl diejenigen zufrieden, die Watt übrig haben, als auch diejenigen, die in konstantem Tempo unterwegs sein möchten. Die Abschnitte der Rahmenelemente wurden optimiert, um die Leichtigkeit und Steifheit der Kohlefaser optimal zu nutzen, was es sehr leistungsfähig macht.

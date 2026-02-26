@@ -1,16 +1,16 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Vario'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-vario_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-vario_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-vario_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-vario_03.jpg'
 
 description: |
     Vollwertiger Rucksack und praktische Fahrradtasche in einem? Gibt’s nicht? Gibt’s doch! Der Ortlieb Vario ist die Lösung für alle, die mit dem Fahrrad zur Arbeit oder Uni pendeln – und in der Mittagspause oder am Abend gerne mal in die Stadt bummeln. Der wasserdichte Vario aus robustem Nylongewebe ist ein echtes Platzwunder! Er bietet genug Stauraum für DIN A4 Dokumente und ein 15,4“ Laptop, Verpflegung für die Mittagspause und ein paar Einkäufe obendrein. Am Fahrrad lässt er sich wahlweise mit dem Quick-Lock 3.1- oder dem Quick-Lock 2.1 - Halterungssystem befestigen. Nach der Fahrt wird er ruckzuck zum Rucksack umfunktioniert: Dazu einfach das gepolsterte Rückentragesystem mit Schultergurten und Brustgurt aus der geräumigen Fronttasche nehmen und an der Taschenrückseite einhängen. Dank einer integrierten Halterung kann auch der Fahrradhelm sicher am Rucksack befestigt werden.
@@ -35,7 +35,7 @@ description: |
     + 2 Reflektoren
 
 specs:
-  - colors: 
+  - colors:
     - 'stahlblau'
     - 'schwarz'
   - bag type: 'Einzeltasche'

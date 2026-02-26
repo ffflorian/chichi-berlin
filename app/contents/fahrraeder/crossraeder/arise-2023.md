@@ -1,27 +1,27 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Arise'
 manufacturer: 'Bombtrack'
 
-image: '/media/images/rubrics/bicycles/items/arise-2023_01.jpeg'
+image: '/media/images/categories/bicycles/items/arise-2023_01.jpeg'
 
 images:
-  - '/media/images/rubrics/bicycles/items/arise-2023_02.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_03.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_04.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_05.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_06.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_07.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_08.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_09.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_10.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_11.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_12.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_13.jpeg'
-  - '/media/images/rubrics/bicycles/items/arise-2023_14.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_02.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_03.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_04.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_05.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_06.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_07.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_08.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_09.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_10.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_11.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_12.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_13.jpeg'
+  - '/media/images/categories/bicycles/items/arise-2023_14.jpeg'
 
 description: >
     Das Arise hat einen vielseitig einsetzbaren Rahmen, der als single speed kommt, aber bis 11-fach nachgerüstet werden kann.

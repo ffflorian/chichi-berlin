@@ -3,7 +3,7 @@
 
 
 {{ define "aside" }}
-{{ $pagesInTopMenu := where $.Site.Menus.top ".Page.File.UniqueID" .File.UniqueID }}    
+{{ $pagesInTopMenu := where $.Site.Menus.top ".Page.File.UniqueID" .File.UniqueID }}
 
 {{ if le (len $pagesInTopMenu) 0 }}
 <aside class="aside__flow" id="page-aside">
@@ -19,17 +19,17 @@
 {{ $contentsPath := "./app/contents" }}
 {{ $section := .Section }}
 {{ $parent := .Parent }}
-{{ $currentPage := . }}  
+{{ $currentPage := . }}
 
 <section class="edge-spacer--h">
-    
+
     <h1 class="page-title">{{ .Title | safeHTML }}</h1>
     {{ with $.Params.subtitle }}
     <p class="page-subtitle">{{ . }}</p>
     {{ end }}
-    
+
     {{ if gt (len .Sections) 0 }}
-    <ul class="rubric--grid for-categories">
+    <ul class="category--grid for-categories">
         {{ range sort .Sections ".Params.weight" "asc" }}
         {{ if not .Params.draft }}
         <li>
@@ -49,7 +49,7 @@
         {{ end }}
     </ul>
     {{ else if gt (len .Pages) 0}}
-    <ul class="rubric--grid for-items">
+    <ul class="category--grid for-items">
         {{ range sort .Pages ".Params.model" "asc" }}
         {{ if not .Params.draft }}
         <li>
@@ -69,8 +69,8 @@
         {{ end }}
     </ul>
     {{ end }}
-    
 
-    
+
+
 </section>
 {{ end }}

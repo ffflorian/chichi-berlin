@@ -1,20 +1,20 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Koi'
 manufacturer: 'Crane'
 
-image: '/media/images/rubrics/parts/items/cockpit/bell-crane-hand-koi_1.jpeg'
+image: '/media/images/categories/parts/items/cockpit/bell-crane-hand-koi_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/cockpit/bell-crane-hand-koi_2.jpeg'
+  - '/media/images/categories/parts/items/cockpit/bell-crane-hand-koi_2.jpeg'
 
 description: >
     Crane Glocken werde in Osaka, Japan hergestellt und einzeln per Hand bemalt, so ist jede etwas anders. Ihre traditionelle Gestaltung ist zeitlos, ihr Klang ist klar und hell.
 
-specs: 
+specs:
   - materials: 'alle Bauteile aus Metall'
   - clamp-size: '22,2 - 25,4mm'
   - diameter: '55mm'

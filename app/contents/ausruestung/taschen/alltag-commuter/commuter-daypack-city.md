@@ -1,23 +1,23 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Commuter-Daypack City'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-commuter-daypack-city-21l_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-commuter-daypack-city-21l_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-commuter-daypack-city-21l_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-commuter-daypack-city-21l_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-commuter-daypack-city-21l_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-commuter-daypack-city-21l_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-commuter-daypack-city-21l_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-commuter-daypack-city-21l_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-commuter-daypack-city-21l_08.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-commuter-daypack-city-21l_09.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-commuter-daypack-city-21l_10.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-commuter-daypack-city-21l_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-commuter-daypack-city-21l_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-commuter-daypack-city-21l_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-commuter-daypack-city-21l_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-commuter-daypack-city-21l_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-commuter-daypack-city-21l_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-commuter-daypack-city-21l_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-commuter-daypack-city-21l_09.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-commuter-daypack-city-21l_10.jpg'
 
 
 description: |
@@ -37,7 +37,7 @@ description: |
     + geeignet für Ordner im DIN A4-Format
 
 specs:
-  - colors: 
+  - colors:
     - 'black'
     - 'petrol'
     - 'rooibos'

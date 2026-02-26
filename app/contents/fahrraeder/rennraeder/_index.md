@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Rennräder'
@@ -9,7 +9,7 @@ section: 'road'
 
 title: 'Renn&shy;räder'
 description: 'Training, befestigte Wege'
-image: '/media/images/rubrics/bicycles/items/cinelli-veltrix-disc_01.jpg'
+image: '/media/images/categories/bicycles/items/cinelli-veltrix-disc_01.jpg'
 
 explanation: 'Training, befestigte Wege'
 

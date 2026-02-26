@@ -1,20 +1,20 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Sport-Roller High Visibility'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-high-vis_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-high-vis_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-high-vis_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-high-vis_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-high-vis_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-high-vis_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-high-vis_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-sport-roller-high-vis_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-high-vis_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-high-vis_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-high-vis_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-high-vis_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-high-vis_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-sport-roller-high-vis_07.jpg'
 
 description: |
     Eine brillante Idee für alle Ganzjahres- und Schlechtwetter-Radler: Die Ortlieb High Visibility Line verbessert die Sichtbarkeit des Radfahrers für andere Verkehrsteilnehmer enorm. Denn die High Visibility Taschen haben nicht nur Reflektoren – sie sind selbst ein einziger großer Reflektor. Dazu ist das wasserdichte PU-beschichtete Cordura-Gewebe komplett mit einem leuchtstarken Reflexgarn durchwebt – sowohl in der Farbe Neongelb als auch in der Farbe Schwarz. Das macht die High Visibility Taschen zu einer hochwirksamen Sicherheitsmaßnahme bei Dunkelheit oder in der Dämmerung.

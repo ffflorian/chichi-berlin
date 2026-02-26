@@ -1,18 +1,18 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Big Eazy Flat'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/cockpit/handlebar-blb-bigeazyflat_1.jpeg'
+image: '/media/images/categories/parts/items/cockpit/handlebar-blb-bigeazyflat_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-blb-aerobigeazyflat_2.jpeg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-blb-aerobigeazyflat_2.jpeg'
 
 description: >
-    Dieser megabreite Freestylelenker gibt Dir mehr Kontrolle und Komfort auf längeren Alltagswegen. 
+    Dieser megabreite Freestylelenker gibt Dir mehr Kontrolle und Komfort auf längeren Alltagswegen.
 
 specs:
   - width: '750mm'

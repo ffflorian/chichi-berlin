@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Rahmen'
 slug: 'rahmen'
 section: 'frames'
 
-title: 'Rahmen' 
+title: 'Rahmen'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/frames/bombtrack-oxbridge-2014.jpg'
+image: '/media/images/categories/parts/items/frames/bombtrack-oxbridge-2014.jpg'
 
 weight: 12
 menu:

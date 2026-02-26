@@ -1,12 +1,12 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Hammer Gummi / Stahl'
 manufacturer: 'Parktool'
 
-image: '/media/images/rubrics/accessories/items/tool-parktool-hammer-stahl-gummi.png'
+image: '/media/images/categories/accessories/items/tool-parktool-hammer-stahl-gummi.png'
 
 description: >
     Die jeweils mit zwei unterschiedlichen Aufschlagflächen ausgestatteten Werkstatt-Hämmer sind perfekt ausbalancierte Schlagwerkzeuge für zahlreiche Anwendungen.

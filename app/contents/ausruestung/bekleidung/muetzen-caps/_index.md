@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Mützen & Caps'
@@ -9,7 +9,7 @@ section: 'headdress'
 
 title: 'Mützen & Caps'
 description: 'Kopfbedeckung'
-image: '/media/images/rubrics/accessories/items/caps-cinelli-2014-caleido.jpg'
+image: '/media/images/categories/accessories/items/caps-cinelli-2014-caleido.jpg'
 
 weight: 3
 menu:

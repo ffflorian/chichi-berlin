@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Airbag (Hövding)'
@@ -9,7 +9,7 @@ section: 'airbags'
 
 title: 'Airbag'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/helmet-hoevding_01.jpg'
+image: '/media/images/categories/accessories/items/helmet-hoevding_01.jpg'
 
 weight: 1
 menu:

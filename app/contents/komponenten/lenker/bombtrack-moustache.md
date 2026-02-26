@@ -1,18 +1,18 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Moustache'
 manufacturer: 'Bombtrack'
 
-image: '/media/images/rubrics/parts/items/cockpit/handlebar-bombtrack-moustache_1.jpg'
+image: '/media/images/categories/parts/items/cockpit/handlebar-bombtrack-moustache_1.jpg'
 
 images:
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-bombtrack-moustache_2.jpg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-bombtrack-moustache_2.jpg'
 
 description: >
-    
+
 
 
 specs:

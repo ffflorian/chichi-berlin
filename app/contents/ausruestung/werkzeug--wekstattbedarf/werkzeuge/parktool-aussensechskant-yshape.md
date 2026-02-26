@@ -1,17 +1,17 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Außensechskant Y- Schlüssel'
 manufacturer: 'Parktool'
 
-image: '/media/images/rubrics/accessories/items/tool-parktool-aussensechskant-yshape.png'
+image: '/media/images/categories/accessories/items/tool-parktool-aussensechskant-yshape.png'
 
 description: >
     Die drei gängigsten Schrauben- und Mutternmaße kombiniert mit dem klassischen Park Tool Y-Schlüsseldesign, aus geschmiedetem CR-V Stahl.
 
-specs: 
+specs:
   - sizes:
     - '8'
     - '9'

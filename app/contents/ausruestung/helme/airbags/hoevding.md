@@ -1,16 +1,16 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Hövding 3.0'
 manufacturer: 'Hövding'
 
-image: '/media/images/rubrics/accessories/items/helmet-hoevding-opened-and-closed.jpg'
+image: '/media/images/categories/accessories/items/helmet-hoevding-opened-and-closed.jpg'
 
-images: 
-  - '/media/images/rubrics/accessories/items/helmet-hoevding-car-accident.jpg'
-  - '/media/images/rubrics/accessories/items/helmet-hoevding_01.jpg'
+images:
+  - '/media/images/categories/accessories/items/helmet-hoevding-car-accident.jpg'
+  - '/media/images/categories/accessories/items/helmet-hoevding_01.jpg'
 
 description: |
     Der Hövding schlägt jeden bisher dagewesenen Kopfschutz um Längen! Laut Studien der Universität Stanford senkt er das Risiko einer bleibenden Hirnverletzng bei einem Aufprall mit 25 Km/h von 90% (herkömmliche Hartschalenhelme) auf 2%. Zwei!
@@ -20,5 +20,5 @@ description: |
 
 specs:
   - model: 'Hövding 3.0'
-    
+
 ---

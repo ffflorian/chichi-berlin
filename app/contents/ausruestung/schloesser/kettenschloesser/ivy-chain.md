@@ -1,20 +1,20 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Ivy Chain'
 manufacturer: 'ABUS'
 copyright: '© ABUS August Bremicker Söhne KG'
 
-image: '/media/images/rubrics/accessories/items/locks-abus-chain-ivy.jpg'
+image: '/media/images/categories/accessories/items/locks-abus-chain-ivy.jpg'
 
 description: |
     Sehr guter Schutz bei hohem Diebstahlrisiko
     Empfohlen für die Absicherung hochwertiger Zweiräder
     Je größer das Längenmaß, desto einfacher das Anschließen an einen festen Gegenstand
 
-specs: 
+specs:
   - type: 'Kette'
   - length: '85cm'
   - weight: '2450g'

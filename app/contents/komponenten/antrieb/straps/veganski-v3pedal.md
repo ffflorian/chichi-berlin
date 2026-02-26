@@ -1,18 +1,18 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'V3 Pedal'
 manufacturer: 'Veganski'
 
-image: '/media/images/rubrics/parts/items/drive/straps-veganski-v3pedal_1.jpeg'
+image: '/media/images/categories/parts/items/drive/straps-veganski-v3pedal_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/drive/straps-veganski-v3pedal_2.jpeg'
-  - '/media/images/rubrics/parts/items/drive/straps-veganski-v3pedal_3.jpeg'
-  - '/media/images/rubrics/parts/items/drive/straps-veganski-v3pedal_4.jpeg'
-  - '/media/images/rubrics/parts/items/drive/straps-veganski-v3pedal_5.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-veganski-v3pedal_2.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-veganski-v3pedal_3.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-veganski-v3pedal_4.jpeg'
+  - '/media/images/categories/parts/items/drive/straps-veganski-v3pedal_5.jpeg'
 
 
 description: >

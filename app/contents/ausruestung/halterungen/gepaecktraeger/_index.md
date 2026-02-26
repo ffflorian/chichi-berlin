@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Gepäckträger'
@@ -9,11 +9,11 @@ section: 'racks'
 
 title: 'Gepäck&shy;träger'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 1
 menu:
-  - aside_accessories_mounts 
+  - aside_accessories_mounts
 
 draft: true
 

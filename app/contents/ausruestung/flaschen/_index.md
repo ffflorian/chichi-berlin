@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Trinkflaschen & -halterungen'
@@ -9,10 +9,10 @@ section: 'bottles'
 
 title: 'Trink&shy;flaschen & -halterungen'
 description: 'Erfrischung immer griffbereit'
-image: '/media/images/rubrics/accessories/items/bottle-fidlock-twist-bottle-800-bike-base_01.jpg'
+image: '/media/images/categories/accessories/items/bottle-fidlock-twist-bottle-800-bike-base_01.jpg'
 
 weight: 3
 menu:
-  - aside_accessories_bottles  
+  - aside_accessories_bottles
 
 ---

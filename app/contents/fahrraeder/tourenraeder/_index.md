@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Tour & Vielfahrer'
@@ -9,7 +9,7 @@ section: 'tour-commuter'
 
 title: 'Tour & Vielfahrer'
 description: 'Vollausgestattet, Allwetter, Commuting, Mittel- und Langdistanz, ausgedehnte Touren mit Gepäck'
-image: '/media/images/rubrics/bicycles/items/cinelli-hobootleg-2022_01.jpeg'
+image: '/media/images/categories/bicycles/items/cinelli-hobootleg-2022_01.jpeg'
 
 explanation: 'Vollausgestattet, Allwetter, Commuting, Mittel- und Langdistanz, ausgedehnte Touren mit Gepäck'
 

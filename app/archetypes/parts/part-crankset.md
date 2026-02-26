@@ -1,12 +1,12 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Pista Vera'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/'
+image: '/media/images/categories/parts/items/'
 
 specs:
   - type: '1-fach'

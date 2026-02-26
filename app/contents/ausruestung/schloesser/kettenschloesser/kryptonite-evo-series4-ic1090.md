@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Evolution Series 4 Integrated Chain 1090'
 manufacturer: 'Kryptonite'
 
-image: '/media/images/rubrics/accessories/items/krypto-evo4-ic_1.jpg'
+image: '/media/images/categories/accessories/items/krypto-evo4-ic_1.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/krypto-evo4-ic_2.jpg'
+  - '/media/images/categories/accessories/items/krypto-evo4-ic_2.jpg'
 
 description: >
     10mm starke, sechseckige Kettenglieder aus extra hartem 3t Mangan-Stahl.
@@ -18,7 +18,7 @@ description: >
     Verstärktes Hochsicherheits-Scheibenzylinderschloss gegen Picking und Aufbohren gesichert.
     Evolution Series 4 Verschlusskopf
 
-specs: 
+specs:
   - type: 'Kette'
   - lenght: '90 cm'
   - weight: '2,77 kg'

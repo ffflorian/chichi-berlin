@@ -1,17 +1,17 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Freestyle'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/drive/crankset-blb-freestyle_1.jpeg'
+image: '/media/images/categories/parts/items/drive/crankset-blb-freestyle_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/drive/crankset-blb-freestyle_2.jpeg'
-  - '/media/images/rubrics/parts/items/drive/crankset-blb-freestyle_3.jpeg'
-  - '/media/images/rubrics/parts/items/drive/crankset-blb-freestyle_4.jpeg'
+  - '/media/images/categories/parts/items/drive/crankset-blb-freestyle_2.jpeg'
+  - '/media/images/categories/parts/items/drive/crankset-blb-freestyle_3.jpeg'
+  - '/media/images/categories/parts/items/drive/crankset-blb-freestyle_4.jpeg'
 
 description:
     Super strapazierfähig dank der besonderen Steifigkeit und Stärke des verwendeten Materials.
@@ -23,7 +23,7 @@ specs:
   - chain-fit: '1/8"'
   - bcd: '130 mm'
   - teeth: 44
-  - colors: 
+  - colors:
     - 'grün'
     - 'pink'
     - 'lila'

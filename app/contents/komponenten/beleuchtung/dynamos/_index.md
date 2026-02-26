@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 draft: true
@@ -11,10 +11,10 @@ section: 'dynamos'
 
 title: 'Dynamos'
 description: 'TODO'
-image: '/media/images/rubrics/parts/items/'
+image: '/media/images/categories/parts/items/'
 
 weight: 1
 menu:
-  - aside_parts_light  
+  - aside_parts_light
 
 ---

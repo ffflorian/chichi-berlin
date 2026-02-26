@@ -1,20 +1,20 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Water-Bag'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-water-bag_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-water-bag_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-water-bag_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-water-bag_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-water-bag_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-water-bag_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-water-bag_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-water-bag_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-water-bag_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-water-bag_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-water-bag_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-water-bag_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-water-bag_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-water-bag_07.jpg'
 
 description: |
     Schluss mit unhandlichen Wasserflaschen oder Kanistern. Der kompakte Wasserbeutel (erhältlich für 2, 4 und 10 L) ist mit Gurtbandgriffen mit Steckschnallen ausgestattet und kann am Rucksack befestigt werden. Das Gewebe außen ist reiß- und wasserfest, die Beschichtung innen für Trinkwasser geeignet.
@@ -41,7 +41,7 @@ description: |
     + 1 Tragegriff ohne Steckschnalle bei der 2 Liter Version
 
 specs:
-  - colors: 
+  - colors:
     - 'blue'
     - 'black'
   - bag type: 'Einzeltasche'

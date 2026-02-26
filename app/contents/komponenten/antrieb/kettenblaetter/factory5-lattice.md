@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Lattice'
 manufacturer: 'Factory 5'
 
-image: '/media/images/rubrics/parts/items/drive/chainring-factory5-lattice_1.jpeg'
+image: '/media/images/categories/parts/items/drive/chainring-factory5-lattice_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/drive/chainring-factory5-lattice_2.jpeg'
+  - '/media/images/categories/parts/items/drive/chainring-factory5-lattice_2.jpeg'
 
 description: >
     F5 went back to the drawing board with this one and came up with something technically innovative and intrinsically beautiful. In other words, it's freaking light and euphemistically gorgeous.
@@ -26,5 +26,5 @@ specs:
   - colors:
     - 'schwarz'
     - 'silber'
-    
+
 ---

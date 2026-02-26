@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Fahrradwandhalter'
@@ -9,11 +9,11 @@ section: 'wall'
 
 title: 'Fahrrad&shy;wand&shy;halter'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/'
+image: '/media/images/categories/accessories/items/'
 
 weight: 4
 menu:
-  - aside_accessories_mounts 
+  - aside_accessories_mounts
 
 draft: true
 

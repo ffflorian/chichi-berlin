@@ -1,15 +1,15 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Big Bullhorn'
 manufacturer: 'BLB'
 
-image: '/media/images/rubrics/parts/items/cockpit/handlebar-blb-bullhorn_1.jpeg'
+image: '/media/images/categories/parts/items/cockpit/handlebar-blb-bullhorn_1.jpeg'
 
 images:
-  - '/media/images/rubrics/parts/items/cockpit/handlebar-blb-bullhorn_2.jpeg'
+  - '/media/images/categories/parts/items/cockpit/handlebar-blb-bullhorn_2.jpeg'
 
 description: >
     Schmaler, gerader Alu-Lenker - perfekt, um sich durch dichten Verkehr zu quetschen.

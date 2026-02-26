@@ -1,12 +1,12 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Nemo Tig Disc'
 manufacturer: 'Cinelli'
 
-image: '/media/images/rubrics/parts/items/frames/nemo-tig-disc-2018_1.jpg'
+image: '/media/images/categories/parts/items/frames/nemo-tig-disc-2018_1.jpg'
 
 description: >
    The Nemo TIG is Cinelli’s latest Made in Italy high-performance steel road frame. It looks and rides the way in which the legendary Supercorsa – the world’s longest running production steel frame – might have looked had it been designed for racing today rather than in the 1950s.
@@ -24,7 +24,7 @@ specs:
   - tyres: 'bis 28mm'
   - brakes: 'F&R Flat mount disc brake, rotor size up to 160mm (not included)'
   - seatpost: '27,2'
-  - sizes: 
+  - sizes:
     - '48'
     - '51'
     - '54'

@@ -1,21 +1,21 @@
 ---
 
-type: 'rubric'
+type: 'category'
 
 
 model: 'Messenger-Bag'
 manufacturer: 'Ortlieb'
 
-image: '/media/images/rubrics/accessories/items/bags-ortlieb-messenger-bag_01.jpg'
+image: '/media/images/categories/accessories/items/bags-ortlieb-messenger-bag_01.jpg'
 
 images:
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-messenger-bag_02.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-messenger-bag_03.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-messenger-bag_04.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-messenger-bag_05.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-messenger-bag_06.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-messenger-bag_07.jpg'
-  - '/media/images/rubrics/accessories/items/bags-ortlieb-messenger-bag_08.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-messenger-bag_02.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-messenger-bag_03.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-messenger-bag_04.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-messenger-bag_05.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-messenger-bag_06.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-messenger-bag_07.jpg'
+  - '/media/images/categories/accessories/items/bags-ortlieb-messenger-bag_08.jpg'
 
 description: |
     Kuriertasche der Profis: Markantes Design, robuste Funktionalität und ein hervorragendes Tragesystem machen sie zum Klassiker – nicht nur für Fahrradkuriere. Hart im Nehmen und smart genug für den Großstadt-Dschungel: Die Messenger-Bag ist beliebt bei Fahrradkurieren und Vielradlern weltweit. Sie begeistert durch ihr schlankes, funktionales Design, das wasserdichte Planenmaterial, das jedem Wetter trotzt und den praktischen Rollverschluss, der eine flexible Packhöhe für insgesamt 39 l Volumen ermöglicht.
@@ -39,7 +39,7 @@ description: |
     + Closure-Extension
 
 specs:
-  - colors: 
+  - colors:
     - 'black - sun yellow'
     - 'red - black'
     - 'black'

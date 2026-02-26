@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 configurable: true
 related-posts:
   - 'manufaktur'
@@ -8,7 +8,7 @@ related-posts:
 model: 'Salerno'
 manufacturer: 'Contoura Manufaktur'
 
-image: '/media/images/rubrics/bicycles/items/salerno-2017_1.jpg'
+image: '/media/images/categories/bicycles/items/salerno-2017_1.jpg'
 
 description: |
     Das Starrgabelmodell „Salerno“ setzt auf ein Höchstmaß an Alltagstauglichkeit und ist in drei Rahmenformen und maximaler Optionsbandbreite individuell konfigurierbar. Hier findet der bekennende Manufaktur-Liebhaber alles was das Herz begehrt und kann sein Unikat erstellen. Sechs Naben- sowie vier Kettenschaltungsversionen stehen alternativ zur Wahl. Die Liste der individuellen Ausstattungsanpassungen ist zudem noch etwas größer als bei ähnlichen Modellen.

@@ -1,6 +1,6 @@
 ---
 
-type: 'rubric'
+type: 'category'
 layout: 'categories'
 
 linkTitle: 'Bügel'
@@ -9,7 +9,7 @@ section: 'u-lock'
 
 title: 'Bügel&shy;schlösser'
 description: 'TODO'
-image: '/media/images/rubrics/accessories/items/locks-abus-u-granitplus640_1.jpg'
+image: '/media/images/categories/accessories/items/locks-abus-u-granitplus640_1.jpg'
 
 weight: 2
 menu:
